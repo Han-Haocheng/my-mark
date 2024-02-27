@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "b2db3347e7ae07ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e53873bc74cb457",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "598c997ca16bad74",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ea65f340d222814c",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c3fa6faa1d3a76b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "23d4b77b0eaa1eaf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "797b2dd1ac512482",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "73d2e2208e908c46",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 216.5
+  },
+  "right": {
+    "id": "244e88c3e2d53ced",
+    "type": "split",
+    "children": [
+      {
+        "id": "e771f89bda85e7fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79bba04a9897873d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d5023acd77484db3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0afee2e2c57dd4cd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "151cef56444d20ad",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "未命名.md"
+              }
+            }
+          },
+          {
+            "id": "f6d12a0e28e30d27",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 279.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "23d4b77b0eaa1eaf",
+  "lastOpenFiles": [
+    "未命名.md",
+    "计算机组成原理/第6章 计算机的运算方法/6.3 定点运算.md",
+    "计算机组成原理/第6章 计算机的运算方法/6.2 数的定点表示和浮点表示.md",
+    "计算机组成原理/第6章 计算机的运算方法/6.1 无符号数和有符号数.md"
+  ]
+}
