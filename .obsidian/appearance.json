@@ -1,5 +1,9 @@
 {
   "accentColor": "",
   "textFontFamily": "Microsoft YaHei",
-  "monospaceFontFamily": "Consolas"
+  "monospaceFontFamily": "Consolas",
+  "baseFontSize": 17,
+  "baseFontSizeAction": true,
+  "cssTheme": "Blue Topaz",
+  "showViewHeader": true
 }
