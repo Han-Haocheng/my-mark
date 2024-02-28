@@ -1,6 +1,6 @@
 {
   "livePreview": false,
-  "tabSize": 4,
+  "tabSize": 2,
   "showLineNumber": true,
   "rightToLeft": false,
   "attachmentFolderPath": "./vx_images",
@@ -12,5 +12,8 @@
     "vx_notebook/",
     "vx_recycle_bin/"
   ],
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "useTab": false,
+  "strictLineBreaks": true,
+  "vimMode": false
 }
