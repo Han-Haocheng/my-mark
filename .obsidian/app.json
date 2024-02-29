@@ -15,5 +15,6 @@
   "showInlineTitle": false,
   "useTab": false,
   "strictLineBreaks": true,
-  "vimMode": false
+  "vimMode": false,
+  "alwaysUpdateLinks": true
 }
