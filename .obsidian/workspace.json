@@ -6,53 +6,40 @@
       {
         "id": "1e53873bc74cb457",
         "type": "tabs",
+        "dimension": 47.01670644391408,
         "children": [
-          {
-            "id": "543bd489c63ad427",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "计算机组成原理/计算机组成原理.md",
-                "mode": "source",
-                "source": true
-              },
-              "pinned": true
-            }
-          },
           {
             "id": "09d7f452a40db872",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机组成原理/第3章 系统总线/3.5 总线控制.md",
+                "file": "设计模式/设计模式.md",
                 "mode": "source",
                 "source": true
               }
             },
-            "group": "ce86a9414a69d566"
+            "group": "bd92f29a1f83a437"
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "31a43a742bc5bd6a",
+        "id": "b41c4b09484ce9fc",
         "type": "tabs",
+        "dimension": 52.98329355608592,
         "children": [
           {
-            "id": "b0dd5dfbf6d79377",
+            "id": "8072f7bd9c3c156f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机组成原理/第3章 系统总线/3.5 总线控制.md",
+                "file": "设计模式/设计模式.md",
                 "mode": "preview",
                 "source": true
               }
             },
-            "group": "ce86a9414a69d566"
+            "group": "bd92f29a1f83a437"
           }
         ]
       }
@@ -83,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#思考",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -120,11 +107,10 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机组成原理/第3章 系统总线/3.5 总线控制.md",
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
@@ -137,8 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机组成原理/第3章 系统总线/3.5 总线控制.md",
-                "linksCollapsed": false,
+                "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -159,9 +144,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "计算机组成原理/第3章 系统总线/3.5 总线控制.md"
-              }
+              "state": {}
             }
           },
           {
@@ -195,8 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 305.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,50 +190,54 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b0dd5dfbf6d79377",
+  "active": "8264e0a11e051c82",
   "lastOpenFiles": [
-    "计算机组成原理/第3章 系统总线/3.4 总线结构.md",
-    "计算机组成原理/第3章 系统总线/3.3 总线特性及性能指标.md",
-    "计算机组成原理/第3章 系统总线/3.2 总线的分类.md",
-    "计算机组成原理/第3章 系统总线/3.1 总线的基本概念.md",
-    "计算机组成原理/计算机组成原理.md",
-    "计算机组成原理/第7章 指令系统/7.1 机器指令.md",
-    "计算机组成原理/第7章 指令系统/7.2 操作数类型和操作类型.md",
-    "计算机组成原理/第6章 计算机的运算方法/第6章 计算机的运算方法.md",
-    "计算机组成原理/第6章 计算机的运算方法/6.5 算数逻辑单元.md",
-    "计算机组成原理/第6章 计算机的运算方法/6.4 浮点四则运算.md",
-    "计算机组成原理/第6章 计算机的运算方法/6.3 定点运算.md",
-    "计算机组成原理/第6章 计算机的运算方法/6.2 数的定点表示和浮点表示.md",
-    "计算机组成原理/第6章 计算机的运算方法/6.1 无符号数和有符号数.md",
-    "计算机组成原理/第5章 输入输出设备/第5章 输入输出设备.md",
-    "计算机组成原理/第5章 输入输出设备/5.6 DMA方式.md",
-    "计算机组成原理/第5章 输入输出设备/5.5 程序中断方式.md",
-    "计算机组成原理/第5章 输入输出设备/5.4 程序查询方式.md",
-    "计算机组成原理/第5章 输入输出设备/5.3 IO接口.md",
-    "计算机组成原理/第5章 输入输出设备/5.2 外部设备.md",
-    "计算机组成原理/第5章 输入输出设备/5.1 概述.md",
-    "计算机组成原理/第3章 系统总线/3.5 总线控制.md",
-    "计算机组成原理/第3章 系统总线/第3章 系统总线.md",
-    "计算机组成原理/第4章 存储器/4.1 存储器概述.md",
-    "计算机组成原理/第4章 存储器/4.2 主存储器.md",
-    "计算机组成原理/第4章 存储器/4.3 高速缓冲存储器.md",
-    "计算机组成原理/第4章 存储器/4.4 辅助存储器.md",
-    "计算机组成原理/第7章 指令系统/vx_images/Pasted image 20240229200328.png",
+    "设计模式/设计模式.md",
+    "设计模式/行为型模式/第3章 行为型模式.md",
+    "设计模式/创建型模式/1.2 抽象工厂(Abstract Factory).md",
+    "设计模式/行为型模式/3.1 备忘录(Memento).md",
+    "设计模式/行为型模式/未命名 1.md",
+    "设计模式/行为型模式/3.11 状态模式(State).md",
+    "设计模式/行为型模式/3.10中介者(Mediator).md",
+    "设计模式/行为型模式/4.10中介者(Mediator).md",
+    "设计模式/行为型模式/3.9 职责链(Chain of Resposibility).md",
+    "设计模式/行为型模式/3.8 模板方法(Template Method).md",
+    "设计模式/行为型模式/3.7 命令模式(Command).md",
+    "设计模式/行为型模式/3.6 解析器(Interpreter).md",
+    "设计模式/行为型模式/3.5 观察者模式(ObserverEvent).md",
+    "设计模式/行为型模式/3.4 访问器(Visitor).md",
+    "设计模式/行为型模式/3.3 迭代器模式(Iteraotr).md",
+    "设计模式/行为型模式/3.2 策略模式(Strategy).md",
+    "设计模式/结构型模式/第2章 结构型模式.md",
+    "设计模式/结构型模式/2.7 组合模式(Composite).md",
+    "设计模式/结构型模式/2.6 装饰模式(Decorator).md",
+    "设计模式/结构型模式/2.5 享元模式(Flyweight).md",
+    "设计模式/结构型模式/2.4 适配器(Adapter).md",
+    "设计模式/结构型模式/2.3 桥模式(Bridge).md",
+    "设计模式/结构型模式/2.2 门面模式(Facade).md",
+    "设计模式/结构型模式/2.1 代理模式(Proxy).md",
+    "设计模式/创建型模式/第1章 创建型模式.md",
+    "设计模式/创建型模式/1.4 原型模式(Prototype).md",
+    "设计模式/行为型模式",
+    "设计模式/结构型模式",
+    "设计模式/创建型模式",
+    "设计模式/设计模式",
+    "设计模式/计算机科学/设计模式",
+    "设计模式/计算机科学",
+    "设计模式/_resources/fab2c1aa77474070b512e0e4ac4d6e69.png",
+    "设计模式/_resources/b3d0a45aa83245dcb06623ac6a45b321.png",
+    "设计模式/_resources/c974953dfa2c4823bb2e1cddefff3e1b.png",
+    "设计模式/_resources/67fd74d0c39d402bac91549e6bfc9ce2.png",
+    "设计模式/_resources/e569501ada494872ade62e181aff8a68.png",
+    "设计模式/_resources/bc15b83ab5a34150b10e8e1a9a5a13f7.png",
+    "设计模式/_resources/492f3631e64e4f938f1a6e3540009e85.png",
+    "设计模式/_resources/04731dc33fd741508f292b90aaf03562.png",
+    "设计模式/_resources/ad9f0a0db17d4701849418c169f05f0a.png",
+    "设计模式/_resources/590d9abb22964ecb886a8cebaeadca62.png",
+    "设计模式/_resources",
+    "设计模式/新建文件夹",
+    "人工智能/未命名.canvas",
     "计算机组成原理/第7章 指令系统/vx_images",
-    "未命名.canvas",
-    "计算机组成原理/第7章 指令系统/第7章 指令系统",
-    "计算机组成原理/第7章 指令系统",
-    "计算机组成原理/第6章 计算机的运算方法/vx_images/Pasted image 20240228162714.png",
-    "计算机组成原理/第6章 计算机的运算方法/vx_images/Pasted image 20240228161837.png",
-    "计算机组成原理/第6章 计算机的运算方法/vx_images/Pasted image 20240228161453.png",
-    "计算机组成原理/第6章 计算机的运算方法/vx_images/Pasted image 20240228161229.png",
-    "计算机组成原理/第6章 计算机的运算方法/vx_images/Pasted image 20240228161145.png",
-    "计算机组成原理/第6章 计算机的运算方法/vx_images/Pasted image 20240228153927.png",
-    "计算机组成原理/第6章 计算机的运算方法/vx_images/Pasted image 20240228153226.png",
-    "计算机组成原理/第6章 计算机的运算方法/vx_images/Pasted image 20240228151520.png",
-    "计算机组成原理/第6章 计算机的运算方法/vx_images/Pasted image 20240228141732.png",
-    "计算机组成原理/第3章 系统总线/vx_images/3.5 总线结构 - 绘图.vsdx",
-    "第1章 计算机概述",
-    "vx_notebook/notebook.db-journal"
+    "计算机组成原理/第7章 指令系统/第7章 指令系统"
   ]
 }
