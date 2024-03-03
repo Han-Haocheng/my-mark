@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "设计模式/设计模式.md",
+                "file": "计算机组成原理/第8章 CPU的结构和功能/8.1 CPU的结构.md",
                 "mode": "source",
                 "source": true
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "设计模式/设计模式.md",
+                "file": "计算机组成原理/第8章 CPU的结构和功能/8.1 CPU的结构.md",
                 "mode": "preview",
                 "source": true
               }
@@ -107,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "计算机组成原理/第8章 CPU的结构和功能/8.1 CPU的结构.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,6 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "计算机组成原理/第8章 CPU的结构和功能/8.1 CPU的结构.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +146,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "计算机组成原理/第8章 CPU的结构和功能/8.1 CPU的结构.md"
+              }
             }
           },
           {
@@ -178,7 +182,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 305.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,8 +195,23 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "8264e0a11e051c82",
+  "active": "09d7f452a40db872",
   "lastOpenFiles": [
+    "计算机组成原理/第8章 CPU的结构和功能/8.2 指令周期.md",
+    "计算机组成原理/第8章 CPU的结构和功能/8.1 CPU的结构.md",
+    "计算机组成原理/第8章 CPU的结构和功能/vx_images/Pasted image 20240303095607.png",
+    "计算机组成原理/第8章 CPU的结构和功能/vx_images/Pasted image 20240303095158.png",
+    "计算机组成原理/第8章 CPU的结构和功能/vx_images",
+    "计算机组成原理/第8章 CPU的结构和功能/8.4 中断系统.md",
+    "计算机组成原理/第8章 CPU的结构和功能/8.3 指令流水.md",
+    "计算机组成原理/第8章 CPU的结构和功能/第8章 CPU的结构和功能.md",
+    "计算机组成原理/计算机组成原理.md",
+    "计算机组成原理/第8章 CPU的结构和功能",
+    "计算机组成原理/第7章 指令系统/7.5 RISC技术.md",
+    "计算机组成原理/未命名",
+    "计算机组成原理/第7章 指令系统/7.4 指令格式.md",
+    "计算机组成原理/第7章 指令系统/7.3 寻址方式.md",
+    "计算机组成原理/第7章 指令系统/第7章 指令系统.md",
     "设计模式/设计模式.md",
     "设计模式/行为型模式/第3章 行为型模式.md",
     "设计模式/创建型模式/1.2 抽象工厂(Abstract Factory).md",
@@ -207,17 +227,6 @@
     "设计模式/行为型模式/3.5 观察者模式(ObserverEvent).md",
     "设计模式/行为型模式/3.4 访问器(Visitor).md",
     "设计模式/行为型模式/3.3 迭代器模式(Iteraotr).md",
-    "设计模式/行为型模式/3.2 策略模式(Strategy).md",
-    "设计模式/结构型模式/第2章 结构型模式.md",
-    "设计模式/结构型模式/2.7 组合模式(Composite).md",
-    "设计模式/结构型模式/2.6 装饰模式(Decorator).md",
-    "设计模式/结构型模式/2.5 享元模式(Flyweight).md",
-    "设计模式/结构型模式/2.4 适配器(Adapter).md",
-    "设计模式/结构型模式/2.3 桥模式(Bridge).md",
-    "设计模式/结构型模式/2.2 门面模式(Facade).md",
-    "设计模式/结构型模式/2.1 代理模式(Proxy).md",
-    "设计模式/创建型模式/第1章 创建型模式.md",
-    "设计模式/创建型模式/1.4 原型模式(Prototype).md",
     "设计模式/行为型模式",
     "设计模式/结构型模式",
     "设计模式/创建型模式",
@@ -232,12 +241,7 @@
     "设计模式/_resources/bc15b83ab5a34150b10e8e1a9a5a13f7.png",
     "设计模式/_resources/492f3631e64e4f938f1a6e3540009e85.png",
     "设计模式/_resources/04731dc33fd741508f292b90aaf03562.png",
-    "设计模式/_resources/ad9f0a0db17d4701849418c169f05f0a.png",
-    "设计模式/_resources/590d9abb22964ecb886a8cebaeadca62.png",
     "设计模式/_resources",
-    "设计模式/新建文件夹",
-    "人工智能/未命名.canvas",
-    "计算机组成原理/第7章 指令系统/vx_images",
-    "计算机组成原理/第7章 指令系统/第7章 指令系统"
+    "人工智能/未命名.canvas"
   ]
 }
