@@ -1,15 +1,3 @@
----
-title: c++ stl标准库
-updated: 2024-01-11 09:06:46Z
-created: 2024-01-11 09:06:45Z
----
-
----
-title: c++ stl标准库
-updated: 2023-12-25T15:55:00.0000000+08:00
-created: 2023-12-06T13:53:57.0000000+08:00
----
-
 map
 插入元素 insert
 std::pair\<iterator, bool\> insert( const value_type& value );

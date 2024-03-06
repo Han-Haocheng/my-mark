@@ -1,15 +1,3 @@
----
-title: bind
-updated: 2024-01-11 09:08:50Z
-created: 2024-01-11 09:08:49Z
----
-
----
-title: bind
-updated: 2023-12-06T14:30:45.0000000+08:00
-created: 2023-11-29T14:17:20.0000000+08:00
----
-
 bind
 请求映射
 @RequestMapping(

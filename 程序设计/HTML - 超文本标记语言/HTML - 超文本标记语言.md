@@ -1,15 +1,3 @@
----
-title: HTML - 超文本标记语言
-updated: 2024-01-11 09:09:34Z
-created: 2024-01-11 09:09:33Z
----
-
----
-title: HTML - 超文本标记语言
-updated: 2023-09-07T11:33:32.0000000+08:00
-created: 2023-06-08T19:48:30.0000000+08:00
----
-
 ***描述***
 
 ***HTML（超文本标记语言——HyperText Markup Language）是构成 Web 的基石。 它定义了网页内容的含义和结构。 除 HTML 以外的其它技术则通常用来描述网页的表现与展示效果（如[CSS](onenote:#CSS - 层叠样式表&section-id={12D4562B-FF7D-40E1-A377-22EC1BE2343C}&page-id={06557FDA-D4E8-489E-A2A9-91BE7DC37F4F}&end&base-path=https://d.docs.live.net/ba49cdc060637235/文档/计算机学习笔记本/程序设计/前端.one)）， 或建立网页的功能与行为（如[JavaScript](onenote:#JS - java脚本&section-id={12D4562B-FF7D-40E1-A377-22EC1BE2343C}&page-id={30F4ACC1-4FCE-4EB8-9768-0789ADD28541}&end&base-path=https://d.docs.live.net/ba49cdc060637235/文档/计算机学习笔记本/程序设计/前端.one)）。***

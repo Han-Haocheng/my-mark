@@ -1,15 +1,3 @@
----
-title: 网页模板 Thymeleaf
-updated: 2024-01-11 09:08:20Z
-created: 2024-01-11 09:08:19Z
----
-
----
-title: 网页模板 Thymeleaf
-updated: 2023-11-29T13:13:56.0000000+08:00
-created: 2023-09-17T10:20:16.0000000+08:00
----
-
 网页模板 Thymeleaf
 引用网址
 <http://www.thymeleaf.org>

@@ -1,19 +1,3 @@
----
-title: JdbcTemplate
-updated: 2024-01-11 09:08:44Z
-created: 2024-01-11 09:08:43Z
----
-
----
-title: JdbcTemplate
-updated: 2023-11-02T10:17:20.0000000+08:00
-created: 2023-10-31T08:43:02.0000000+08:00
----
-
-JdbcTemplate
-2023年10月31日
-8:43
-
 # 描述
 spring提供的jdbc驱动的模板
 

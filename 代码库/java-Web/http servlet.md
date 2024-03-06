@@ -1,15 +1,3 @@
----
-title: http servlet
-updated: 2024-01-11 09:08:14Z
-created: 2024-01-11 09:08:12Z
----
-
----
-title: http servlet
-updated: 2023-11-29T13:46:44.0000000+08:00
-created: 2023-09-17T10:06:05.0000000+08:00
----
-
 类 HttpServlet - abstract class HttpServlet
 - 网页执行get操作
 void doGet(HttpServletRequest req, HttpServletResponse resp)

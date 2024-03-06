@@ -1,15 +1,3 @@
----
-title: unistd
-updated: 2024-01-11 09:07:22Z
-created: 2024-01-11 09:07:20Z
----
-
----
-title: unistd
-updated: 2023-12-30T19:06:35.0000000+08:00
-created: 2023-10-31T14:13:32.0000000+08:00
----
-
 头文件
 \#include \<unistd.h\>
 函数

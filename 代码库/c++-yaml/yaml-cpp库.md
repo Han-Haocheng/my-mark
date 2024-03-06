@@ -1,15 +1,3 @@
----
-title: yaml-cpp库
-updated: 2024-01-11 09:07:38Z
-created: 2024-01-11 09:07:36Z
----
-
----
-title: yaml-cpp库
-updated: 2023-12-06T14:20:24.0000000+08:00
-created: 2023-11-29T17:12:54.0000000+08:00
----
-
 yaml-cpp
 # 命名空间
 namespace YAML

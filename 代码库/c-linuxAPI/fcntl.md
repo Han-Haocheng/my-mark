@@ -1,9 +1,3 @@
----
-title: fcntl
-updated: 2024-01-11 09:07:30Z
-created: 2024-01-11 09:07:28Z
----
-
 # 描述
 linux用于控制句柄状态的api
 # 函数

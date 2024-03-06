@@ -3,9 +3,9 @@
   "tabSize": 2,
   "showLineNumber": true,
   "rightToLeft": false,
-  "attachmentFolderPath": "./vx_images",
+  "attachmentFolderPath": "./images",
   "newFileLocation": "current",
-  "promptDelete": false,
+  "promptDelete": true,
   "readableLineLength": false,
   "newLinkFormat": "relative",
   "userIgnoreFilters": [
