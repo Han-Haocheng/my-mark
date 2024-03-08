@@ -4,42 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "1e53873bc74cb457",
+        "id": "608abb88d33afd50",
         "type": "tabs",
-        "dimension": 47.01670644391408,
         "children": [
           {
-            "id": "09d7f452a40db872",
+            "id": "7f6d6e5de01b126a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机组成原理/第9章 控制单元的功能/9.2 控制单元的功能.md",
+                "file": "计算机组成原理/第10章 控制单元的设计/10.2 微程序设计.md",
                 "mode": "source",
                 "source": true
               }
             },
-            "group": "bd92f29a1f83a437"
+            "group": "1ee58d48fd39af5f"
           }
         ]
       },
       {
-        "id": "b41c4b09484ce9fc",
+        "id": "50e06b24f08e9581",
         "type": "tabs",
-        "dimension": 52.98329355608592,
         "children": [
           {
-            "id": "8072f7bd9c3c156f",
+            "id": "d6ac7f999b7b38f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算机组成原理/第9章 控制单元的功能/9.2 控制单元的功能.md",
+                "file": "计算机组成原理/第10章 控制单元的设计/10.2 微程序设计.md",
                 "mode": "preview",
                 "source": true
               }
             },
-            "group": "bd92f29a1f83a437"
+            "group": "1ee58d48fd39af5f"
           }
         ]
       }
@@ -70,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"title\"]",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,12 +84,21 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "5fae2e631e82de24",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 274.5
   },
   "right": {
     "id": "244e88c3e2d53ced",
@@ -107,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算机组成原理/第9章 控制单元的功能/9.2 控制单元的功能.md",
+                "file": "计算机组成原理/第10章 控制单元的设计/10.2 微程序设计.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算机组成原理/第9章 控制单元的功能/9.2 控制单元的功能.md",
+                "file": "计算机组成原理/第10章 控制单元的设计/10.2 微程序设计.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机组成原理/第9章 控制单元的功能/9.2 控制单元的功能.md"
+                "file": "计算机组成原理/第10章 控制单元的设计/10.2 微程序设计.md"
               }
             }
           },
@@ -163,7 +170,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "16f16ae101859966",
@@ -181,8 +189,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 350.5,
-    "collapsed": true
+    "width": 334.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,54 +201,54 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "09d7f452a40db872",
+  "active": "5fae2e631e82de24",
   "lastOpenFiles": [
-    "计算机组成原理/第9章 控制单元的功能/images/Pasted image 20240306201025.png",
-    "计算机组成原理/第9章 控制单元的功能/images/Pasted image 20240306195952.png",
-    "计算机组成原理/第9章 控制单元的功能/images/Pasted image 20240306195950.png",
-    "计算机组成原理/第9章 控制单元的功能/images/Pasted image 20240306194925.png",
-    "计算机组成原理/第9章 控制单元的功能/images/Pasted image 20240306193950.png",
-    "计算机组成原理/第9章 控制单元的功能/images/Pasted image 20240306193513.png",
-    "计算机组成原理/第9章 控制单元的功能/images/Pasted image 20240306192702.png",
-    "计算机组成原理/第9章 控制单元的功能/images/Pasted image 20240306191946.png",
-    "计算机组成原理/第9章 控制单元的功能/images/Pasted image 20240306190720.png",
+    "计算机组成原理/第10章 控制单元的设计/images/Pasted image 20240308074909.png",
+    "计算机组成原理/第10章 控制单元的设计/images/Pasted image 20240307200819.png",
+    "计算机组成原理/第1章 计算机概述/1.2 计算机的基本组成.md",
+    "计算机组成原理/第4章 存储器/4.2 主存储器.md",
+    "计算机组成原理/第1章 计算机概述/1.1 计算机系统简介.md",
+    "计算机组成原理/第1章 计算机概述/1 计算机概述.md",
+    "计算机组成原理/第10章 控制单元的设计/10.2 微程序设计.md",
+    "计算机组成原理/第10章 控制单元的设计/images/Pasted image 20240307182837.png",
+    "计算机组成原理/第10章 控制单元的设计/images/Pasted image 20240307182754.png",
+    "计算机组成原理/第10章 控制单元的设计/images/Pasted image 20240307182540.png",
+    "计算机组成原理/第10章 控制单元的设计/image.png",
+    "计算机组成原理/第10章 控制单元的设计/images/Pasted image 20240307170342.png",
+    "计算机组成原理/第10章 控制单元的设计/images/Pasted image 20240307170332.png",
+    "计算机组成原理/第10章 控制单元的设计/images/Pasted image 20240307170316.png",
+    "计算机组成原理/第10章 控制单元的设计/images/Pasted image 20240307170202.png",
+    "计算机组成原理/第10章 控制单元的设计/images/Pasted image 20240307165929.png",
+    "计算机组成原理/第10章 控制单元的设计/10.1 组合逻辑设计.md",
+    "代码库/java-Web/http servlet.md",
+    "代码库/java-spring/spring-boot/spring-boot.md",
+    "代码库/java-spring/spring-boot/未命名 1.md",
+    "代码库/java-spring/spring-boot/1 使用SpringBoot进行开发.md",
+    "代码库/java-spring/spring-boot/2 web开发.md",
+    "代码库/java-spring/spring-boot/spring-boot-starter-web.md",
+    "计算机组成原理/第9章 控制单元的功能/9.2 控制单元的功能.md",
+    "计算机组成原理/第10章 控制单元的设计/images",
+    "代码库/java-maven/2 maven项目配置.md",
+    "代码库/java-maven/1 maven配置.md",
+    "代码库/java-maven/maven.md",
+    "代码库/java-maven",
+    "代码库/java-spring/spring-framework",
+    "代码库/java-spring/未命名.md",
+    "代码库/java-spring/spring-boot",
     "计算机组成原理/第9章 控制单元的功能/9.1 微操作命令分析.md",
-    "计算机组成原理/第9章 控制单元的功能/images/Pasted image 20240306172338.png",
-    "计算机组成原理/第9章 控制单元的功能/images/Pasted image 20240306172321.png",
     "计算机组成原理/第8章 CPU的结构和功能/8.2 指令周期.md",
     "计算机组成原理/第9章 控制单元的功能/images",
     "计算机组成原理/第10章 控制单元的设计/10 控制单元的设计.md",
-    "计算机组成原理/第10章 控制单元的设计/10.1 组合逻辑设计.md",
-    "计算机组成原理/第10章 控制单元的设计/10.2 微程序设计.md",
     "计算机组成原理/计算机组成原理.md",
     "计算机组成原理/第10章 控制单元的设计",
     "计算机组成原理/第9章 控制单元的功能/9 控制单元的功能.md",
-    "计算机组成原理/第9章 控制单元的功能/9.2 控制单元的功能.md",
     "计算机组成原理/第9章 控制单元的功能",
     "设计模式/结构型模式/2.7 组合模式(Composite).md",
     "设计模式/行为型模式/3.10 中介者(Mediator).md",
     "设计模式/结构型模式/2.2 门面模式(Facade).md",
-    "设计模式/行为型模式/3.11 状态模式(State).md",
-    "设计模式/行为型模式/3.9 职责链(Chain of Resposibility).md",
-    "设计模式/行为型模式/3.8 模板方法(Template Method).md",
-    "设计模式/行为型模式/3.7 命令模式(Command).md",
-    "设计模式/行为型模式/3.6 解析器(Interpreter).md",
-    "设计模式/行为型模式/3.5 观察者模式(ObserverEvent).md",
-    "设计模式/行为型模式/3.4 访问器(Visitor).md",
-    "设计模式/行为型模式/3.3 迭代器模式(Iteraotr).md",
-    "设计模式/行为型模式/3.2 策略模式(Strategy).md",
-    "设计模式/行为型模式/3.1 备忘录(Memento).md",
-    "设计模式/行为型模式/3 行为型模式.md",
-    "设计模式/结构型模式/2 结构型模式.md",
-    "README.md",
-    "计算机组成原理/第7章 指令系统/7 指令系统.md",
     "代码库/c++-ymalcpp",
     "代码库/c-liunx",
     "代码库/c-winAPI",
-    "代码库/java-spring",
-    "代码库",
-    "计算机组成原理/第8章 CPU的结构和功能/images",
-    "计算机组成原理/第8章 CPU的结构和功能",
     "人工智能/未命名.canvas"
   ]
 }
