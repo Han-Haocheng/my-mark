@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "代码库/java-spring/spring-boot/8 数据访问.md",
+                "file": "高等数学/第1章 函数与极限/1.1 映射与函数.md",
                 "mode": "source",
                 "source": true
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "代码库/java-spring/spring-boot/8 数据访问.md",
+                "file": "高等数学/第1章 函数与极限/1.1 映射与函数.md",
                 "mode": "preview",
                 "source": true
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "代码库/java-spring/spring-boot/8 数据访问.md",
+                "file": "高等数学/第1章 函数与极限/1.1 映射与函数.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "代码库/java-spring/spring-boot/8 数据访问.md",
+                "file": "高等数学/第1章 函数与极限/1.1 映射与函数.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "代码库/java-spring/spring-boot/8 数据访问.md"
+                "file": "高等数学/第1章 函数与极限/1.1 映射与函数.md"
               }
             }
           },
@@ -212,8 +212,10 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "15eb1d81fe089ae0",
+  "active": "7f6d6e5de01b126a",
   "lastOpenFiles": [
+    "高等数学/第1章 函数与极限/images/Pasted image 20240311152501.png",
+    "高等数学/第1章 函数与极限/images",
     "高等数学/第1章 函数与极限/1.2 数列的极限.md",
     "代码库/java-spring/spring-boot/8 数据访问.md",
     "高等数学/第1章 函数与极限/1.1 映射与函数.md",
@@ -257,11 +259,9 @@
     "计算机组成原理/第10章 控制单元的设计/10.1 组合逻辑设计.md",
     "代码库/java-Web/http servlet.md",
     "代码库/java-spring/spring-boot/spring-boot.md",
-    "代码库/java-spring/spring-boot/未命名 1.md",
     "计算机组成原理/第10章 控制单元的设计/images",
     "代码库/java-maven",
     "代码库/java-spring/spring-framework",
-    "代码库/java-spring/spring-boot",
     "人工智能/未命名.canvas"
   ]
 }
