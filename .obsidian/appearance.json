@@ -1,10 +1,10 @@
 {
   "accentColor": "",
-  "textFontFamily": "Lucida Console,Microsoft YaHei",
-  "monospaceFontFamily": "Consolas",
+  "textFontFamily": "Lucida Console,宋体",
+  "monospaceFontFamily": "Lucida Console,宋体",
   "baseFontSize": 16,
   "baseFontSizeAction": true,
   "cssTheme": "Blue Topaz",
   "showViewHeader": true,
-  "interfaceFontFamily": "Lucida Console"
+  "interfaceFontFamily": "Lucida Console,宋体"
 }

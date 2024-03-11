@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "高等数学/第1章 函数与极限/1.2 数列的极限.md",
+                "file": "代码库/java-spring/spring-boot/8 数据访问.md",
                 "mode": "source",
                 "source": true
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "高等数学/第1章 函数与极限/1.2 数列的极限.md",
+                "file": "代码库/java-spring/spring-boot/8 数据访问.md",
                 "mode": "preview",
                 "source": true
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "高等数学/第1章 函数与极限/1.2 数列的极限.md",
+                "file": "代码库/java-spring/spring-boot/8 数据访问.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "高等数学/第1章 函数与极限/1.2 数列的极限.md",
+                "file": "代码库/java-spring/spring-boot/8 数据访问.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "高等数学/第1章 函数与极限/1.2 数列的极限.md"
+                "file": "代码库/java-spring/spring-boot/8 数据访问.md"
               }
             }
           },
@@ -201,7 +201,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "remotely-save:Remotely Save": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -209,14 +208,17 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "remotely-save:Remotely Save": false,
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "7f6d6e5de01b126a",
+  "active": "15eb1d81fe089ae0",
   "lastOpenFiles": [
-    "高等数学/第1章 函数与极限/1.1 映射与函数.md",
     "高等数学/第1章 函数与极限/1.2 数列的极限.md",
+    "代码库/java-spring/spring-boot/8 数据访问.md",
+    "高等数学/第1章 函数与极限/1.1 映射与函数.md",
     "高等数学/第1章 函数与极限/1 函数与极限.md",
+    "高等数学/未命名.canvas",
     "高等数学/高等数学.md",
     "高等数学/第1章 函数与极限",
     "高等数学/未命名",
@@ -256,7 +258,6 @@
     "代码库/java-Web/http servlet.md",
     "代码库/java-spring/spring-boot/spring-boot.md",
     "代码库/java-spring/spring-boot/未命名 1.md",
-    "代码库/java-spring/spring-boot/2 web开发.md",
     "计算机组成原理/第10章 控制单元的设计/images",
     "代码库/java-maven",
     "代码库/java-spring/spring-framework",
