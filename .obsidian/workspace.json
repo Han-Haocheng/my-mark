@@ -4,49 +4,42 @@
     "type": "split",
     "children": [
       {
-        "id": "572a7b816dfb4b9d",
-        "type": "split",
+        "id": "608abb88d33afd50",
+        "type": "tabs",
         "children": [
           {
-            "id": "608abb88d33afd50",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "7f6d6e5de01b126a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "高等数学/第1章 函数与极限/1.6 极限存在准则 两个重要极限.md",
-                    "mode": "source",
-                    "source": true
-                  }
-                },
-                "group": "449cacb2c0b73f34"
+            "id": "7f6d6e5de01b126a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "高等数学/第1章 函数与极限/1.6 极限存在准则 两个重要极限.md",
+                "mode": "source",
+                "source": true
               }
-            ]
-          },
-          {
-            "id": "dd4f88e9d9fa849b",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "15eb1d81fe089ae0",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "高等数学/第1章 函数与极限/1.6 极限存在准则 两个重要极限.md",
-                    "mode": "preview",
-                    "source": true
-                  }
-                },
-                "group": "449cacb2c0b73f34"
-              }
-            ]
+            },
+            "group": "449cacb2c0b73f34"
           }
-        ],
-        "direction": "horizontal"
+        ]
+      },
+      {
+        "id": "83238a1f0d257702",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15eb1d81fe089ae0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "高等数学/第1章 函数与极限/1.6 极限存在准则 两个重要极限.md",
+                "mode": "preview",
+                "source": true
+              }
+            },
+            "group": "449cacb2c0b73f34"
+          }
+        ]
       }
     ],
     "direction": "vertical"
