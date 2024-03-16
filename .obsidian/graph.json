@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#level_A",
@@ -20,11 +20,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1.91855670103093,
   "lineSizeMultiplier": 2.04484536082474,
-  "collapse-forces": true,
-  "centerStrength": 0.195876288659794,
+  "collapse-forces": false,
+  "centerStrength": 0.38659793814433,
   "repelStrength": 20,
-  "linkStrength": 0.376288659793814,
-  "linkDistance": 30,
-  "scale": 0.021528718442430293,
+  "linkStrength": 0.716494845360825,
+  "linkDistance": 229,
+  "scale": 0.11660891579457355,
   "close": true
 }
