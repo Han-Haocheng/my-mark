@@ -1,10 +1,10 @@
 {
   "accentColor": "",
-  "textFontFamily": "Lucida Console,宋体",
-  "monospaceFontFamily": "Lucida Console,宋体",
+  "textFontFamily": "宋体",
+  "monospaceFontFamily": "Courier New",
   "baseFontSize": 16,
   "baseFontSizeAction": true,
-  "cssTheme": "Blue Topaz",
+  "cssTheme": "Obsidianite",
   "showViewHeader": true,
-  "interfaceFontFamily": "Lucida Console,宋体"
+  "nativeMenus": false
 }

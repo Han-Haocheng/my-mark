@@ -6,5 +6,21 @@
       ],
       "key": "M"
     }
+  ],
+  "insert-current-time": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "T"
+    }
+  ],
+  "insert-current-date": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "D"
+    }
   ]
 }

@@ -4,21 +4,50 @@
     "type": "split",
     "children": [
       {
-        "id": "608abb88d33afd50",
+        "id": "ebd9474c75b78bcc",
         "type": "tabs",
+<<<<<<< HEAD
         "dimension": 49.76133651551313,
+=======
+        "dimension": 48.18986323411102,
+>>>>>>> d2a5b70 (高数上册完成 计算机组成原理完成)
         "children": [
           {
-            "id": "7f6d6e5de01b126a",
+            "id": "c3f0f5e2f8b24b7e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "高等数学/第2章 导数与微分/2.5 函数的微分.md",
+=======
+                "file": "高等数学/第11章 曲线积分与曲面积分/11.2 对坐标的曲线积分.md",
+                "mode": "source",
+                "source": true
+              }
+            },
+            "group": "16aef7c1707e08b5"
+          }
+        ]
+      },
+      {
+        "id": "d565c49a65c9dc94",
+        "type": "tabs",
+        "dimension": 51.810136765888984,
+        "children": [
+          {
+            "id": "9d15b589287b68e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "高等数学/第11章 曲线积分与曲面积分/11.2 对坐标的曲线积分.md",
+>>>>>>> d2a5b70 (高数上册完成 计算机组成原理完成)
                 "mode": "preview",
                 "source": true
               }
             },
+<<<<<<< HEAD
             "group": "8faeee873ce75914"
           }
         ]
@@ -40,6 +69,9 @@
               }
             },
             "group": "8faeee873ce75914"
+=======
+            "group": "16aef7c1707e08b5"
+>>>>>>> d2a5b70 (高数上册完成 计算机组成原理完成)
           }
         ]
       }
@@ -115,7 +147,11 @@
       }
     ],
     "direction": "horizontal",
+<<<<<<< HEAD
     "width": 210.5
+=======
+    "width": 227.51103591918945
+>>>>>>> d2a5b70 (高数上册完成 计算机组成原理完成)
   },
   "right": {
     "id": "244e88c3e2d53ced",
@@ -131,7 +167,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "高等数学/第2章 导数与微分/2.5 函数的微分.md",
+=======
+                "file": "高等数学/第11章 曲线积分与曲面积分/11.2 对坐标的曲线积分.md",
+>>>>>>> d2a5b70 (高数上册完成 计算机组成原理完成)
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +188,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "高等数学/第2章 导数与微分/2.5 函数的微分.md",
+=======
+                "file": "高等数学/第11章 曲线积分与曲面积分/11.2 对坐标的曲线积分.md",
+>>>>>>> d2a5b70 (高数上册完成 计算机组成原理完成)
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -184,6 +228,7 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+<<<<<<< HEAD
           }
         ],
         "currentTab": 2
@@ -192,20 +237,30 @@
         "id": "16f16ae101859966",
         "type": "tabs",
         "children": [
+=======
+          },
+>>>>>>> d2a5b70 (高数上册完成 计算机组成原理完成)
           {
-            "id": "8264e0a11e051c82",
+            "id": "151cef56444d20ad",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "outline",
+              "state": {
+                "file": "高等数学/第11章 曲线积分与曲面积分/11.2 对坐标的曲线积分.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
+<<<<<<< HEAD
     "width": 323.5,
     "collapsed": true
+=======
+    "width": 237.5
+>>>>>>> d2a5b70 (高数上册完成 计算机组成原理完成)
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,6 +271,7 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
+<<<<<<< HEAD
       "remotely-save:Remotely Save": false
     }
   },
@@ -268,6 +324,65 @@
     "设计模式/行为型模式/images",
     "设计模式/结构型模式/images",
     "设计模式/创建型模式/images",
+=======
+      "oz-clear-unused-images:Clear Unused Images": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "remotely-save:Remotely Save": false
+    }
+  },
+  "active": "c3f0f5e2f8b24b7e",
+  "lastOpenFiles": [
+    "latexcfg.md",
+    "高等数学/第11章 曲线积分与曲面积分/11.2 对坐标的曲线积分.md",
+    "高等数学/第11章 曲线积分与曲面积分/11 曲线积分与曲面积分.md",
+    "高等数学/第11章 曲线积分与曲面积分/11.1 对弧长的曲线积分.md",
+    "数据结构与算法/第2章 线性表/2.4 线性表的顺序表示和实现.md",
+    "数据结构与算法/第2章 线性表/images/Pasted image 20240521164816.png",
+    "数据结构与算法/第2章 线性表/images",
+    "高等数学/高等数学.md",
+    "高等数学/附图 思维导图.canvas",
+    "数据结构与算法/线性表（列表）.md",
+    "高等数学/第11章 曲线积分与曲面积分",
+    "高等数学/第10章 重积分/10 重积分.md",
+    "未命名",
+    "数据结构与算法/第2章 线性表/2 线性表.md",
+    "数据结构与算法/第2章 线性表/2.3 线性表的类型定义.md",
+    "高等数学/第10章 重积分/10.4 重积分的应用.md",
+    "高等数学/附录 公式.md",
+    "高等数学/第10章 重积分/10.3 三重积分.md",
+    "随笔.md",
+    "README.md",
+    "高等数学/第2章 导数与微分/2.5 函数的微分.md",
+    "高等数学/第2章 导数与微分/2.4 隐函数.md",
+    "高等数学/第2章 导数与微分/2.3 高阶导数.md",
+    "高等数学/第10章 重积分/10.2 二重积分的计算.md",
+    "高等数学.zip",
+    "高等数学.zip.tmp",
+    "高等数学/附录 公式.txt",
+    "数据结构与算法/第2章 线性表/2.1 线性表的定义和特点.md",
+    "计算机组成原理/第10章 控制单元的设计/10.2 微程序设计.md",
+    "高等数学/第10章 重积分/images/Pasted image 20240517093133.png",
+    "高等数学/第8章 向量代数与空间解析几何/8 向量代数与空间解析几何.md",
+    "高等数学/第8章 向量代数与空间解析几何/8.1 向量及其线性运算.md",
+    "计算机组成原理/第10章 控制单元的设计/10 控制单元的设计.md",
+    "计算机组成原理/计算机组成原理.md",
+    "计算机组成原理/第9章 控制单元的功能/9 控制单元的功能.md",
+    "数据结构与算法/第2章 线性表",
+    "数据结构与算法/第1章 绪论/images/Pasted image 20240516205606.png",
+    "数据结构与算法/第1章 绪论/images/Pasted image 20240516205603.png",
+    "高等数学/第10章 重积分/images/Pasted image 20240516095609.png",
+    "高等数学/第10章 重积分/images/Pasted image 20240516095212.png",
+    "高等数学/第10章 重积分/images/Pasted image 20240515124350.png",
+    "数据结构与算法/第1章 绪论/images/Pasted image 20240514182457.png",
+    "高等数学/第10章 重积分/images/Pasted image 20240514155956.png",
+    "高等数学/第10章 重积分/images/Pasted image 20240514084646.png",
+    "高等数学/第10章 重积分/images",
+    "数据结构与算法/第1章 绪论/images",
+    "数据结构与算法/第1章 绪论",
+    "英语/未命名.canvas",
+    "英语/英语词汇图.canvas",
+    "高等数学/附图 思维导图.sync-conflict-20240401-095213-TXMPPZG.canvas",
+>>>>>>> d2a5b70 (高数上册完成 计算机组成原理完成)
     "计算机组成原理/思维导图.canvas",
     "人工智能/未命名.canvas"
   ]

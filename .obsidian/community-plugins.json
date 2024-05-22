@@ -1,5 +1,7 @@
 [
   "table-editor-obsidian",
+  "oz-clear-unused-images",
   "remotely-save",
-  "obsidian-latex-suite"
+  "obsidian-latex-suite",
+  "obsidian-dictionary-plugin"
 ]
