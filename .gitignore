@@ -8,11 +8,10 @@ latexcfg.md
 
 .vscode\*
 
-.obsidian/app.json
+随笔.md
+
 .obsidian/appearance.json
 .obsidian/community-plugins.json
-.obsidian/core-plugins-migration.json
-.obsidian/core-plugins.json
 .obsidian/workspace.json
 .obsidian/plugins/obsidian-git/main.js
 .obsidian/plugins/obsidian-git/manifest.json
@@ -25,4 +24,3 @@ latexcfg.md
 .obsidian/plugins/remotely-save/styles.css
 .obsidian/themes/Blue Topaz/manifest.json
 .obsidian/themes/Blue Topaz/theme.css
-随笔.md
