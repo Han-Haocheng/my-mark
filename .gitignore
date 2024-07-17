@@ -1,33 +1,11 @@
 .obsidian
 .trash
 
-.obsidian\*
 .trash\*
+.obsidian\*
 
 latexcfg.md
 
 .vscode\*
 
 随笔.md
-
-.obsidian/app.json
-.obsidian/appearance.json
-.obsidian/community-plugins.json
-.obsidian/daily-notes.json
-.obsidian/graph.json
-.obsidian/hotkeys.json
-.obsidian/page-preview.json
-.obsidian/workspace-mobile.json
-.obsidian/workspace.json
-.obsidian/plugins/obsidian-git/main.js
-.obsidian/plugins/obsidian-git/manifest.json
-.obsidian/plugins/obsidian-latex-suite/data.json
-.obsidian/plugins/oz-clear-unused-images/manifest.sync-conflict-20240309-211227-K3RVIFR.json
-.obsidian/plugins/remotely-save/main.js
-.obsidian/plugins/remotely-save/manifest.json
-.obsidian/plugins/remotely-save/styles.css
-.obsidian/plugins/table-editor-obsidian/main.sync-conflict-20240309-211228-K3RVIFR.js
-.obsidian/themes/Minimal/manifest.json
-.obsidian/themes/Minimal/manifest.sync-conflict-20240309-211227-K3RVIFR.json
-.obsidian/themes/Minimal/theme.css
-.obsidian/themes/Minimal/theme.sync-conflict-20240309-211228-K3RVIFR.css
