@@ -1,11 +1,11 @@
 .obsidian
-.trash
-
-.trash\*
 .obsidian\*
+.trash
+.trash\*
+.vscode\*
+.vscode
 
 latexcfg.md
 
-.vscode\*
 
 随笔.md

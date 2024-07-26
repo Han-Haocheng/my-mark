@@ -21,9 +21,9 @@
   - timely adv. 及时的
 - I *appreciate* your saving me
 
-## apprecation
+## appreciation
 
-### apprecation n. 感激
+### appreciation n. 感激
 
 - letter of *appreciation*
 
@@ -44,6 +44,8 @@
 - *approach* to
 - new *approaches* to English teaching
 - Carl Jung [[#believed]] that [[#collecting]] is *approach* to growing fruit
+  - believe v.相信
+  - collect v.收集
 
 ## argue
 

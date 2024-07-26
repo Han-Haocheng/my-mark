@@ -16,6 +16,8 @@
 - The [[#brand]] is [[#famous]] at home and *abroad*.
   - brand n.品牌
   - famous adj.著名
+- She accepts my apology.
+  - apology n.道歉
 
 ## accept
 

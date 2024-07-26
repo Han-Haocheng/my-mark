@@ -12,7 +12,6 @@ tags:
 - [[数据结构与算法/数据结构与算法|数据结构与算法]]
 
 ```dataviewjs
- 
 let file = dv.current()
 let af = app.vault.getMarkdownFiles().filter(p=>p.path==file.file.path)[0]
 let container = this.container
@@ -107,5 +106,8 @@ function midifyData(i,m) {
 ```
 
 %%
-高等数学 +|+11+|+12
+大学语文 +|+5+|+25 
+高等数学 +|+12+|+12
+计算机组成原理 +|+10+|+10
+设计模式 +|+24+|+24
 %%

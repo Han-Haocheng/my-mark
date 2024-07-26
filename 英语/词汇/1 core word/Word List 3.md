@@ -166,4 +166,59 @@
 
 ### beat v.有规律的跳动
 
-- My heart beats fast at the sight of her beauty
+- My heart *beats* fast at the sight of her beauty
+
+## because
+
+### because conj.因为
+
+- I love Engilsh because English is useful [[#communication]] tool.
+  - communication n.沟通；交流
+
+### because of prep.因为
+
+- Because of the bad weather, all flights have been can cancelled
+
+## become
+
+### become v.变成；成为；开始变得
+
+- After [[#graduation]],she becomes a [[#housewife]].
+  - graduation n.毕业
+  - housewife n.家庭主妇
+- You'd better put on a sweater in case it should become cold.
+  - in case 以防
+
+## before
+
+### before prep.之前；在……以前；在……面前
+
+- before 2027
+- Before the boss,I feel [[#nervous]].
+  - nervous adj.紧张
+
+### before conj.在……以前；到……之前
+
+- I did nothing,before I got married.
+
+## begin
+
+## begin v.开始
+
+- *begin* to do sth.=*begin* doing sth.
+- Class *begins*
+- The [[#pipe]] *begin* [[#leaking]]
+  - pipe n.管道
+  - leak v.渗漏；漏水
+
+## behind
+
+### behind prep.在……后面
+
+- Behind the campus is a pond
+  - campus n.校园
+  - pond n.池塘
+
+### behind adv.在……后面
+
+- leg behind = fall behind 落下；落后于
