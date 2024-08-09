@@ -29,13 +29,12 @@
 
 句子
 
-- Please *accept* our *sincere* *aplogies*
+- Please *accept* our [[#sincere]] [[#aplogies]]
   - [[#sincere]] adj. 诚实的, 正直的, 真挚的, 纯净的
   - [[#aplogie]] n. 道歉, 抱歉, 抱怨, 道歉书
-- I *accept* you *advice*/*suggestion*s.
-  - [[#advice]] n.建议（不可数）
+- I *accept* you [[#advice n.建议;忠告;劝告|advice]]/[[#suggestions]].
   - [[#suggestion]] n.建议（可数）
-- The couple *accepted* my *invitation*.
+- The couple *accepted* my invitation.
 - I do hope all of you will *accept* my teaching style.
 - I accepted your [[#apology]]
 
@@ -57,13 +56,11 @@
 
 句子
 
-- Researchers have *estimated* that as many as 80% of all *automobile* *accidents* can __be attributed to__ *psychological* *condition* of the driver.
-  - be attributed to 归因于……
+- Researchers have [[#estimated]] that as many as 80% of all [[#automobile]] *accidents* can be [[../4 word library/Word List A#attribute v.归因于|attributed]] to [[#psychological]] [[#condition]] of the driver.
   - [[#estimate]] v. 估计;估算
   - [[#automobile]] n. 汽车;v. 开汽车;坐汽车;adj. 自动的
   - [[#psychological]] adj. 心理的;心灵的;精神上的
   - [[#condition]] n.状态;条件;v. 决定
--
 
 ## account
 
@@ -81,10 +78,9 @@
   - laziness n. 懒惰
   - failue n. 失败
 
-- On *account* of *terrible* weather, the *flight* has been *cancel*led.
+- On *account* of [[#terrible]] weather, the [[#flight]] has been [[Word List 5#cancel v.取消；撤销|cancelled]].
   - [[#terrible]] adj. 恶劣的
   - [[#flight]] n.航班
-  - [[#cancel]] v.取消
 
 ### account n. 账户;说明;账号;叙述
 
@@ -94,10 +90,10 @@
 
 ### achieve v. 实现;完成
 
-- achieve one's dream
+- *achieve* one's dream
 
-- I *__[[#must]]__* [[#achieve]] my dreams
-- I *__[[#can]]__* [[#achieve]] my *goal*s
+- I *__[[#must]]__* *achieve* my dreams
+- I *__[[#can]]__* *achieve* my [[#goals]]
   - goal n. 目标
 
 ## achievement
@@ -114,9 +110,9 @@
 
 句子
 
-- He *adjusted* the light/__air conditioner__/*mood*
-  - air conditioner 空调
-  - [[#mood]] n. 心情
+- He *adjusted* the light/air [[#conditioner]]/[[#mood]]
+  - conditioner n.调节器
+  - [[#mood]] n.心情
 
 ### adjust v.适应;习惯
 
@@ -126,7 +122,7 @@
 
 句子
 
-- The boy *adjusted* himself to the new *dormitory* life
+- The boy *adjusted* himself to the new [[#dormitory]] life
   - [[#dormitory]] n. 宿舍
 - Learn to adjust yourself to the new life
 
@@ -146,12 +142,12 @@
 
 短语
 
-- adult topice 话题
-- adult movies/films
+- *adult* topice 话题
+- *adult* movies/films
 
 ## advantage
 
-- [[#disadvantage]] n. 缺点
+- [[#disadvantage n.缺点;不利条件]]
 
 ### advantage n.优点;有利条件
 
@@ -161,8 +157,7 @@
 
 句子
 
-- My boyfriend has many *advantages* and [[#disadvantage]]s
-  - [[#disadvantage]] n. 缺点
+- My boyfriend has many *advantages* and [[#disadvantage n.缺点;不利条件|disadvantages]]
 - Living in [[#urban]] areas has many *advantages*
   - [[#urban]] n. 城市
 
@@ -175,7 +170,7 @@
 ### advice n.建议;忠告;劝告
 
 - My English teacher always gives me some *advice* on how to learn English
-- Some *advice* how to improve your oral Engilsh
+- Some *advice* how to improve your [[#oral]] Engilsh
   - oral n. 口语的
   - oral Engilsh=speaking English
 
@@ -200,8 +195,7 @@
 
 ### against prep.反对;违反
 
-- I am *against* your plan
-  - I am for your plan
+- I am *against* your plan <==> I am for your plan
 
 ### against prep.碰;倚着
 
@@ -242,7 +236,7 @@ adv.（与某人）一道;一起
 
 ### althouth conj. 虽然;尽管
 
-- *Although* the girl is [[#pretty]], I [[#dislike]] her
+- *Although* the girl is [[#pretty]], I [[#dislike n.不喜欢|dislike]] her
   - pretty adj.美丽的;漂亮的
 - *Althouth* he work hard, he makes no [[#progress]]
   - progress n. 进展;进步
@@ -255,7 +249,7 @@ adv.（与某人）一道;一起
 
 ### amount v.共计;等同
 
-- His earnings *amount* to 500,000 RMB each year
+- His [[#earnings]] *amount* to 500,000 RMB each year
   - earnings n. 收入;工资
 
 ## angry
@@ -286,7 +280,7 @@ adv.（与某人）一道;一起
 
 ### anxity n.焦虑;担忧;担心
 
-- The girl is waiting for [[#outcome|outcomes]] of the exam ,full of anxety
+- The girl is waiting for [[#outcomes]] of the exam ,full of anxety
   - outcome n.结果
 
 ## appear
@@ -300,10 +294,10 @@ adv.（与某人）一道;一起
 
 ### appear v. 看起来像
 
-- [[4 word library#seem v.好像;似乎|seem v.好像;似乎]]
-- [[4 word library#look v.看起来|look v.看起来]]
+- [[../4 word library/Word List S#seem v.好像;似乎|seem v.好像;似乎]]
+- [[../4 word library/Word List L#look v.看起来|look v.看起来]]
 
-- The girl *appears* angry
+- The girl *appears* [[#angry adj.生气的;愤怒的|angry]]
 
 ## apply
 
@@ -344,27 +338,19 @@ adv.（与某人）一道;一起
 
 ### unlike prep.和……不一样
 
-- My outlooks on values are unlinke yours.
+- My [[#outlooks]] on values are unlinke yours.
   - outlook n.价值观
 
 ## dislike
 
 ### dislike n.不喜欢
 
-- I dislike the lifestyle
+- I *dislike* the [[#lifestyle]]
   - lifestyle n.生活方式
 
 ## likely
 
 ### likely adj.可能的
 
-- be likely to
+- be *likely* to
 - It is likely that ……可能是
-
-# can
-
-can v. 能（能力）
-
-# must
-
-must v. 必须（主管意愿）

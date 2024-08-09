@@ -4,7 +4,8 @@
 .trash\*
 .vscode\*
 .vscode
-
+.idea\*
+.idea
 latexcfg.md
 
 

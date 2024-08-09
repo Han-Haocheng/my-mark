@@ -65,3 +65,17 @@
 ### set v.让;使
 
 ### set v.设置;设立
+
+## sleepy
+
+### sleepy adj.困倦的;入睡的
+
+- a *sleepy* girl
+- I feel *sleepy*
+
+## sleep
+
+### sleep vi.睡觉
+
+- *sleeps* soundly 睡得很香
+- The boy *sleeps* soundly

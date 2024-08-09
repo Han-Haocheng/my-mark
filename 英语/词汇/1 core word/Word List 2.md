@@ -13,7 +13,7 @@
 
 ## appreciate
 
-- [[#apprecation n. 感激]]
+- [[#appreciation n.感激]]
 
 ### appreciate v.感激;感谢
 
@@ -23,7 +23,7 @@
 
 ## appreciation
 
-### appreciation n. 感激
+### appreciation n.感激
 
 - letter of *appreciation*
 
@@ -33,10 +33,9 @@
 
 - [[../4 word library/Word List C#come v.成为;变成;变得|come v.成为;变成;变得]]
 
-- By the second [[#semester]], she [[Word List 1#adjust v.调整;调节|adjusted]] her teaching *approch* to [[#grab]] student's [[#attention]].
+- By the second [[#semester]], she [[Word List 1#adjust v.调整;调节|adjusted]] her teaching *approch* to [[#grab]] student's [[#attention n.关注;注意力|attention]].
   - semester n.学期
   - grab v.吸引
-  - attention n.注意力
 - The fall/autumn is *approaching*
 
 ### approach n.方式;方法
@@ -86,8 +85,7 @@
 - Last night *arrived* in Beijing Train Station.
 - Last night *arrived* at zhangqiu Station
 
-- The woman isn't sur when the train wall *arrive*.
-  - The train was [[#cought]] in an [[Word List 1#accident n. 事故;意外;偶然事件|accident]].
+- The woman isn't sur when the train wall *arrive*.The train was [[Word List 5#catch v.接住；拦住|cought]] in an [[Word List 1#accident n. 事故;意外;偶然事件|accident]].
   - cought v.陷入
 
 ## asleep
@@ -121,7 +119,7 @@
 ### aspect n.方面;层面
 
 - for one *aspect* = on the one hand
-- for another *aspect* = on the othe hand
+- for another *aspect* = on the other hand
 - Wechat has a [[#profound]] [[#effect]] on our life in many *aspects*
   - profound adj.极深的;深厚的;深刻的;渊博的
   - effect vt.实行;引起;完成

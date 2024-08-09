@@ -4,10 +4,10 @@
 
 ### average adj.平均的;一般的;普通的
 
-- The global *average* air temperature is believed rise in the near future
+- The global *average* air [[#temperature]] is believed rise in the near future
   - global n.全球
   - temperature n.温度
-- The [[#country]]'s [[#registered]] *average* unemployment rate in urban areas.
+- The [[#country]]'s [[#registered]] *average* [[#unemployment]] [[#rate]] in [[#urban]] areas.
   - country n.国家的
   - register n.登记的
   - unemployment n.失业
@@ -18,14 +18,14 @@
 
 ### avoid v.避免;避开;回避;躲避
 
-- avoidable adj.可避免的
-- unavoidable adj.不可避免的
+- [[#avoidable]] adj.可避免的
+- [[#unavoidable]] adj.不可避免的
 
-- *avoid* conflicts
-- Please *avoid* leaving litter
-  - leaving v.扔掉
+- *avoid* [[#conflicts]]
+  - conflict n.冲突
+- Please *avoid* [[../4 word library/Word List L#leaving v.遗弃|leaving]] [[#litter]]
   - litter n.垃圾
-  - Students should *avoid* leaving litter
+- Students should *avoid* [[../4 word library/Word List L#leaving v.遗弃|leaving]] litter
 
 ## awake
 
@@ -34,7 +34,7 @@
 - wake up
 - get up
 - I *awake* at 6 every morning.
-- I stayed *awake* the whole night
+- I stayed *awake* the [[#whole]] night
   - whole adj.整个的
 
 ## award
@@ -58,13 +58,21 @@
 
 ### aware adj.意识到的
 
-- unaware adj.没有意识到
-- awareness n.意识;认识
+- [[#unaware adj.没有意识到]]
+- [[#awareness n.意识;认识]]
 
 - be *aware* of + 名词
 - be *aware* that + 句子
 - We are *aware* our own [[Word List 1#advantage n.优点;有利条件|advantages]]
 - I am *aware* that I made a mistake
+
+## unaware
+
+### unaware adj.没有意识到
+
+## awareness
+
+### awareness n.意识;认识
 
 ## awful
 
@@ -122,7 +130,7 @@
 ### basic adj.基本的;基础的
 
 - *basic* needs 基本需求
-- *basic* requirements
+- *basic* [[#requirements]]
   - requirement n.需求
 
 ### basic adj.初级的
@@ -172,38 +180,37 @@
 
 ### because conj.因为
 
-- I love Engilsh because English is useful [[#communication]] tool.
-  - communication n.沟通；交流
+- I love Engilsh *because* English is useful [[Word List 6#communication n.沟通；交流；传递；传达|communication]] tool.
 
 ### because of prep.因为
 
-- Because of the bad weather, all flights have been can cancelled
+- *Because* of the bad weather, all flights have been can [[Word List 5#cancel v.取消；撤销|cancelled]]
 
 ## become
 
 ### become v.变成；成为；开始变得
 
-- After [[#graduation]],she becomes a [[#housewife]].
+- After [[#graduation]],she *becomes* a [[#housewife]].
   - graduation n.毕业
   - housewife n.家庭主妇
-- You'd better put on a sweater in case it should become cold.
-  - in case 以防
+- You'd better put on a [[#sweater]] in [[Word List 5#case n.情况|case]] it should *become* cold.
+  - sweater n.毛衣
 
 ## before
 
 ### before prep.之前；在……以前；在……面前
 
-- before 2027
-- Before the boss,I feel [[#nervous]].
+- *before* 2027
+- *Before* the boss,I feel [[#nervous]].
   - nervous adj.紧张
 
 ### before conj.在……以前；到……之前
 
-- I did nothing,before I got married.
+- I did nothing,*before* I got [[#married]].
 
 ## begin
 
-## begin v.开始
+### begin v.开始
 
 - *begin* to do sth.=*begin* doing sth.
 - Class *begins*
@@ -215,10 +222,9 @@
 
 ### behind prep.在……后面
 
-- Behind the campus is a pond
+- *Behind* the [[#campus]] is a [[../3 extension word/extension word 2#pond n.池塘|pond]]
   - campus n.校园
-  - pond n.池塘
 
 ### behind adv.在……后面
 
-- leg behind = fall behind 落下；落后于
+- leg *behind* = fall *behind* 落下；落后于
