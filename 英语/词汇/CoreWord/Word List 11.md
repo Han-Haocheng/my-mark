@@ -1,36 +1,30 @@
 # Word List 11
 
-1. flexible adj.灵活的
-   - flexible timetable/employment
-     - timetable n.时间表
-     - employment n.就业
-   adj.柔韧的；可弯曲的；有弹性的
-   - flexible figure
-   - Copper wire is flexible.
-     - copper n.铜
-     - wire n.电线
-
-2. fluent adj.(说话)流利的；流畅的
-   - She's fluent in English.
-
-3. focus v.集中(注意力、精力)
-   - focus sth. on/upon sth.
-   - You should focus your attention on your vocabulary instead of grammar.
-     - vocabulary n.词汇
-     - grammar n.语法
-   n.中心点；焦点；中心
-   - The focus of higher education is its equality and teaching reform.
-     - equality n.平等
-     - reform n.改革
-
-4. fond adj.喜欢的；喜爱的
-   - be fond of 喜欢……
-   - The baby is fond of dolls.
-     - doll 洋娃娃
-   - The man is fond of collecting stamps.
-     - stamp n.邮票
-
-5. forecast n.预测；预报
-    - weather forecast
-    n.天气预报
-    v.预测；预报
+1. ![[../4 word library/Word List F.md#flexible]]
+2. ![[../4 word library/Word List F.md#fluent]]
+3. ![[../4 word library/Word List F.md#focus]]
+4. ![[../4 word library/Word List F.md#fond]]
+5. ![[../4 word library/Word List F.md#forecast]]
+6. ![[../4 word library/Word List F.md#formal]]
+   1. ![[../4 word library/Word List F.md#informal]]
+7. ![[../4 word library/Word List F.md#former]]
+8. ![[../4 word library/Word List F.md#frank]]
+   1. ![[../4 word library/Word List F.md#frankly]]
+9. ![[../4 word library/Word List F.md#frequent]]
+   1. ![[../4 word library/Word List F.md#frequently]]
+10. ![[../4 word library/Word List F.md#fuel]]
+11. ![[../4 word library/Word List G.md#gap]]
+12. ![[../4 word library/Word List G.md#generous]]
+    1. ![[../4 word library/Word List G.md#generosity]]
+13. ![[../4 word library/Word List G.md#glory]]
+    1. ![[../4 word library/Word List G.md#glorious]]
+14. ![[../4 word library/Word List G.md#goal]]
+15. ![[../4 word library/Word List G.md#graduate]]
+    1. ![[../4 word library/Word List G.md#undergraduate]]
+    2. ![[../4 word library/Word List G.md#postgraduate]]
+16. ![[../4 word library/Word List G.md#grateful]]
+17. ![[../4 word library/Word List G.md#guarantee]]
+18. ![[../4 word library/Word List H.md#handle]]
+19. ![[../4 word library/Word List H.md#harm]]
+    1. ![[../4 word library/Word List H.md#harmful]]
+20. ![[../4 word library/Word List H.md#harvest]]
