@@ -1,14 +1,15 @@
 <%*
 let list = {
-  "ℹ️ info" : "info,info",
-  "✏️ note" : "note,note",
+  "ℹ️ info" : "info,信息",
+  "✏️ note" : "note,笔记",
   "📒 summary" : "summary,summary",
-  "🔥 tip" : "tip,tip",
-  "☑️ check" : "check,check",
-  "❔Help" : "help,help",
-  "⚠️ Warning" : "warning,warning",
-  "❌ Fail" : "fail,fail",
-  "⚡Danger" : "danger,danger",
+  "🔥 tip" : "tip,提示",
+  "☑️ check" : "check,目标",
+  "❔ Help" : "help,帮助",
+  "⚠️ Warning" : "warning,警告",
+  "❌ Fail" : "fail,错误",
+  "❔ FAQ": "FAQ,问题",
+  "⚡ Danger" : "danger,danger",
   "🪲 Bug" : "bug,bug",
   "📋 Example" : "example,example",
   "✍️ Quote " : "quote,quote",
@@ -21,5 +22,6 @@ let value = list[key];
 let index = value.indexOf(",");
 let text = value.substring(index+1);
 value = value.substring(0, index);
-if (key) return ">[!" + value + "]+ " + text + "\n> ";
+if (key)
+    return ">[!" + value + "]+ " + text + "\n> ";
 %>
