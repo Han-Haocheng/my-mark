@@ -6,7 +6,7 @@ let list = {
   "🔥 tip" : "tip,提示",
   "☑️ check" : "check,目标",
   "❔ Help" : "help,帮助",
-  "⚠️ Warning" : "warning,警告",
+  "⚠️ Warning" : "warning,注意",
   "❌ Fail" : "fail,错误",
   "❔ FAQ": "FAQ,问题",
   "⚡ Danger" : "danger,danger",

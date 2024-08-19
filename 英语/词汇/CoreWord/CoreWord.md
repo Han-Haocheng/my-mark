@@ -2,7 +2,7 @@
 
 ## 目录
 
-### [[Word List 1.md|Word List 1]]
+### [[Word List -md|Word List 1]]
 
 - [[../4 word library/Word List A#abroad|abroad]]
 - [[../4 word library/Word List A#accept|accept]]
@@ -27,7 +27,7 @@
 - [[../4 word library/Word List A#appear|appear]]
 - [[../4 word library/Word List A#apply|apply]]
 
-### [[Word List 2.md|Word List 2]]
+### [[Word List -md|Word List 2]]
 
 - [[../4 word library/Word List A#appointmant|appointmant]]
 - [[../4 word library/Word List A#appreciate|appreciate]]
@@ -58,7 +58,7 @@
 - [[../4 word library/Word List A#automatic|automatic]]
 - [[../4 word library/Word List A#available|available]]
 
-### [[Word List 3.md|Word List 3]]
+### [[Word List -md|Word List 3]]
 
 - [[../4 word library/Word List A#average|average]]
 - [[../4 word library/Word List A#avoid|avoid]]
@@ -82,7 +82,7 @@
 - [[../4 word library/Word List B#begin|begin]]
 - [[../4 word library/Word List B#behind|behind]]
 
-### [[Word List 4.md|Word List 4]]
+### [[Word List -md|Word List 4]]
 
 - [[../4 word library/Word List B#belong|belong]]
 - [[../4 word library/Word List B#benefit|benefit]]
@@ -106,7 +106,7 @@
 - [[../4 word library/Word List B#bravely|bravely]]
 - [[../4 word library/Word List B#break|break]]
 
-### [[Word List 5.md|Word List 5]]
+### [[Word List -md|Word List 5]]
 
 - [[../4 word library/Word List B#breathe|breathe]]
 - [[../4 word library/Word List B#breath|breath]]
@@ -132,7 +132,7 @@
 - [[../4 word library/Word List C#charity|charity]]
 - [[../4 word library/Word List C#chief|chief]]
 
-### [[Word List 6.md|Word List 6]]
+### [[Word List -md|Word List 6]]
 
 - [[../4 word library/Word List C#claim|claim]]
 - [[../4 word library/Word List C#climate|climate]]
@@ -169,7 +169,7 @@
 - [[../4 word library/Word List C#constructive|constructive]]
 - [[../4 word library/Word List C#contact|contact]]
 
-### [[Word List 7.md|Word List 7]]
+### [[Word List -md|Word List 7]]
 
 - [[../4 word library/Word List C#content|content]]
 - [[../4 word library/Word List C#contract|contract]]
@@ -198,7 +198,7 @@
 - [[../4 word library/Word List D#deliver|deliver]]
 - [[../4 word library/Word List D#demand|demand]]
 
-### [[Word List 8.md|Word List 8]]
+### [[Word List -md|Word List 8]]
 
 - [[../4 word library/Word List D#depend|depend]]
 - [[../4 word library/Word List D#deposit|deposit]]
@@ -228,7 +228,7 @@
 - [[../4 word library/Word List D#divide|divide]]
 - [[../4 word library/Word List D#donate|donate]]
 
-### [[Word List 9.md|Word List 9]]
+### [[Word List -md|Word List 9]]
 
 - [[../4 word library/Word List D#doubt|doubt]]
 - [[../4 word library/Word List D#draft|draft]]
@@ -256,7 +256,7 @@
 - [[../4 word library/Word List E#establish|establish]]
 - [[../4 word library/Word List E#event|event]]
 
-### [[Word List 10.md|Word List 10]]
+### [[Word List -md|Word List 10]]
 
 - [[../4 word library/Word List E#eventually|eventually]]
 - [[../4 word library/Word List E#exchange|exchange]]
@@ -294,7 +294,7 @@
 - [[../4 word library/Word List F#figure|figure]]
 - [[../4 word library/Word List F#firm|firm]]
 
-### [[Word List 11.md|Word List 11]]
+### [[Word List -md|Word List 11]]
 
 - [[../4 word library/Word List F.md#flexible|flexible]]
 - [[../4 word library/Word List F.md#fluent|fluent]]
@@ -324,3 +324,82 @@
 - [[../4 word library/Word List H.md#harm|harm]]
   - [[../4 word library/Word List H.md#harmful|harmful]]
 - [[../4 word library/Word List H.md#harvest|harvest]]
+
+### [[Word List -md|Word List 12]]
+
+- [[../4 word library/Word List H#hesitate|hesitate]]
+- [[../4 word library/Word List H#hobby|hobby]]
+- [[../4 word library/Word List H#honest|honest]]
+  - [[../4 word library/Word List H#honesty|honesty]]
+- [[../4 word library/Word List H#household|household]]
+- [[../4 word library/Word List H#however|however]]
+- [[../4 word library/Word List H#humorous|humorous]]
+  - [[../4 word library/Word List H#humor|humor]]
+- [[../4 word library/Word List I#identity|identity]]
+- [[../4 word library/Word List I#ignore|ignore]]
+  - [[../4 word library/Word List I#ignorance|ignorance]]
+  - [[../4 word library/Word List I#ignorant|ignorant]]
+- [[../4 word library/Word List I#illustrate|illustrate]]
+- [[../4 word library/Word List I#image|image]]
+  - [[../4 word library/Word List I#imagine|imagine]]
+  - [[../4 word library/Word List I#imagination|imagination]]
+  - [[../4 word library/Word List I#imaginable|imaginable]]
+  - [[../4 word library/Word List I#imaginative|imaginative]]
+- [[../4 word library/Word List I#imaginary|imaginary]]
+- [[../4 word library/Word List I#impact|impact]]
+- [[../4 word library/Word List I#improve|improve]]
+  - [[../4 word library/Word List I#improvement|improvement]]
+- [[../4 word library/Word List I#include|include]]
+- [[../4 word library/Word List I#increase|increase]]
+- [[../4 word library/Word List I#independent|independent]]
+  - [[../4 word library/Word List I#independence|independence]]
+  - [[../4 word library/Word List I#independently|independently]]
+- [[../4 word library/Word List I#indicate|indicate]]
+- [[../4 word library/Word List I#individual|individual]]
+- [[../4 word library/Word List I#influence|influence]]
+  - [[../4 word library/Word List I#influencer|influencer]]
+- [[../4 word library/Word List I#inform|inform]]
+  - [[../4 word library/Word List I#information|information]]
+
+### [[Word List 13]] 
+
+- [[../4 word library/Word List I#injure|injure]]
+  - [[../4 word library/Word List I#injured|injured]]
+  - [[../4 word library/Word List I#injury|injury]]
+- [[../4 word library/Word List I#inspire|inspire]]
+  - [[../4 word library/Word List I#inspiring|inspiring]]
+  - [[../4 word library/Word List I#inspiration|inspiration]]
+- [[../4 word library/Word List I#install|install]]
+  - [[../4 word library/Word List U#uninstall|uninstall]]
+- [[../4 word library/Word List I#intelligent|intelligent]]
+  - [[../4 word library/Word List I#intelligence|intelligence]]
+- [[../4 word library/Word List I#intend|intend]]
+  - [[../4 word library/Word List I#intention|intention]]
+- [[../4 word library/Word List I#interest|interest]]
+  - [[../4 word library/Word List I#interested|interested]]
+  - [[../4 word library/Word List I#interesting|interesting]]
+- [[../4 word library/Word List I#interview|interview]]
+  - [[../4 word library/Word List I#interviewer|interviewer]]
+  - [[../4 word library/Word List I#interviewee|interviewee]]
+- [[../4 word library/Word List I#invent|invent]]
+  - [[../4 word library/Word List I#invention|invention]]
+  - [[../4 word library/Word List I#inventor|inventor]]
+- [[../4 word library/Word List I#invite|invite]]
+  - [[../4 word library/Word List I#invitation|invitation]]
+- [[../4 word library/Word List I#issue|issue]]
+- [[../4 word library/Word List I#item|item]]
+- [[../4 word library/Word List J#journal|journal]]
+- [[../4 word library/Word List J#judge|judge]]
+  - [[../4 word library/Word List J#judgment|judgment]]
+- [[../4 word library/Word List J#junior|junior]]
+  - [[../4 word library/Word List S#senior|senior]]
+- [[../4 word library/Word List J#justice|justice]]
+- [[../4 word library/Word List L#latter|latter]]
+- [[../4 word library/Word List L#laugh|laugh]]
+  - [[../4 word library/Word List L#laughter|laughter]]
+- [[../4 word library/Word List L#lazy|lazy]]
+  - [[../4 word library/Word List L#laziness|laziness]]
+- [[../4 word library/Word List L#least|least]]
+- [[../4 word library/Word List L#leisure|leisure]]
+  - [[../4 word library/Word List L#leisurely|leisurely]]
+
