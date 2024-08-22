@@ -2,7 +2,7 @@
 
 ## 目录
 
-### [[Word List -md|Word List 1]]
+### [[Word List 1]]
 
 - [[../4 word library/Word List A#abroad|abroad]]
 - [[../4 word library/Word List A#accept|accept]]
@@ -27,7 +27,7 @@
 - [[../4 word library/Word List A#appear|appear]]
 - [[../4 word library/Word List A#apply|apply]]
 
-### [[Word List -md|Word List 2]]
+### [[Word List 2]]
 
 - [[../4 word library/Word List A#appointmant|appointmant]]
 - [[../4 word library/Word List A#appreciate|appreciate]]
@@ -58,7 +58,7 @@
 - [[../4 word library/Word List A#automatic|automatic]]
 - [[../4 word library/Word List A#available|available]]
 
-### [[Word List -md|Word List 3]]
+### [[Word List 3]]
 
 - [[../4 word library/Word List A#average|average]]
 - [[../4 word library/Word List A#avoid|avoid]]
@@ -82,7 +82,7 @@
 - [[../4 word library/Word List B#begin|begin]]
 - [[../4 word library/Word List B#behind|behind]]
 
-### [[Word List -md|Word List 4]]
+### [[Word List 4]]
 
 - [[../4 word library/Word List B#belong|belong]]
 - [[../4 word library/Word List B#benefit|benefit]]
@@ -106,7 +106,7 @@
 - [[../4 word library/Word List B#bravely|bravely]]
 - [[../4 word library/Word List B#break|break]]
 
-### [[Word List -md|Word List 5]]
+### [[Word List 5]]
 
 - [[../4 word library/Word List B#breathe|breathe]]
 - [[../4 word library/Word List B#breath|breath]]
@@ -132,7 +132,7 @@
 - [[../4 word library/Word List C#charity|charity]]
 - [[../4 word library/Word List C#chief|chief]]
 
-### [[Word List -md|Word List 6]]
+### [[Word List 6]]
 
 - [[../4 word library/Word List C#claim|claim]]
 - [[../4 word library/Word List C#climate|climate]]
@@ -169,7 +169,7 @@
 - [[../4 word library/Word List C#constructive|constructive]]
 - [[../4 word library/Word List C#contact|contact]]
 
-### [[Word List -md|Word List 7]]
+### [[Word List 7]]
 
 - [[../4 word library/Word List C#content|content]]
 - [[../4 word library/Word List C#contract|contract]]
@@ -198,7 +198,7 @@
 - [[../4 word library/Word List D#deliver|deliver]]
 - [[../4 word library/Word List D#demand|demand]]
 
-### [[Word List -md|Word List 8]]
+### [[Word List 8]]
 
 - [[../4 word library/Word List D#depend|depend]]
 - [[../4 word library/Word List D#deposit|deposit]]
@@ -228,7 +228,7 @@
 - [[../4 word library/Word List D#divide|divide]]
 - [[../4 word library/Word List D#donate|donate]]
 
-### [[Word List -md|Word List 9]]
+### [[Word List 9]]
 
 - [[../4 word library/Word List D#doubt|doubt]]
 - [[../4 word library/Word List D#draft|draft]]
@@ -256,7 +256,7 @@
 - [[../4 word library/Word List E#establish|establish]]
 - [[../4 word library/Word List E#event|event]]
 
-### [[Word List -md|Word List 10]]
+### [[Word List 10]]
 
 - [[../4 word library/Word List E#eventually|eventually]]
 - [[../4 word library/Word List E#exchange|exchange]]
@@ -294,7 +294,7 @@
 - [[../4 word library/Word List F#figure|figure]]
 - [[../4 word library/Word List F#firm|firm]]
 
-### [[Word List -md|Word List 11]]
+### [[Word List 11]]
 
 - [[../4 word library/Word List F.md#flexible|flexible]]
 - [[../4 word library/Word List F.md#fluent|fluent]]
@@ -325,7 +325,7 @@
   - [[../4 word library/Word List H.md#harmful|harmful]]
 - [[../4 word library/Word List H.md#harvest|harvest]]
 
-### [[Word List -md|Word List 12]]
+### [[Word List 12]]
 
 - [[../4 word library/Word List H#hesitate|hesitate]]
 - [[../4 word library/Word List H#hobby|hobby]]
