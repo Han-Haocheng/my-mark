@@ -6,7 +6,17 @@
 .vscode
 .idea\*
 .idea
-latexcfg.md
+.stfolder\*
+.stfolder
 
 
-随笔.md
+日记
+日记\*
+temp
+temp\*
+templates
+templates\*
+笔记.code-workspace
+latexcfg.json
+.stignore
+
