@@ -8,31 +8,31 @@
 - at home and *abroad* 国内外
 
 - The [[#couple]] went *abroad*.
-  - couple n.夫妻
+	- couple n.夫妻
 - The [[#brand]] is [[#famous]] at home and *abroad*.
-  - brand n.品牌
-  - famous adj.著名
-- She accepts my apology.
-  - apology n.道歉
+	- brand n.品牌
+	- famous adj.著名
+- She accepts my [[#apology]].
+	- apology n.道歉
 
 ## accept
 
-- [[#acceptence n.认可]]
+- [[#acceptance n.认可]]
 
 ### accept v. 接受（建议、要求）;认可
 
-- Please *accept* our [[#sincere]] [[#aplogies]]
-  - [[#sincere]] adj. 诚实的, 正直的, 真挚的, 纯净的
-  - [[#aplogie]] n. 道歉, 抱歉, 抱怨, 道歉书
-- I *accept* you [[#advice n.建议;忠告;劝告|advice]]/[[#suggestions]].
-  - [[#suggestion]] n.建议（可数）
+- Please *accept* our [[#sincere]] [[#apologies]]
+	- [[#sincere]] adj. 诚实的, 正直的, 真挚的, 纯净的
+	- [[#apologies]] n. 道歉, 抱歉, 抱怨, 道歉书
+- I *accept* you [[#advice n.建议;忠告;劝告|advice]]/[[suggestions]].
+	- [[#suggestion]] n.建议（可数）
 - The couple *accepted* my invitation.
 - I do hope all of you will *accept* my teaching style.
 - I accepted your [[#apology]]
 
-## acceptence
+## acceptance
 
-### acceptence n.认可
+### acceptance n.认可
 
 - Students' *acceptance* makes me happy
 
@@ -42,40 +42,35 @@
 
 - car *accident* 交通事故
 
-- Researchers have [[#estimated]] that as many as 80% of all [[#automobile]] *accidents* can be [[#attribute v.归因于|attributed]] to [[#psychological]] [[#condition]] of the driver.
-  - [[#estimate]] v. 估计;估算
-  - [[#automobile]] n. 汽车;v. 开汽车;坐汽车;adj. 自动的
-  - [[#psychological]] adj. 心理的;心灵的;精神上的
-  - [[#condition]] n.状态;条件;v. 决定
+- Researchers have [[#estimated]] that as many as 80% of all [[#automobile]] *accidents* can be [[#attribute v.归因于|attributed]] to [[#psychological]] [[Word List C#condition n.条件；物质环境|condition]] of the driver.
+	- [[#estimate]] v. 估计;估算
+	- [[#automobile]] n. 汽车;v. 开汽车;坐汽车;adj. 自动的
+	- [[#psychological]] adj. 心理的;心灵的;精神上的
 
 ## account
 
 ### account v. 认为是;视为
 
 - *account* for 解释;说明;是……的原因
-- take...into *account* = take ... into [[#cosideration]] 把……考虑进去
+- take...into *account* = take ... into [[Word List C#consideration n.考虑；原因|consideration]] 把……考虑进去
 - on *account* of 由于
-- His *laziness* *accounts* for his *failue*
-  - laziness n. 懒惰
-  - failue n. 失败
-
+- His [[Word List L#laziness n.懒惰|laziness]] *accounts* for his [[Word List F#failure n.失败|failure]]
 - On *account* of [[#terrible]] weather, the [[#flight]] has been [[Word List C#cancel v.取消；撤销|cancelled]].
-  - [[#terrible]] adj. 恶劣的
-  - [[#flight]] n.航班
+	- [[#terrible]] adj. 恶劣的
+	- [[#flight]] n.航班
 
 ### account n. 账户;说明;账号;叙述
 
 ## achieve
 
-- [[#achievement v. 成就;成绩]]
+- [[#achievement]]
 
 ### achieve v. 实现;完成
 
 - *achieve* one's dream
 
 - I [[#must]] *achieve* my dreams
-- I [[#can]] *achieve* my [[#goals]]
-  - goal n. 目标
+- I [[#can]] *achieve* my [[Word List G#goal n.目标；目的|goals]]
 
 ## achievement
 
@@ -90,15 +85,15 @@
 ### adjust v.调整;调节
 
 - He *adjusted* the light/air [[#conditioner]]/[[#mood]]
-  - conditioner n.调节器
-  - [[#mood]] n.心情
+	- conditioner n.调节器
+	- [[#mood]] n.心情
 
 ### adjust v.适应;习惯
 
 - *adjust* oneself to 使自己适应;习惯于
 - The boy *adjusted* himself to the new [[#dormitory]] life
   - [[#dormitory]] n. 宿舍
-- Learn to adjust yourself to the new life
+- Learn to *adjust* yourself to the new life
 
 ## adjustment
 
@@ -114,7 +109,7 @@
 
 ### adult n. 成年人
 
-- *adult* topice 话题
+- *adult* topic 话题
 - *adult* movies/films
 
 ## advantage
@@ -164,7 +159,7 @@
 
 ### against prep.碰;倚着
 
-- The [[#ladder]] [[#leans]] *aganist* the wall.
+- The [[#ladder]] [[#leans]] *against* the wall.
   - ladder n.梯子
   - leans v.倚靠
 
@@ -197,13 +192,13 @@ adv.（与某人）一道;一起
 - Dad drives 28 miles and __back and forth__ the work *alone*
   - back and forth 往返
 
-## althouth
+## although
 
-### althouth conj. 虽然;尽管
+### although conj. 虽然;尽管
 
 - *Although* the girl is [[#pretty]], I [[#dislike n.不喜欢|dislike]] her
   - pretty adj.美丽的;漂亮的
-- *Althouth* he work hard, he makes no [[#progress]]
+- *Although* he work hard, he makes no [[#progress]]
   - progress n. 进展;进步
 
 ## amount
@@ -354,13 +349,13 @@ adv.（与某人）一道;一起
 - The adults' [[#negligence]] *attribute* to the girl's death.
   - negligence n.疏忽大意
 
-## appointmant
+## appointment
 
-### appointmant n.约会;预约（商务）
+### appointment n.约会;预约（商务）
 
-- make an *appontmant*
+- make an *appointment*
 
-### appointmant n.委任;任命
+### appointment n.委任;任命
 
 - His new *appointment* takes [[#effect]] from the beginning of new mouth.
   - effect n.影响;生效
@@ -372,7 +367,7 @@ adv.（与某人）一道;一起
 ### appreciate v.感激;感谢
 
 - I *appreciate* your [[#timely]] help
-  - timely adv. 及时的
+	- timely adv. 及时的
 - I *appreciate* your saving me
 
 ## appreciation

@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: pnant-jpqoy
+created: 2024-08-25T12:36:07+08:00
