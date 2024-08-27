@@ -114,7 +114,7 @@
 
 ### definite  adj.确定的；肯定的
 
-- After a [[#serious]] [[#considenation]], I have made a *definite* [[Word List 7#decision n.决定|decision]] to [[#resign]] from the [[#department]],[[#effective]] on December.
+- After a [[#serious]] [[#considenation]], I have made a *definite* [[../CoreWord/Word List 07#decision n.决定|decision]] to [[#resign]] from the [[#department]],[[#effective]] on December.
   - serious adj.慎重的
   - resign v.辞职；屈从
   - department n.部门
@@ -124,12 +124,12 @@
 
 ### delay n.延期；推迟
 
-- The *delay* of the [[#flight]] has [[Word List 5#cause v.导致；引起|caused]] me a lot of [[#trouble]].
+- The *delay* of the [[#flight]] has [[../CoreWord/Word List 05#cause v.导致；引起|caused]] me a lot of [[#trouble]].
 
 ### delay v. 推迟；延期
 
 - *delay* doing sth
-- The lovers [[Word List 7#decide v.决定；做出决心|decided]] to *delay* [[Word List 7#decorate v.装饰；装点|decorating]] their rooms.
+- The lovers [[../CoreWord/Word List 07#decide v.决定；做出决心|decided]] to *delay* [[../CoreWord/Word List 07#decorate v.装饰；装点|decorating]] their rooms.
 
 ## delicious
 

@@ -102,11 +102,11 @@
 
 ### because conj.因为
 
-- I love Engilsh *because* English is useful [[Word List 6#communication n.沟通；交流；传递；传达|communication]] tool.
+- I love Engilsh *because* English is useful [[../CoreWord/Word List 06#communication n.沟通；交流；传递；传达|communication]] tool.
 
 ### because of prep.因为
 
-- *Because* of the bad weather, all flights have been can [[Word List 5#cancel v.取消；撤销|cancelled]]
+- *Because* of the bad weather, all flights have been can [[../CoreWord/Word List 05#cancel v.取消；撤销|cancelled]]
 
 ## become
 
@@ -115,7 +115,7 @@
 - After [[#graduation]],she *becomes* a [[#housewife]].
   - graduation n.毕业
   - housewife n.家庭主妇
-- You'd better put on a [[#sweater]] in [[Word List 5#case n.情况|case]] it should *become* cold.
+- You'd better put on a [[#sweater]] in [[../CoreWord/Word List 05#case n.情况|case]] it should *become* cold.
   - sweater n.毛衣
 - It was become more anal more difficult to liveon hissalary
 

@@ -181,7 +181,7 @@
 
 - golden *chance* 黄金机会
 - *chances* are that sth. 可能...
-- Being [[Word List 6#confident adj.自信的；把握|confident]] can [[#increase]] the chance to win
+- Being [[../CoreWord/Word List 06#confident adj.自信的；把握|confident]] can [[#increase]] the chance to win
 
 ## change
 
@@ -259,7 +259,7 @@
 
 ### climate n.气候
 
-- The [[Word List 5#change n.变化；改变；找给的零钱|change]] from a [[#favorable]] to an [[#unfavorable]] *climate*
+- The [[../CoreWord/Word List 05#change n.变化；改变；找给的零钱|change]] from a [[#favorable]] to an [[#unfavorable]] *climate*
   - favorable adj.有利的；良好的
   - unfavorable adj.不适宜的；不顺利的
 
@@ -466,7 +466,7 @@
 - I'm *considering* buying a NEV.
   - NEV n.新能源汽车
 - *consider* sth. as 把……视为；认为
-- I *consider* the [[../2 basic word/basic word 2#exam/examination n.检查;审查;(仔细的)检验;调查;考察;考查|exam]] as a [[Word List 5#challenge n.挑战|challenge]].
+- I *consider* the [[../2 basic word/basic word 2#exam/examination n.检查;审查;(仔细的)检验;调查;考察;考查|exam]] as a [[../CoreWord/Word List 05#challenge n.挑战|challenge]].
 - all things *considered* 通盘考虑；从各方面考虑
 - *considering* that 鉴于；考虑到……
 
@@ -578,7 +578,7 @@
 
 ### count  v.计数
 
-- Don't *count* chickens [[Word List 3#before conj.在……以前；到……之前|before]] they are [[#hatched]].
+- Don't *count* chickens [[../CoreWord/Word List 03#before conj.在……以前；到……之前|before]] they are [[#hatched]].
   - hatch v.孵化
 
 ### count v.重要
@@ -599,7 +599,7 @@
 
 - in/over the *course* of = time/[[#period]]
   - period n.学期
-- He's seen many [[Word List 5#change n.变化；改变；找给的零钱|changes]] in the *course* of the opening and [[#reform]].
+- He's seen many [[../CoreWord/Word List 05#change n.变化；改变；找给的零钱|changes]] in the *course* of the opening and [[#reform]].
   - reform n.改革
 
 ## credit

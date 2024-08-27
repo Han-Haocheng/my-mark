@@ -434,7 +434,7 @@ adv.（与某人）一道;一起
 - Last night *arrived* in Beijing Train Station.
 - Last night *arrived* at zhangqiu Station
 
-- The woman isn't sur when the train wall *arrive*.The train was [[Word List 5#catch v.接住；拦住|cought]] in an [[../1 core word/Word List 1#accident n. 事故;意外;偶然事件|accident]].
+- The woman isn't sur when the train wall *arrive*.The train was [[../CoreWord/Word List 05#catch v.接住；拦住|cought]] in an [[../1 core word/Word List 1#accident n. 事故;意外;偶然事件|accident]].
   - cought v.陷入
 
 ## asleep
