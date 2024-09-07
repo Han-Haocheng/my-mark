@@ -1,24 +1,15 @@
 # cmake_minimu_required
-语法：`cmake_minimu_required(VERSION <min>[...<policy_max>] [FATAL_ERROR])`
 
-含义：为cmake项目配置最小的CMAKE版本
-
-参数：
-- `<min>`：最小的版本
-- `[...<policy_max>]`：到最大的版本
+`cmake_minimu_required`：为cmake项目配置最小的CMAKE版本
+- 语法：`cmake_minimu_required(VERSION <min>[...<policy_max>] [FATAL_ERROR])`
+	- `<min>`：最小的版本
+	- `[...<policy_max>]`：到最大的版本
+	- `[FATAL_ERROR]`
 
 # if...else...endif
 
-语法
-```CMAKE
-if(<condition>)
-  # ...
-else()
-  # ...
-endif()
-```
+`if...else...endif`：条件判断
 
-含义：条件判断
-
-参数：
-  - `<condition>`：判断条件
+- 语法：`if(<condition>)[<sentence>]else()[<sentence>]endif()`
+	- `<condition>`：判断条件
+	- `[<sentence>]`：CMAKE语句
