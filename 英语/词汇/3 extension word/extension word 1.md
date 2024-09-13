@@ -8,8 +8,8 @@
 
 ### alcohol n.酒精;乙醇;酒;含酒精饮料
 
-- Drinking *excessive* [[#alcohold]] dose harm to your health.
-- [[#excessive]] adj.过量的
+- Drinking *excessive* [[#alcohol]] dose harm to your health.
+	- [[#excessive]] adj.过量的
 
 ## ancestor
 

@@ -59,15 +59,16 @@
 - The former..., the latter...
 ### latter pron.后者
 
-
 ## laugh
 
-### laugh v.笑；发笑
+### laugh vi.笑；发笑
 
-- The girl laughs joyfully.
+- The girl *laughs* joyfully.
   - joyfully adv.开心地
-- laugh at
-- Never laugh at others.
+- *laugh* at
+- Never *laugh* at others.
+- The students *laugh* happily/joyfully.
+- Don't *laugh* at your classmates.
 
 ## laughter
 

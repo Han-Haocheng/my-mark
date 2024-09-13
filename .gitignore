@@ -21,5 +21,6 @@ templates\*
 笔记.code-workspace
 latexcfg.json
 .stignore
-
+.stversions
+.stversions\*
 Excalidraw
