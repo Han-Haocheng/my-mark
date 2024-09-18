@@ -1,4 +1,29 @@
 # Word List 15
+	mention
+	mess  
+	message  
+	method  
+	minute  
+	missing  
+	mistake  
+	mobile  
+	model  
+	modern  
+	monitor  
+	moreover  
+	native  
+	nature  
+	neat  
+	necessary  
+	necessarily  
+	necessity  
+	negative  
+	nervous  
+	normal  
+	abnormal  
+	novel
+
+## 单词
 
 1. ![[../4 word library/Word List M#mention|mention]]
 2. ![[../4 word library/Word List M#mess|mess]]
@@ -16,11 +41,14 @@
 14. ![[../4 word library/Word List N#nature|nature]]
 15. ![[../4 word library/Word List N#neat|neat]]
 16. ![[../4 word library/Word List N#necessary|necessary]]
-17. ![[../4 word library/Word List N#necessarily|necessarily]]
-18. ![[../4 word library/Word List N#necessity|necessity]]
-19. ![[../4 word library/Word List N#negative|negative]]
-20. ![[../4 word library/Word List N#nervous|nervous]]
-21. ![[../4 word library/Word List N#normal|normal]]
-22. ![[../4 word library/Word List A#abnormal|abnormal]]
-23. ![[../4 word library/Word List N#novel|novel]]
+	1. ![[../4 word library/Word List N#necessarily|necessarily]]
+	2. ![[../4 word library/Word List N#necessity|necessity]]
+17. ![[../4 word library/Word List N#negative|negative]]
+18. ![[../4 word library/Word List N#nervous|nervous]]
+19. ![[../4 word library/Word List N#normal|normal]]
+	1. ![[../4 word library/Word List A#abnormal|abnormal]]
+20. ![[../4 word library/Word List N#novel|novel]]
 
+## 文章
+
+##

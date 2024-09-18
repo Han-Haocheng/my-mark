@@ -404,7 +404,7 @@
 	- [[../4 word library/Word List L#leisurely|leisurely]]
 
 
-# Word List 14
+### [[Word List 14]]
 
 - [[../4 word library/Word List L#less|less]]
 - [[../4 word library/Word List L#like|like]]
@@ -431,7 +431,7 @@
 - [[../4 word library/Word List M#mental|mental]]
 
 
-# Word List 15
+### [[Word List 15]]
 
 - [[../4 word library/Word List M#mention|mention]]
 - [[../4 word library/Word List M#mess|mess]]
@@ -457,16 +457,45 @@
 - [[../4 word library/Word List A#abnormal|abnormal]]
 - [[../4 word library/Word List N#novel|novel]]
 
+### [[Word List 16]]
+
+- [[../4 word library/Word List O#object|object]]
+- [[../4 word library/Word List O#objection|objection]]
+- [[../4 word library/Word List O#observe|observe]]
+- [[../4 word library/Word List O#observation|observation]]
+- [[../4 word library/Word List O#obvious|obvious]]
+- [[../4 word library/Word List O#obviously|obviously]]
+- [[../4 word library/Word List O#occur|occur]]
+- [[../4 word library/Word List O#offer|offer]]
+- [[../4 word library/Word List O#operate|operate]]
+- [[../4 word library/Word List O#opinion|opinion]]
+- [[../4 word library/Word List O#opposite|opposite]]
+- [[../4 word library/Word List O#option|option]]
+- [[../4 word library/Word List O#ordinary|ordinary]]
+- [[../4 word library/Word List O#organize|organize]]
+- [[../4 word library/Word List O#organisation|organisation]]
+- [[../4 word library/Word List O#otherwise|otherwise]]
+- [[../4 word library/Word List O#overseas|overseas]]
+- [[../4 word library/Word List O#overweight|overweight]]
+- [[../4 word library/Word List P#pain|pain]]
+- [[../4 word library/Word List P#particular|particular]]
+- [[../4 word library/Word List P#particularly|particularly]]
+- [[../4 word library/Word List P#passive|passive]]
+- [[../4 word library/Word List P#passport|passport]]
+- [[../4 word library/Word List P#password|password]]
+- [[../4 word library/Word List P#patient|patient]]
+- [[../4 word library/Word List P#patience|patience]]
+
 ## 文章
 
 ### Embarking on a Journey Abroad: Overcoming Challenges and Achieving Success
 
-Accepting the opportunity to study abroad, I found myself in a completely new environment, facing an array of challenges and unexpected situations. An accident on my first day reminded me that I needed to account for every detail and adjust to the adult responsibilities that came with living abroad. The advantage of being in a different country was the valuable advice I received from those who had gone through similar experiences. Although the cost of living was a concern, I managed to afford it by budgeting carefully and seeking part-time employment.
-The journey was not without its difficulties. I often felt alone and anxious, especially when dealing with authorities and authorities' automatic processes. However, I learned to apply for appointments, attend to my studies, and appreciate the cultural attractions around me. The appreciation I had for the chance to study abroad kept me motivated, and I approached each day with a positive attitude.
-I soon realized that the key to success was to arrange my time effectively and maintain a balance between my academic and social life. I arranged my schedule to ensure I had enough time for both. Along the way, I encountered arguments and discussions that required me to express my opinions and defend my points. I learned to argue my case with confidence and to consider the other side of the argument.
-Despite the challenges, I was determined to achieve my goals. I concentrated on my studies and concerned myself with the details of each subject. I conducted research and attended conferences, all while trying to remain calm and collected. The confidence I gained from my achievements was rewarding, and I was grateful for the congratulatory messages from my friends and family.
-I became aware of the importance of communication and how it could influence my success. I made an effort to communicate effectively, both in writing and in person. I was inspired by the expressiveness of my professors and the imaginative ways they presented information. I tried to be a considerate communicator, ensuring that my messages were clear and concise.
-The environmental aspect of living abroad also caught my attention. I became an environmentalist at heart, advocating for sustainable practices and encouraging my peers to do the same. I was concerned about the impact of our actions on the environment and wanted to contribute to a positive change.
-During my time abroad, I experienced moments of disappointment, such as when I failed to understand a complex concept or when I made a mistake in my research. However, I learned to use these experiences as learning opportunities. I discovered that failure was a necessary part of growth and development.
-As I approached the end of my journey, I reflected on the improvements I had made, both academically and personally. I had increased my independence and become a more efficient learner. I had managed to include a variety of experiences in my time abroad, from exploring new places to meeting interesting people.
-In conclusion, my time abroad has been a journey of growth and discovery. I have faced challenges, learned from my mistakes, and achieved success in ways I had never imagined. The experience has taught me to be flexible, to focus on my goals, and to be grateful for the opportunities that come my way. I am now ready to take on the next chapter of my life with confidence and determination.
+- Accepting the opportunity to study abroad, I found myself in a completely new environment, facing an array of challenges and unexpected situations. An accident on my first day reminded me that I needed to account for every detail and adjust to the adult responsibilities that came with living abroad. The advantage of being in a different country was the valuable advice I received from those who had gone through similar experiences. Although the cost of living was a concern, I managed to afford it by budgeting carefully and seeking part-time employment.
+- The journey was not without its difficulties. I often felt alone and anxious, especially when dealing with authorities and authorities' automatic processes. However, I learned to apply for appointments, attend to my studies, and appreciate the cultural attractions around me. The appreciation I had for the chance to study abroad kept me motivated, and I approached each day with a positive attitude.
+- I soon realized that the key to success was to arrange my time effectively and maintain a balance between my academic and social life. I arranged my schedule to ensure I had enough time for both. Along the way, I encountered arguments and discussions that required me to express my opinions and defend my points. I learned to argue my case with confidence and to consider the other side of the argument.
+- Despite the challenges, I was determined to achieve my goals. I concentrated on my studies and concerned myself with the details of each subject. I conducted research and attended conferences, all while trying to remain calm and collected. The confidence I gained from my achievements was rewarding, and I was grateful for the congratulatory messages from my friends and family.
+- I became aware of the importance of communication and how it could influence my success. I made an effort to communicate effectively, both in writing and in person. I was inspired by the expressiveness of my professors and the imaginative ways they presented information. I tried to be a considerate communicator, ensuring that my messages were clear and concise.
+- The environmental aspect of living abroad also caught my attention. I became an environmentalist at heart, advocating for sustainable practices and encouraging my peers to do the same. I was concerned about the impact of our actions on the environment and wanted to contribute to a positive change.
+- During my time abroad, I experienced moments of disappointment, such as when I failed to understand a complex concept or when I made a mistake in my research. However, I learned to use these experiences as learning opportunities. I discovered that failure was a necessary part of growth and development.
+- As I approached the end of my journey, I reflected on the improvements I had made, both academically and personally. I had increased my independence and become a more efficient learner. I had managed to include a variety of experiences in my time abroad, from exploring new places to meeting interesting people.
+- In conclusion, my time abroad has been a journey of growth and discovery. I have faced challenges, learned from my mistakes, and achieved success in ways I had never imagined. The experience has taught me to be flexible, to focus on my goals, and to be grateful for the opportunities that come my way. I am now ready to take on the next chapter of my life with confidence and determination.

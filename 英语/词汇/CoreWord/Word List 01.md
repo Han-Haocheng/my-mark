@@ -1,6 +1,6 @@
 
 # Word List 1
-
+## 单词
 1. ![[../4 word library/Word List A#abroad]]
 2. ![[../4 word library/Word List A#accept]]
 3. ![[../4 word library/Word List A#accident]]

@@ -144,7 +144,7 @@
     {trigger: "-+", replacement: "\\mp", options: "mA"},
     {trigger: "...", replacement: "\\dots", options: "mA"},
     {trigger: "<->", replacement: "\\leftrightarrow ", options: "mA"},
-    {trigger: "->", replacement: "\\to\0", options: "mA"},
+    {trigger: "->", replacement: "\\to$0", options: "mA"},
     {trigger: "!>", replacement: "\\mapsto", options: "mA"},
     {trigger: "invs", replacement: "^{-1}", options: "mA"},
     {trigger: "\\\\\\", replacement: "\\setminus", options: "mA"},

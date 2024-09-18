@@ -1,82 +1,92 @@
 # Word List 17
 
-## perform
 
-### perform v.执行；履行
-- *perform* a [[#task]]/[[#obligation]]
-	- task n.任务
-	- obligation n.职责
+	perform
+	performance
+	permit
+	persuade
+	physical
+	physics
+	polite
+	politely
+	impolite
+	politeness
+	pollution
+	pollute
+	pollutant
+	population
+	positive
+	postpone
+	practical
+	practically
+	practice
+	praise
+	precaution
+	prefer
+	preference
+	preferable
+	prepare
+	preparation
+	present
+	prevent
+	prevention
+	preventive
+	previous
+	primary
+	private
+	privacy
+	procedure
 
-### perform v.表演；演出
-### perform v.做
-- *perform* an [[#experiment]]
-	- experiment n.实验
+## 单词列表
 
-## performance
+1. ![[../4 word library/Word List P#perform]]
+	1. ![[../4 word library/Word List P#performance]]
+2. ![[../4 word library/Word List P#permit]]
+3. ![[../4 word library/Word List P#persuade]]
+4. ![[../4 word library/Word List P#physical]]
+	1. ![[../4 word library/Word List P#physics]]
+5. ![[../4 word library/Word List P#polite]]
+	1. ![[../4 word library/Word List P#politely]]
+	2. ![[../4 word library/Word List I#impolite]]
+	3. ![[../4 word library/Word List P#politeness]]
+6. ![[../4 word library/Word List P#pollution]]
+	1. ![[../4 word library/Word List P#pollute]]
+	2. ![[../4 word library/Word List P#pollutant]]
+7. ![[../4 word library/Word List P#population]]
+8. ![[../4 word library/Word List P#positive]]
+9. ![[../4 word library/Word List P#postpone]]
+10. ![[../4 word library/Word List P#practical]]
+	1. ![[../4 word library/Word List P#practically]] 
 
-### performance n.表演；表现；演出；行为
+	2. ![[../4 word library/Word List P#practice]]
+11. ![[../4 word library/Word List P#praise]]
+12. ![[../4 word library/Word List P#precaution]]
+13. ![[../4 word library/Word List P#prefer]]
+	1. ![[../4 word library/Word List P#preference]]
+	2. ![[../4 word library/Word List P#preferable]]
+14. ![[../4 word library/Word List P#prepare]]
+	1. ![[../4 word library/Word List P#preparation]]
+15. ![[../4 word library/Word List P#present]]
+16. ![[../4 word library/Word List P#prevent]]
+	1. ![[../4 word library/Word List P#prevention]]
+	2. ![[../4 word library/Word List P#preventive]]
+17. ![[../4 word library/Word List P#previous]]
+18. ![[../4 word library/Word List P#primary]]
+19. ![[../4 word library/Word List P#private]]
+	1. ![[../4 word library/Word List P#privacy]]
+20. ![[../4 word library/Word List P#procedure]]
+## 文章
 
-## permit
+- In a world where human interaction is paramount, the art of politeness plays a pivotal role. Being polite, or impolite for that matter, can shape one’s reputation and influence social dynamics. It is not merely about politeness, but the practice of it that truly reflects one’s character. The way we perform in social settings often mirrors our inner values and beliefs.
 
-### permit vt/vi.允许；准许
+- Physical well-being is another area where performance is crucial. In the realm of physics, understanding the body’s mechanics can lead to improved physical performance. This understanding requires not just theoretical knowledge but practical application as well. Engaging in physical activities is a practice that not only maintains health but also boosts mental positivity.
 
-- If weather *permits*, we will go [[#camping]].
-	- camp n.野营
-- *permit* sth./doing sth.
-- My boss doesn't *permit* my [[#resignation]].
-	- resignation n.辞职
-- The school doesn't *permit* talking aloud in [[#dormitory]].
-	- dormitory n.宿舍
-- *permit* sb to do sth.允许某人做某事
-- My dad *permits* me to smoke [[#heavily]].
-	- heavily adv.
+- However, physical health is not just an individual concern; it is also affected by environmental factors. Pollution, caused by various pollutants, has become a significant threat to the population’s health. The need for preventive measures cannot be overstated. Preventive actions, such as reducing the release of pollutants, are preferable to dealing with the aftermath of pollution. The importance of such preventive measures is not just a personal preference but a global necessity.
 
-## persuade
+- In personal development, the concept of practice makes perfect holds true. Whether it is in the field of sports, arts, or academics, consistent practice leads to improved performance. This practical approach to self-improvement is commendable and often met with praise. Moreover, having a positive outlook can enhance one’s performance and make any challenge seem manageable.
 
-### persuade v.说服；劝说
-- *persuade* sb. into doing sth.
+- Politeness, or the lack thereof, is evident in our daily procedures and interactions. One might choose to speak politely or act impolitely, each leaving a lasting impression. The demonstration of politeness is not just about words but also about actions. For instance, respecting others’ privacy is a polite gesture that reflects one’s upbringing and respect for social norms.
 
-### persuade v.使相信；使信服
+- In decision making, personal preferences come into play. Some may prefer to act immediately, while others might prefer to postpone decisions for various reasons. However, one must be cautious of the consequences of postponement, as it may lead to missed opportunities or increased difficulties.
 
-- I *persuade* my brother to give up smoking .///into giving up smoking
-
-## physical
-
-### physical adj.身体的
-- *physical*/[[#mental]]/[[#psychological]] health
-	- mental adj.精神的
-	- psychological adj.心理的
-- *physical* exercise
-- My [[#Opinions]] on *Physical* Exercise
-
-### physical adj.物理学的
-
-### physical adj.物质的
-- *physical* world 物质世界
-
-## physics
-
-### physics n.物理学
-
-
-## polite
-
-### polite adj.有礼貌的
-
-- a *polite* boy
-- The boy is very *polite*.
-
-## politely
-
-### politely adv.有礼貌地
-
-- The boy [[#nodded]] *politely*
-	- nodded vi.点头
-
-## impolite
-
-### impolite adj.不礼貌的；粗鲁的
-
-## politeness
-
-### politeness n.礼貌
+- In conclusion, preparing oneself for the future requires a balanced approach. A positive and polite attitude can go a long way in personal and professional settings. It is essential to focus on primary aspects of life, such as health and environmental protection. By taking preventive and practical steps, we can ensure not only a healthier population but also a cleaner and more sustainable planet.
