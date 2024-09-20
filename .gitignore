@@ -10,17 +10,19 @@
 .stfolder
 
 
-日记
-日记\*
-小说
-小说\*
-temp
-temp\*
-templates
-templates\*
-笔记.code-workspace
-latexcfg.json
+1 日记
+1 日记\*
+1 小说
+1 小说\*
+0 templates
+0 templates\*
+
 .stignore
 .stversions
 .stversions\*
+.stversions
+.stversions\*
+
 Excalidraw
+笔记.code-workspace
+latexcfg.json
