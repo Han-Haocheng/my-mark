@@ -10,12 +10,12 @@
 .stfolder
 
 
-1 日记
-1 日记\*
-1 小说
-1 小说\*
-0 templates
-0 templates\*
+0001-日记
+0001-日记\*
+0002-小说
+0002-小说\*
+configs
+configs\*
 
 .stignore
 .stversions
