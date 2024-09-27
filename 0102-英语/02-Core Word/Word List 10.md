@@ -1,5 +1,42 @@
 # Word List 10
 
+	eventually
+	exchange
+	exist
+	existence
+	expect
+	expectation
+	expectancy
+	unexpectedly
+	unexpected
+	experience
+	experienced
+	inexperienced
+	explore
+	explorer
+	exploration
+	express
+	expression
+	expressive
+	extend
+	external
+	extinction
+	factor
+	fail
+	failure
+	familiar
+	familiarity
+	unfamiliarity
+	fault
+	faulty
+	fear
+	feature
+	fee
+	festival
+	figure
+	firm
+
+## 单词
 1. ![[../01-word library/Word List E#eventually]]
 2. ![[../01-word library/Word List E#exchange]]
 3. ![[../01-word library/Word List E#exist]]

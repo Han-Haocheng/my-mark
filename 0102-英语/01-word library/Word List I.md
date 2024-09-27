@@ -1,5 +1,14 @@
 
 # I
+## impolite
+
+### impolite adj.不礼貌的；粗鲁的
+
+## incapable
+
+### incapable adj.无能力的
+
+- be *incapable* of sth.
 
 ## instruct
 

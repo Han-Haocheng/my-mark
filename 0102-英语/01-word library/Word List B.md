@@ -149,7 +149,7 @@
 
 ## belong
 
-## belong vi.属于
+### belong vi.属于
 
 - *belong* to sb. 属于某人
 - The umbrella *belong* to her.

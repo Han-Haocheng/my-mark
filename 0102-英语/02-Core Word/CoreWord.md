@@ -486,6 +486,10 @@
 - [[../01-word library/Word List P#patient|patient]]
 - [[../01-word library/Word List P#patience|patience]]
 
+### [[Word List 17]]
+
+
+
 ## 文章
 
 ### Embarking on a Journey Abroad: Overcoming Challenges and Achieving Success

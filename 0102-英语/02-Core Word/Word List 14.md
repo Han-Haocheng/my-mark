@@ -1,5 +1,31 @@
 # Word List 14
 
+	less
+	like
+	litter
+	live
+	lively
+	locate
+	lonely
+	loose
+	maintain
+	major
+	manage
+	management
+	manager
+	manner
+	mark
+	mass
+	master
+	mean
+	means
+	measure
+	memory
+	memories
+	mental
+
+
+## 单词
 1. ![[../01-word library/Word List L#less|less]]
 2. ![[../01-word library/Word List L#like|like]]
 3. ![[../01-word library/Word List L#litter|litter]]

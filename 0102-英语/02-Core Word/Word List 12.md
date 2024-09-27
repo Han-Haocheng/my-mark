@@ -1,5 +1,41 @@
 # Word List 12
 
+	hesitate
+	hobby
+	honest
+	honesty
+	household
+	however
+	humorous
+	humor
+	identity
+	ignore
+	ignorance
+	ignorant
+	illustrate
+	image
+	imagine
+	imagination
+	imaginable
+	imaginative
+	imaginary
+	impact
+	improve
+	improvement
+	include
+	increase
+	independent
+	independence
+	independently
+	indicate
+	individual
+	influence
+	influencer
+	inform
+	information
+
+## 单词
+
 01. ![[../01-word library/Word List H#hesitate]]
 02. ![[../01-word library/Word List H#hobby]]
 03. ![[../01-word library/Word List H#honest]]

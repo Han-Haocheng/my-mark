@@ -1,5 +1,47 @@
 # Word List 13
 
+	injure
+	injured
+	injury
+	inspire
+	inspiring
+	inspiration
+	install
+	uninstall
+	intelligent
+	intelligence
+	intend
+	intention
+	interest
+	interested
+	interesting
+	interview
+	interviewer
+	interviewee
+	invent
+	invention
+	inventor
+	invite
+	invitation
+	issue
+	item
+	journal
+	judge
+	judgment
+	junior
+	senior
+	justice
+	latter
+	laugh
+	laughter
+	lazy
+	laziness
+	least
+	leisure
+	leisurely
+
+## 单词
+
 1. ![[../01-word library/Word List I#injure|injure]]
 	1. ![[../01-word library/Word List I#injured|injured]]
 	2. ![[../01-word library/Word List I#injury|injury]]

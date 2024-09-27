@@ -1,5 +1,33 @@
 # Word List 8
+	depend
+	deposit
+	describe
+	description
+	desire
+	desirable
+	despite
+	destination
+	destroy
+	detail
+	determine
+	determination
+	develop
+	development
+	difficult
+	disappear
+	disappointed
+	disappoint
+	disappointment
+	disaster
+	discount
+	discover
+	discuss
+	discussion
+	display
+	divide
+	donate
 
+## 单词
 1. ![[../01-word library/Word List D#depend]]
 2. ![[../01-word library/Word List D#deposit]]
 3. ![[../01-word library/Word List D#describe]]

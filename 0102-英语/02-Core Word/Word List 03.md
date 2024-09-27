@@ -1,5 +1,30 @@
 # Word List 3
 
+	average
+	avoid
+	awake
+	award
+	aware
+	unaware
+	awareness
+	awful
+	awkward
+	background
+	badly
+	balance
+	basic
+	battle
+	bear
+	beat
+	because
+	become
+	before
+	begin
+	behind
+
+
+## 单词
+
 1. ![[../01-word library/Word List A#average]]
 2. ![[../01-word library/Word List A#avoid]]
 3. ![[../01-word library/Word List A#awake]]

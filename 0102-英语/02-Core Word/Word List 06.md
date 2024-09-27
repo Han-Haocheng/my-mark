@@ -1,5 +1,42 @@
 # Word List 6
 
+
+	claim
+	climate
+	code
+	collect
+	collector
+	comment
+	communicate
+	communication
+	communicator
+	compare
+	compared
+	comparison
+	comparable
+	complain
+	complaint
+	concentrate
+	concentration
+	concern
+	condition
+	conduct
+	conference
+	confident
+	confidence
+	confirm
+	congratulation
+	consider
+	considerate
+	considerable
+	consideration
+	consistent
+	construct
+	construction
+	constructive
+	contact
+
+## 单词
 1. ![[../01-word library/Word List C#claim]]
 2. ![[../01-word library/Word List C#climate]]
 3. ![[../01-word library/Word List C#code]]

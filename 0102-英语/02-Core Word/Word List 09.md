@@ -1,4 +1,31 @@
 # Word List 9
+	doubt
+	draft
+	draw
+	due
+	dull
+	dullness
+	earn
+	effect
+	efficient
+	efficiently
+	efficiency
+	effort
+	element
+	emergency
+	enable
+	encourage
+	enjoy
+	ensure
+	environment
+	environmental
+	environmentalist
+	escape
+	essential
+	establish
+	event
+	
+## 单词
 
 1. ![[../01-word library/Word List D#doubt]]
 2. ![[../01-word library/Word List D#draft]]

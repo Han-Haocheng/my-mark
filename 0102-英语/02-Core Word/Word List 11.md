@@ -1,5 +1,35 @@
 # Word List 11
 
+	flexible
+	fluent
+	focus
+	fond
+	forecast
+	formal
+	informal
+	former
+	frank
+	frankly
+	frequent
+	frequently
+	fuel
+	gap
+	generous
+	generosity
+	glory
+	glorious
+	goal
+	graduate
+	undergraduate
+	postgraduate
+	grateful
+	guarantee
+	handle
+	harm
+	harmful
+	harvest
+
+## 单词
 1. ![[../01-word library/Word List F#flexible]]
 2. ![[../01-word library/Word List F#fluent]]
 3. ![[../01-word library/Word List F#focus]]

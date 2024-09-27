@@ -156,9 +156,7 @@
 - The boy [[#nodded]] *politely*
 	- nodded vi.点头
 
-## impolite
 
-### impolite adj.不礼貌的；粗鲁的
 
 ## politeness
 
@@ -228,7 +226,7 @@
 
 ## practically
 
-### practically　ａｄｖ．实际上地；务实地
+### practically adv.实际上地；务实地
 
 ## practice
 

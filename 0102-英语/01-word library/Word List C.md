@@ -97,12 +97,6 @@
 
 ### capability n.能力；性能
 
-## incapable
-
-### incapable adj.无能力的
-
-- be *incapable* of sth.
-
 ## case
 
 ### case n.情况

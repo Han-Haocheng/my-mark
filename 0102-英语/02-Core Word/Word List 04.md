@@ -1,5 +1,28 @@
 # Word List 4
 
+	belong
+	benefit
+	beneficial
+	beside
+	besides
+	between
+	beyond
+	bite
+	bitter
+	blank
+	block
+	blow
+	borad
+	born
+	borrow
+	bother
+	bottom
+	branch
+	brave
+	bravely
+	break
+
+## 单词
 1. ![[../01-word library/Word List B#belong]]
 2. ![[../01-word library/Word List B#benefit]]
 	1. ![[../01-word library/Word List B#beneficial]]

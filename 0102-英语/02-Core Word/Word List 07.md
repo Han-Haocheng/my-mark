@@ -1,5 +1,32 @@
 # Word List 7
+	content
+	contract
+	contribute
+	contribution
+	contributor
+	convenient
+	convenience
+	count
+	course
+	credit
+	cure
+	curious
+	current
+	cute
+	damage
+	decide
+	decision
+	decisive
+	declare
+	decorate
+	decorative
+	definite
+	delay
+	delicious
+	deliver
+	demand
 
+## 单词
 1. ![[../01-word library/Word List C#content]]
 2. ![[../01-word library/Word List C#contract]]
 3. ![[../01-word library/Word List C#contribute]]
