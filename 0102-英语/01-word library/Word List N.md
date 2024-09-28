@@ -1,5 +1,10 @@
 
 # N
+## nonprofit
+
+### nonprofit adj.非盈利的
+
+- *nonprofit* [[#organization]]
 
 ## notice
 

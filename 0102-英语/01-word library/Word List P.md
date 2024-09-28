@@ -3,7 +3,7 @@
 
 ## prove
 
-## prove v.后来被发现是；证明是
+### prove v.后来被发现是；证明是
 
 - The [[#opposition]] proved too strong for him
 
@@ -529,3 +529,203 @@ a.（含）蛋白质的
 ### pond n.池塘
 
 ### pond v.把…挖成池塘  
+
+
+## profit
+
+### profit v.从……中受益
+
+- Students *profit* from the [[#reform]].
+
+## profitable
+
+### profitable adj.收益的；获益的；有益处的
+
+- Morning [[#exercise]] is *profitable*.
+
+
+
+## progress
+
+### progress n.进步；发展
+
+- make (greater) *progress*
+
+### progress v.进展；进步
+
+- The [[#experiment]] *progresses* will.
+	- experiment n.实验
+
+- Most of the [[#freshmen]] in our college have made *progress* in their study of English.
+	- freshmen n.大一新生
+
+## promise
+
+### promise v.许诺；保证；承诺
+
+- I *promise* that I will [[#marry]] you.
+
+### promise n.承诺；诺言；迹象
+
+- make a promise
+- The boy made a *promise* that he would [[#marry]] the girl.
+- The boy shows the *promise* that he will [[#succeed]].
+
+## promote
+
+### promote v.促进；推动
+
+- We must [[#spare]] no [[../01-word library/Word List E#effort n.尽力|efforts]] to *promote* quality educational [[#reform]].
+	- spare v.抽出
+
+### promote v.促销；推销
+
+- The [[#company]] is busy *promoting* the [[#local]] [[#agricultural]] [[#products]].
+	- agricultural adj.农业的
+
+### promote v.(职务)晋升
+
+- The [[#diligent]] young man got *promoted* to the vice president position.
+
+## promotion
+
+### promotion n.促进；促销
+
+## propose
+
+### propose v.提议；建议
+
+- *propose* sth. educational reform
+- *propose* that
+- Teachers *propose* that higher [[#education]] should be [[#reformed]].
+
+## proposal
+
+### proposal n.建议；提议
+
+- I *propose* that education should be [[#reformed]].
+- It is *proposed* that education should be [[#reformed]].
+- My *proposal* is that education should be [[#reformed]].
+- My *proposal* that education should be [[#reformed]] is [[#rational]].
+
+## protect
+
+### protect v.保护；防护
+
+- Parents *protect* their children.
+- *protect* A from B
+- It is our [[#duty]] to *protect* the [[#environment]] from being [[#polluted]].
+
+## protector
+
+### protector n.保护者
+
+## protection
+
+### protection n.保护
+
+- environmental *protection*
+
+## protective
+
+### protective adj.预防的；保护的
+
+## protest
+
+### protest v.抗议；反对
+
+- *protest* against doing sth.
+- Student *protest* against food [[#price]] [sex discrimination]([#shocked)] the government.
+	- shocked adj.使震惊
+	- discrimination n.歧视
+- Students *protest* on the playground.
+
+## prove
+
+### prove v.证实；证明
+
+- The [[#scientist]] *proved* that the earth is round.
+- The experiment *proves* that the earth is round.
+
+### prove v.证明是
+
+- turn out 结果是
+- The news *proved* true.
+- The news *proved* false.
+
+## proof
+
+### proof n.证据；证明
+
+## provide
+
+### provide v.为……提供
+
+- *provide* sb. with sth.
+- *provide* sth. for sb.
+
+- Parents *provide* us with [[#mental]] and [[#material]] [[#supports]]
+	- mental adj.精神的
+	- material adj.物质的
+
+- *providing* that 只要；条件是
+- *provided* that 只要；条件是
+
+- *Providing* that you work hard, your will make greater [[#progress]].
+
+## publish
+
+### publish v.出版；发表
+
+- *publish* a [[#linguistic]] book/a paper
+	- linguistic adj.语言学的
+- The [[#findings]] were *published* in the [[#Journal]] Nature.
+	- findings n.研究结果
+	- journal n.期刊
+- The [[#findings]] *published* in the [[#Journal]] Nature [[#shocked]] the world.
+
+### publish v.公布；发布
+
+- *publish* the [[#results]] of [[#investigation]]
+	- investigation n.调查
+
+### publish v.发行
+
+- *publish* [[#currency]]
+	- currency n.货币
+
+## punish
+
+### punish v.惩罚；处罚
+
+- punish the boy
+- [[#Traffic]] [[#violators]] should be *punished* [[#severely]].
+	- violators n.违反者
+	- severely adv.严厉地
+- *punish* A for B
+- The boy is *punished* for his disobedience.
+	- disobedience n.不服从
+
+## punishment
+
+### punishment n.惩罚；处罚
+
+## purchase
+
+### purchase n.购买
+
+### purchase v.购买
+
+- =buy
+- The school has *purchased* a large [[#quantity]] of teaching [[#facilities]].
+	- quantity n.数量
+	- facility n.设备
+
+## purpose
+
+### purpose n.意图；目的；目标
+
+- life *purpose*
+- The *purpose* of the [[#experiment]]...
+- sb. purpose is to do
+- His purpose is to make money.
