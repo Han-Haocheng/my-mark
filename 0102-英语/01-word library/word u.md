@@ -19,3 +19,6 @@
 ## union
 
 ### union n.联盟；联合；联邦；联合会；协会；俱乐部  
+
+## universe
+### universe n. 天地万物;(已知宇宙以外的)宇宙
