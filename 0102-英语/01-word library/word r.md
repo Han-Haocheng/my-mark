@@ -398,3 +398,168 @@
 - be *respectful* to.
 - We are quite *respectful* to our parents and our teacher.
 
+
+## respond
+
+### respond v.回应；相应；回答
+
+- The boy didn't *respond*.
+- *respond* to 对……作出回应
+- The girl didn't *respond* to my [[#letter]]
+
+## response
+### response n.反应
+
+## responsible
+### responsible adj.负责任的；有责任的
+
+- be *responsible* for 对……负责人
+- One should be *responsible* for his own [[#mental]] and [[#physical]] [[#health]].
+
+## responsibility
+### responsibility n.责任
+
+- take *responsibilities* for 为……承担责任
+- We should take/[[#shoulder]] *responsibilities* for [[#building]] a more [[#prosperous]] county.
+	- prosperous adj.繁荣的
+	- shoulder v.勇挑；担负
+- Who are not [[#mentioned]] as being *responsible* for the road [[#accidents]]?
+- Everyone should be *responsible* for what he has done.
+
+## irresponsibility
+
+### irresponsibility n.不负责任
+
+## irresponsible
+### irresponsible adj.不负责任的
+
+## result
+
+### result n.结果；后果
+- = consequence
+- One should be [[#responsible adj.负责任的；有责任的|responsible]] for the *results* of the [[#event]].
+- as a *result*/[[#consequence]] 后果是
+- He abused drugs. As a result he died early.
+	- drugs n.毒品 
+
+### result n.成绩；分数
+
+- His *results* in the exams are far [[#beyond]] the [[#average]].
+
+### result n.比赛结果；比分
+
+### result v.结果；发生；产生
+
+- *result* in = [[#lead]] to 导致；造成
+- The driver's [[#carelessness]] *resulted* in the road [[#accident]].
+
+
+## resume
+
+### resume v.重新开始；继续
+- = [[#restart]]
+- The two sides *resumed* [[#peace]] talks.
+
+### resume n.简历
+- = Curriculum Vitae
+- Write a *resume*
+
+## retire
+
+### retire v.(使)退休
+- The teacher *retired* last month.
+- Poor health retired him.
+
+## retirement
+
+### retirement n.退休
+
+- On Delaying *Retirement*.
+
+## reveal
+
+### reveal v.表明；显示；揭示
+
+- A [[#recent]] [[#research]] *reveals* that rope jumping is good for one's health.
+- study/[[#research]]/[[#survey]]/[[#questionnaire]]/[[#experiment]]/test *reveal*/[[#indicate]]/show/[[#prove]]/[[#demonstrate]] that
+
+- *reveal* the [[#mystery]] of the [[#universe]].
+
+## review
+
+- [[#view]]
+- [[#preview]]
+
+### review n.回顾；评论
+
+- [[#literature]]/film *review*
+	- literature n.文献
+
+### review n.温习课；复习课
+
+## preview
+- [[#view]]
+- [[#review]]
+
+### preview v.预习
+
+- If you want to make [[#progress]] you need *preview* and [[#review]] your lessons.
+
+## view
+### view n.景色；观点
+### view v.看
+
+
+## revise
+### revise v.修改；修订
+- *revise* [[#textbook]]
+	- textbook n.教材
+### revise v.改变(计划、意见)
+- *revise* [[#retirement]] plan
+
+### revise v.复习
+- = [[#review]]
+
+## revision
+### revision n.修订版
+
+
+## risk
+### risk n.危险；风险
+
+- Smoking can [[#increase]] the *risk* of [[#developing]] heart [[#disease]].
+	- disease n.病
+
+### risk v.使……冒风险；面临风险
+
+- *risk* doing sth
+- The [[#soldier]] *risked* his life to [[#save]] the [[#drowning]] boy.
+	- drowning adj.溺水的
+
+## risky
+### risky adj.有风险的；危险的
+
+- *risky* [[#factors]]
+- *risky* [[#investment]]
+	- investment n.投资
+- at the *risk* of doing sth. 冒着……的风险
+
+## role
+### role n.地位；角色
+
+- Life is a [[#stage]].Everyone has a *role* to play.
+- play a *role* in 在……起作用；扮演角色
+- [[#Previewing]] and [[#reviewing]]/[[#revising]] [[#lessons]] plays a key *role* in your [[#excellent]] study [[#results]].
+
+## row
+
+### row n.一行；一排；一列；划船
+
+- a *row* of [[#tents]] [[#along]] the river [[#banks]].
+	- tents n.帐篷
+- in a row 连续地
+- The [[#thief]] [[#stole]] the things in a row.
+	- 
+### row v.划船
+
+- The lovers are *rowing* in the lake.I [[#admire]] them.

@@ -226,3 +226,105 @@
 ## swallow
 ### swallow v. 吞;吞没;咽下;相信;淹没
 ### swallow v.  n. 吞;咽;一口;燕
+
+
+## safeguard
+### safeguard v.保障；保护
+- *safeguard* women and girls [[#against]] [[#violence]].
+
+### safeguard n.保护措施
+
+
+## sample
+### sample n.样本；样品
+### sample n.样本
+### sample v.采样；取样
+### sample 品尝；尝试；体验
+- *sample* the [[#specialty]] foods
+
+## satisfy
+
+### satisfy v.使满意；使满足
+
+- The [[#common]] life could not *satisfy* the girl.
+- to *satisfy*/meet the needs/demands of 为了满足……的需求
+
+
+## satisfaction n.满足；满意；欣慰
+
+- to sb's *satisfaction* 使某人满意的是
+- To the teacher's *satisfaction* students made greater [[#progress]].
+
+## satisfactory
+
+### satisfactory adj.令人满意的
+
+## unsatisfactory
+
+### unsatisfactory adj.不令人满意的
+
+## scare
+
+### scare n.恐惧；恐慌
+
+
+### scare v.使害怕；使恐惧
+
+- The girl's [[#cosplay]] *scared* her [[#neighbors]].
+## scary
+### scary adj.恐怖的；恐惧的
+
+- scary film
+## scene
+### scene n.(不愉快事件发生的)现场
+
+- scenery
+- The *scenes* of the road [[#accident]] are [[#horrible]]/[[#scary]].
+
+## schedule
+### schedule n.工作计划；日程安排
+- study/work *schedule*
+
+- before *schedule* 提前
+- on *schedule* 按时；准时
+- behind *schedule* 落后
+- The project is [[#completed]] on *schedule*
+
+### schedule v.按排；为……按排时间
+
+- be *scheduled* for
+- The meeting is *scheduled* for Friday afternoon.
+
+## score
+### score n.得分；分数
+### score n.成绩；比分
+
+### score v.得分
+- The student *scored* [[#below]] 40 in the exam.
+### score v.评分
+
+
+## secret
+### secret n.秘密
+
+- Keep it a *secret* about your [[#private]] life.
+
+### secret n.秘诀；诀窍
+- = [[#tips]]
+- Here are some *secrets* of learning English well.
+
+### secret adj.保密的；秘密的
+
+## seek
+### seek v.寻找
+
+- *seek* for
+- hide and *seek* 躲猫猫；捉迷藏
+- The police are *seeking* for the [[#lost]] boy.
+
+### seek v.寻求；谋求；争取
+
+- *seek* [[#truth]] 寻求真理
+- *seek* [[#employment]] 求职
+- job-seeker 求职者
+
