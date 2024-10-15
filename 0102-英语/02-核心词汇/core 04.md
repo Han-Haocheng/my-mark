@@ -23,24 +23,24 @@
 	break
 
 ## 单词
-1. ![[../01-word library/word b#belong]]
-2. ![[../01-word library/word b#benefit]]
-	1. ![[../01-word library/word b#beneficial]]
-3. ![[../01-word library/word b#beside]]
-4. ![[../01-word library/word b#besides]]
-5. ![[../01-word library/word b#between]]
-6. ![[../01-word library/word b#beyond]]
-7. ![[../01-word library/word b#bite]]
-8. ![[../01-word library/word b#bitter]]
-9. ![[../01-word library/word b#blank]]
-10. ![[../01-word library/word b#block]]
-11. ![[../01-word library/word b#blow]]
-12. ![[../01-word library/word b#borad]]
-13. ![[../01-word library/word b#born]]
-14. ![[../01-word library/word b#borrow]]
-15. ![[../01-word library/word b#bother]]
-16. ![[../01-word library/word b#bottom]]
-17. ![[../01-word library/word b#branch]]
-18. ![[../01-word library/word b#brave]]
-19. ![[../01-word library/word b#bravely]]
-20. ![[../01-word library/word b#break]]
+1. [belong](../01-word%20library/word b.md#belong)
+1. [benefit](../01-word%20library/word b.md#benefit)
+	1. [beneficial](../01-word%20library/word b.md#beneficial)
+1. [beside](../01-word%20library/word b.md#beside)
+1. [besides](../01-word%20library/word b.md#besides)
+1. [between](../01-word%20library/word b.md#between)
+1. [beyond](../01-word%20library/word b.md#beyond)
+1. [bite](../01-word%20library/word b.md#bite)
+1. [bitter](../01-word%20library/word b.md#bitter)
+1. [blank](../01-word%20library/word b.md#blank)
+11. [block](../01-word%20library/word b.md#block)
+11. [blow](../01-word%20library/word b.md#blow)
+11. [borad](../01-word%20library/word b.md#borad)
+11. [born](../01-word%20library/word b.md#born)
+11. [borrow](../01-word%20library/word b.md#borrow)
+11. [bother](../01-word%20library/word b.md#bother)
+11. [bottom](../01-word%20library/word b.md#bottom)
+11. [branch](../01-word%20library/word b.md#branch)
+11. [brave](../01-word%20library/word b.md#brave)
+11. [bravely](../01-word%20library/word b.md#bravely)
+21. [break](../01-word%20library/word b.md#break)

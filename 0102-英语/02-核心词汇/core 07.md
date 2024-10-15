@@ -27,29 +27,29 @@
 	demand
 
 ## 单词
-1. ![[../01-word library/word c#content]]
-2. ![[../01-word library/word c#contract]]
-3. ![[../01-word library/word c#contribute]]
-	1. ![[../01-word library/word c#contribution]]
-	2. ![[../01-word library/word c#contributor]]
-4. ![[../01-word library/word c#convenient]]
-	1. ![[../01-word library/word c#convenience]]
-5. ![[../01-word library/word c#count]]
-6. ![[../01-word library/word c#course]]
-7. ![[../01-word library/word c#credit]]
-8. ![[../01-word library/word c#cure]]
-9. ![[../01-word library/word c#curious]]
-10. ![[../01-word library/word c#current]]
-11. ![[../01-word library/word c#cute]]
-12. ![[../01-word library/word d#damage]]
-13. ![[../01-word library/word d#decide]]
-	1. ![[../01-word library/word d#decision]]
-	2. ![[../01-word library/word d#decisive]]
-14. ![[../01-word library/word d#declare]]
-15. ![[../01-word library/word d#decorate]]
-	1. ![[../01-word library/word d#decorative]]
-16. ![[../01-word library/word d#definite]]
-17. ![[../01-word library/word d#delay]]
-18. ![[../01-word library/word d#delicious]]
-19. ![[../01-word library/word d#deliver]]
-20. ![[../01-word library/word d#demand]]
+1. [content](../01-word%20library/word c.md#content)
+1. [contract](../01-word%20library/word c.md#contract)
+1. [contribute](../01-word%20library/word c.md#contribute)
+	1. [contribution](../01-word%20library/word c.md#contribution)
+	1. [contributor](../01-word%20library/word c.md#contributor)
+1. [convenient](../01-word%20library/word c.md#convenient)
+	1. [convenience](../01-word%20library/word c.md#convenience)
+1. [count](../01-word%20library/word c.md#count)
+1. [course](../01-word%20library/word c.md#course)
+1. [credit](../01-word%20library/word c.md#credit)
+1. [cure](../01-word%20library/word c.md#cure)
+1. [curious](../01-word%20library/word c.md#curious)
+11. [current](../01-word%20library/word c.md#current)
+11. [cute](../01-word%20library/word c.md#cute)
+11. [damage](../01-word%20library/word d.md#damage)
+11. [decide](../01-word%20library/word d.md#decide)
+	1. [decision](../01-word%20library/word d.md#decision)
+	1. [decisive](../01-word%20library/word d.md#decisive)
+11. [declare](../01-word%20library/word d.md#declare)
+11. [decorate](../01-word%20library/word d.md#decorate)
+	1. [decorative](../01-word%20library/word d.md#decorative)
+11. [definite](../01-word%20library/word d.md#definite)
+11. [delay](../01-word%20library/word d.md#delay)
+11. [delicious](../01-word%20library/word d.md#delicious)
+11. [deliver](../01-word%20library/word d.md#deliver)
+21. [demand](../01-word%20library/word d.md#demand)

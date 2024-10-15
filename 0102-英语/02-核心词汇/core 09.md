@@ -27,28 +27,28 @@
 	
 ## 单词
 
-1. ![[../01-word library/word d#doubt]]
-2. ![[../01-word library/word d#draft]]
-3. ![[../01-word library/word d#draw]]
-4. ![[../01-word library/word d#due]]
-5. ![[../01-word library/word d#dull]]
-	1. ![[../01-word library/word d#dullness]]
-6. ![[../01-word library/word e#earn]]
-7. ![[../01-word library/word e#effect]]
-8. ![[../01-word library/word e#efficient]]
-	2. ![[../01-word library/word e#efficiently]]
-	3. ![[../01-word library/word e#efficiency]]
-9. ![[../01-word library/word e#effort]]
-10. ![[../01-word library/word e#element]]
-11. ![[../01-word library/word e#emergency]]
-12. ![[../01-word library/word e#enable]]
-13. ![[../01-word library/word e#encourage]]
-14. ![[../01-word library/word e#enjoy]]
-15. ![[../01-word library/word e#ensure]]
-16. ![[../01-word library/word e#environment]]
-	1. ![[../01-word library/word e#environmental]]
-	2. ![[../01-word library/word e#environmentalist]]
-17. ![[../01-word library/word e#escape]]
-18. ![[../01-word library/word e#essential]]
-19. ![[../01-word library/word e#establish]]
-20. ![[../01-word library/word e#event]]
+1. [doubt](../01-word%20library/word%20d.md#doubt)
+1. [draft](../01-word%20library/word d.md#draft)
+1. [draw](../01-word%20library/word d.md#draw)
+1. [due](../01-word%20library/word d.md#due)
+1. [dull](../01-word%20library/word d.md#dull)
+	1. [dullness](../01-word%20library/word d.md#dullness)
+1. [earn](../01-word%20library/word e.md#earn)
+1. [effect](../01-word%20library/word e.md#effect)
+1. [efficient](../01-word%20library/word e.md#efficient)
+	1. [efficiently](../01-word%20library/word e.md#efficiently)
+	1. [efficiency](../01-word%20library/word e.md#efficiency)
+1. [effort](../01-word%20library/word e.md#effort)
+11. [element](../01-word%20library/word e.md#element)
+11. [emergency](../01-word%20library/word e.md#emergency)
+11. [enable](../01-word%20library/word e.md#enable)
+11. [encourage](../01-word%20library/word e.md#encourage)
+11. [enjoy](../01-word%20library/word e.md#enjoy)
+11. [ensure](../01-word%20library/word e.md#ensure)
+11. [environment](../01-word%20library/word e.md#environment)
+	1. [environmental](../01-word%20library/word e.md#environmental)
+	1. [environmentalist](../01-word%20library/word e.md#environmentalist)
+11. [escape](../01-word%20library/word e.md#escape)
+11. [essential](../01-word%20library/word e.md#essential)
+11. [establish](../01-word%20library/word e.md#establish)
+21. [event](../01-word%20library/word e.md#event)

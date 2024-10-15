@@ -9,7 +9,7 @@
 
 ### unlike prep.和……不一样
 
-- My [[#outlooks]] on values are unlinke yours.
+- My [#outlooks](.md#outlooks) on values are unlinke yours.
 	- outlook n.价值观
 
 ## unaware

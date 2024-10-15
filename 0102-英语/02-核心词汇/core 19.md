@@ -32,38 +32,38 @@
 	respectively
 	respectful
 ## 单词
-1. ![[../01-word library/word r#reach]]
-2. ![[../01-word library/word r#ready]]
-3. ![[../01-word library/word r#recommend]]
-	1. ![[../01-word library/word r#recommendation]]
-4. ![[../01-word library/word r#recover]]
-	1. ![[../01-word library/word r#recovery]]
-5. ![[../01-word library/word r#reduce]]
-	1. ![[../01-word library/word r#reduction]]
-6. ![[../01-word library/word r#refer]]
-7. ![[../01-word library/word r#reflect]]
-	1. ![[../01-word library/word r#reflection]]
-8. ![[../01-word library/word r#regard]]
-	1. ![[../01-word library/word r#regardless]]
-9. ![[../01-word library/word r#regret]]
-10. ![[../01-word library/word r#regular]]
-	1. ![[../01-word library/word r#regularly]]
-11. ![[../01-word library/word r#relative]]
-	1. ![[../01-word library/word r#relatively]]
-12. ![[../01-word library/word r#relax]]
-	1. ![[../01-word library/word r#relaxation]]
-13. ![[../01-word library/word r#relief]]
-14. ![[../01-word library/word r#remind]]
-15. ![[../01-word library/word r#replace]]
-16. ![[../01-word library/word r#reply]]
-17. ![[../01-word library/word r#represent]]
-18. ![[../01-word library/word r#resort]]
-19. ![[../01-word library/word r#resource]]
-20. ![[../01-word library/word r#respect]]
-	1. ![[../01-word library/word r#respectable]]
-	2. ![[../01-word library/word r#respective]]
-	3. ![[../01-word library/word r#respectively]]
-	4. ![[../01-word library/word r#respectful]]
+1. !../01-word library/word r#reach](../01-word%20library/word r.md#reach)
+2. !../01-word library/word r#ready](../01-word%20library/word r.md#ready)
+3. !../01-word library/word r#recommend](../01-word%20library/word r.md#recommend)
+	1. !../01-word library/word r#recommendation](../01-word%20library/word r.md#recommendation)
+4. !../01-word library/word r#recover](../01-word%20library/word r.md#recover)
+	1. !../01-word library/word r#recovery](../01-word%20library/word r.md#recovery)
+5. !../01-word library/word r#reduce](../01-word%20library/word r.md#reduce)
+	1. !../01-word library/word r#reduction](../01-word%20library/word r.md#reduction)
+6. !../01-word library/word r#refer](../01-word%20library/word r.md#refer)
+7. !../01-word library/word r#reflect](../01-word%20library/word r.md#reflect)
+	1. !../01-word library/word r#reflection](../01-word%20library/word r.md#reflection)
+8. !../01-word library/word r#regard](../01-word%20library/word r.md#regard)
+	1. !../01-word library/word r#regardless](../01-word%20library/word r.md#regardless)
+9. !../01-word library/word r#regret](../01-word%20library/word r.md#regret)
+10. !../01-word library/word r#regular](../01-word%20library/word r.md#regular)
+	1. !../01-word library/word r#regularly](../01-word%20library/word r.md#regularly)
+11. !../01-word library/word r#relative](../01-word%20library/word r.md#relative)
+	1. !../01-word library/word r#relatively](../01-word%20library/word r.md#relatively)
+12. !../01-word library/word r#relax](../01-word%20library/word r.md#relax)
+	1. !../01-word library/word r#relaxation](../01-word%20library/word r.md#relaxation)
+13. !../01-word library/word r#relief](../01-word%20library/word r.md#relief)
+14. !../01-word library/word r#remind](../01-word%20library/word r.md#remind)
+15. !../01-word library/word r#replace](../01-word%20library/word r.md#replace)
+16. !../01-word library/word r#reply](../01-word%20library/word r.md#reply)
+17. !../01-word library/word r#represent](../01-word%20library/word r.md#represent)
+18. !../01-word library/word r#resort](../01-word%20library/word r.md#resort)
+19. !../01-word library/word r#resource](../01-word%20library/word r.md#resource)
+20. !../01-word library/word r#respect](../01-word%20library/word r.md#respect)
+	1. !../01-word library/word r#respectable](../01-word%20library/word r.md#respectable)
+	2. !../01-word library/word r#respective](../01-word%20library/word r.md#respective)
+	3. !../01-word library/word r#respectively](../01-word%20library/word r.md#respectively)
+	4. !../01-word library/word r#respectful](../01-word%20library/word r.md#respectful)
 
 ## 文章
 

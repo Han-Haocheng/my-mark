@@ -16,7 +16,7 @@
 
 ### drive vt.迫使，驱使；驱赶
 
-- His words *drive* me [[1 core word/Word List 1#angry|angry]].
+- His words *drive* me angry](1%20core word/Word List 1.md#angry).
 
 ## dclare
 
@@ -38,7 +38,7 @@
 
 ### discover v.发现；找到
 
-- [[#Scientists]] have *discovered* that [[#exercise]] can [[#decrease]] [[#depression]], lower [[#anxiety]] and help us [[#sleep]].
+- #Scientists](.\..md#Scientists)overed*%20that [#exercise[#exercise](.\..md#exercise)[#dep[#decrease](.\..md#decrease)x[#depression](.\..md#depression)p](.\.#exercise[#exercise](.\..md#exercise)
 	- scientist n.科学家
 	- exercise n.运动
 	- decrease v.减少
@@ -49,16 +49,16 @@
 
 ### disappear vi.消失；灭绝
 
-- His [[#fear]]/[[#horror]] *disappear*
+- His [#fear](.md#fear)/[#horror](.md#horror) *disappear*
 	- fear n.害怕
 	- horror n.惊骇；恐惧
-- [[#dinosaur]] *disappear*
+- [#dinosaur](.md#dinosaur) *disappear*
 
 ## dislike
 
 ### dislike n.不喜欢
 
-- I *dislike* the [[#lifestyle]]
+- I *dislike* the [#lifestyle](.md#lifestyle)
 	- lifestyle n.生活方式
 
 ## disadvantage
@@ -70,7 +70,7 @@
 ### damage	n.有形的损坏；破坏；损失
 
 - *damage* to
-- The [[#earthquake]] [[#caused]] *damage* to [[#property]] [[#estimated]] at $4 [[#million]]
+- The #earthquake](.md#earthquake)%20#caused](.md#caused)*damage*%20to #property](.md#property)%20#estimated](.md#estimated)at%20$4 [#million](.md#million)
 	- earthquake n.地震
 	- property n.财产
 	- estimate v.估计
@@ -78,17 +78,17 @@
 
 ## decide
 
-- [[#decision n.决定]]
-- [[#decisive adj.关键的；决定性的]]
+- #decision n.决定](.md#decision%20n.决定)
+- #decisive adj.关键的；决定性的](.md#decisive%20adj.关键的；决定性的)
 
 ### decide	v.决定；做出决心
 
-- Your [[#diligence]] and [[#intelligence]] *decide* your [[#future]]
+- Your #diligence](.md#diligence)%20and #intelligence](.md#intelligence)*decide*%20your [#future](.md#future)
 	- diligence n.勤奋；勤勉
 	- intelligence n.智力
 	- future n.未来
 - *decide* to do sth. 决定做某事
-- I *decided* to go [[../1 core word/Word List 1#abroad adv.adj.n. 在国外|abroad]].
+- I *decided* to go abroad](../1%20core word/Word List 1.md#abroad adv.adj.n. 在国外).
 
 ## decision
 
@@ -100,7 +100,7 @@
 
 ### decisive	adj.关键的；决定性的
 
-- Parents play *decisive* [[#roles]] in children's early [[#education]].
+- Parents play *decisive* #roles](.md#roles)%20in children's early [#education](.md#education).
 	- role n.角色；作用
 
 ## declare
@@ -108,13 +108,13 @@
 ### declare	v.声明；宣布
 
 - My roommate *declares* that he falls in love.
-- He *declares* that his heart is [[#broken]].
+- He *declares* that his heart is [#broken](.md#broken).
 
 ## decorate
 
 ### decorate	v.装饰；装点
 
-- As the New Year is [[#approaching]], students are busy *decorationg* their classroom
+- As the New Year is [#approaching](.md#approaching), students are busy *decorationg* their classroom
 
 ## decorative
 
@@ -124,7 +124,7 @@
 
 ### definite	adj.确定的；肯定的
 
-- After a [[#serious]] [[#considenation]], I have made a *definite* [[../02-核心词汇/core 07#decision n.决定|decision]] to [[#resign]] from the [[#department]],[[#effective]] on December.
+- After a decision](.md#serious]]%20#considenation](#considenation),%20I have made a *definite* ../02-核心词汇/core 07#decision n.决定)to #resign](../02-核心词汇/core%2007.md#decision%20n.决定)to%20[[#resign)from the [#department](.md#department),[#effective](.md#effective) on December.
 	- serious adj.慎重的
 	- resign v.辞职；屈从
 	- department n.部门
@@ -134,12 +134,12 @@
 
 ### delay n.延期；推迟
 
-- The *delay* of the [[#flight]] has [[../02-核心词汇/core 05#cause v.导致；引起|caused]] me a lot of [[#trouble]].
+- The *delay* of the caused](.md#flight]]%20has ../02-核心词汇/core 05#cause v.导致；引起)me a lot of #trouble](../02-核心词汇/core%2005.md#cause%20v.导致；引起)me%20a lot of [[#trouble).
 
 ### delay v. 推迟；延期
 
 - *delay* doing sth
-- The lovers [[../02-核心词汇/core 07#decide v.决定；做出决心|decided]] to *delay* [[../02-核心词汇/core 07#decorate v.装饰；装点|decorating]] their rooms.
+- The lovers decided](../02-核心词汇/core%2007.md#decide v.决定；做出决心)to *delay* decorating](../02-核心词汇/core%2007.md#decorate v.装饰；装点)their rooms.
 
 ## delicious
 
@@ -149,12 +149,12 @@
 
 ### deliver	v.传送；递送
 
-- *deliver* [[#files]]
+- *deliver* [#files](.md#files)
 	- file n.文件
 
 ### deliver v.发表
 
-- *deliver* [[#speech]]
+- *deliver* [#speech](.md#speech)
 
 ### deliver v.分娩
 
@@ -166,18 +166,18 @@
 
 - *demand* for higher pay
 - to meet the *demands*/needs of 为了满足……的要求
-- To meet the [[#material]] *demands* of my girl friend, I take 3 part-time jobs.
+- To meet the [#material](.md#material) *demands* of my girl friend, I take 3 part-time jobs.
 
 ### demand n.(顾客)需求；要求
 
-- the [[#law]] of [[#supply]] and *demand* 供求法则
-- According to this [[#law]] [[#changes]] in the [[#prices]] of [[#goods]] cause change in [[#supply]] and *demand*.
+- the #law](.md#law)%20of [#supply](.md#supply)and *demand* 供求法则
+- According to this #law](.md#law)%20#changes](.md#changes)in%20the #prices](.md#prices)%20of #goods](.md#goods)cause%20change in [#supply](.md#supply)and *demand*.
 
 ### demand v.强烈要求
 
 - demand sth that 强烈要求(虚拟语气)
-- *demand* [[#apology]]/[[#resignation]]
-- The boss *demands* that the man should [[#resign]].
+- *demand* [#apology](.md#apology)/[#resignation](.md#resignation)
+- The boss *demands* that the man should [#resign](.md#resign).
 
 ## depend
 
@@ -185,7 +185,7 @@
 
 - depend on/upon
 - Out future depends on what we ourselves should do or not do
-- Your [[#chance]] of winning [[#wholly]] depends on [[#luck]]
+- Your #chance](.\..md#chance)ning%20[#whol[#wholly](.\..md#wholly)#luck](.\.#whol[#wholly](.\..md#wholly)
 	- wholly adv.完全地
 	- luck n.运气
 
@@ -193,7 +193,7 @@
 
 ### deposit n.贷款
 
-- To open a *deposit* [[#account]]
+- To open a *deposit* [#account](.md#account)
 
 ### deposit n.存款；存入银行
 
@@ -203,14 +203,14 @@
 
 ### describe v.描述
 
-- Can you *describe* the [[#scenery]] of the [[#resort]]
+- Can you *describe* the #scenery](.md#scenery)%20of the [#resort](.md#resort)
 	- scenery n.风景
 	- resort n.度假胜地
 
 ### describe v.把……称为
 
 - *describe* sth. as sth.
-- Students *describe* the exam as a [[#challenge]].
+- Students *describe* the exam as a [#challenge](.md#challenge).
 
 ## description
 
@@ -221,14 +221,14 @@
 ### desire n.愿望；欲望；渴望
 
 - have a *desire* to do sth.
-- have a *desire* for [[#satisfactory]] scores/marks/grades
+- have a *desire* for [#satisfactory](.md#satisfactory) scores/marks/grades
 	- satisfactory adj.满意的
 
 ## desirable
 
 ### desirable adj.可取的；值得的
 
-- It's highly *desirable* that the boy [[#attend]] the [[#forum]]
+- It's highly *desirable* that the boy #attend](.md#attend)%20the [#forum](.md#forum)
 
 ## despite
 
@@ -238,7 +238,7 @@
 - Despite the hot weather, students stick to their study
 	- stick v.坚持
 - despite the fact that 尽管事实是……
-	- Despite the fact that he is poor, he is [[#content]] with all that he has.
+	- Despite the fact that he is poor, he is [#content](.md#content) with all that he has.
 
 ## destination
 
@@ -248,9 +248,9 @@
 
 ### destroy v.破坏；摧毁；毁灭
 
-- The [[#typhoon]] has *destroyed* everything in the village
+- The [#typhoon](.md#typhoon) has *destroyed* everything in the village
 	- typhoon n.台风
-- Hemingway: A man can be *destroyed* but not [[#defeated]].
+- Hemingway: A man can be *destroyed* but not [#defeated](.md#defeated).
 	- defeat v.击败
 
 ## detail
@@ -258,14 +258,14 @@
 ### detail n.细节；详情
 
 - in detail 详细地 <==> in brief 概略地；粗略地
-- Can you [[#describe]] the *details* of the [[#contents]]
+- Can you #describe](.md#describe)%20the *details* of the [#contents](.md#contents)
 
 ## determine
 
 ### determine v.决定；决心(做)
 
 - be determined to do sth
-- Do you [[#believe]] that one's [[#character]] will *determine* his [[#fate]]
+- Do you #believe](.\..md#believe)e's%20#chara[#character](.\..md#character)his%20[[#fate](.\..md#chara[#character](.\.#character)
 	- character n.个性
 	- fate n.命运
 
@@ -273,29 +273,29 @@
 
 ### determination n.决心；果断
 
-- He [[#carried]] out his plan with strong *determination*
+- He [#carried](.md#carried) out his plan with strong *determination*
 	- carry v.实施
 
 ## develop
 
 ### develop vi.发展
 
-- China's [[#economy]] develops fast.
+- China's [#economy](.md#economy) develops fast.
 	- economy n.经济
-- The [[#leader]] is [[#determined]] to *develop* the [[#regional]] economy.
+- The [#leader](.\..md#leader)dete[#determined](.\..md#determined)[#regional](.\..md#regional)
 	- leader n.领导者
 	- regional adj.地方的
 
 ### develop v.开发；研发
 
-- The team *developed* new [[#medicine]] to help [[#cure]] [[#patients]] of their AIDS.
+- The team *developed* new [#medicine](.\..md#medicine)[#cure](.\..md#cure)ents]] of their AIDS.
 	- medicine n.药
 	- patient n.病人
 
 ### develop v.患(病)
 
-- = [[#contract]]
-- [[#Unfortunately]], the man *developed* [[#flu]].
+- = [#contract](.md#contract)
+- #Unfortunately](.\..md#Unfortunately)eloped*%20[#flu](.\..md#flu)
 	- ufortunately adv.恐怕；不幸的是
 	- flu n.流感
 
@@ -307,20 +307,20 @@
 
 ### difficult adj.困难的；麻烦的；难解的
 
-- To him, life [[#becomes]] more and more *difficult*.(laid-off,[[#handicapped]],[[#divorced]])
+- To him, life #becomes](.md#becomes)%20more and more *difficult*.(laid-off,[#handicapped](.md#handicapped),[#divorced](.md#divorced))
 	- handicapped adj.残疾的
 	- divorced adj.离婚的
 
 ### difficult (C)n.困难
 
-- Had it not been for their help,we would not have [[#overcome]] the *difficulties*
+- Had it not been for their help,we would not have [#overcome](.md#overcome) the *difficulties*
 	- overcome v.克服；战胜
 
 ## disappointed
 
 ### disappointed adj.失望的；沮丧的；失意的
 
-- I feel *disappointed* at living [[#conditions]]
+- I feel *disappointed* at living [#conditions](.md#conditions)
 
 ## disappoint
 
@@ -334,14 +334,14 @@
 
 ### disaster n.灾害；灾难
 
-- [[#serious]] natural *disaster*
+- [#serious](.md#serious) natural *disaster*
 	- serious adj.严肃的；严重的
 
 ## discount
 
 ### discount n.打折；折扣
 
-- What's more,if you [[#place]] a large [[#order]],you will [[#enjoy]] some *discount*.
+- What's more,if you #place](.\..md#place)ge%20[#ord[#order](.\..md#order)#enjoy](.\.#ord[#order](.\..md#order)
 	- place v.下单
 	- order n.订单
 	- enjoy v.享受
@@ -354,14 +354,14 @@
 
 ### discussion n.讨论；论述；谈论
 
-- At this time next week, we will be *discussing* the [[#matter]] with our firends
+- At this time next week, we will be *discussing* the [#matter](.md#matter) with our firends
 	- matter n.事件
 
 ## display
 
 ### display v.显示；展示
 
-- The [[#statistics]] *displayed* a new [[#definite]] [[#trend]] -- the [[#downturn]] in studens' English study
+- The #statistics](.md#statistics)%20*displayed* a new #definite](.md#definite)#trend](.md#trend)%20--%20the [#downturn](.md#downturn)in studens' English study
 	- statistics n.统计数据
 	- definite adj.明确的；一定的
 	- trend n.趋势
@@ -369,7 +369,7 @@
 
 ### display v.显露；表现(特性、情感)
 
-- His [[#scores]] *displayed* his strong [[#determination]]
+- His #scores](.md#scores)%20*displayed* his strong [#determination](.md#determination)
 	- scores n.分数；成绩
 
 ### display n.展出；陈列
@@ -381,7 +381,7 @@
 ### divide v.分开；分割
 
 - divide sth. into sth. 把……分割成……
-- Man divide the earth into 24 time [[#zones]]
+- Man divide the earth into 24 time [#zones](.md#zones)
 
 ### divide v.除以
 
@@ -391,7 +391,7 @@
 
 - = contribute
 - *donating* blood 献血
-- If you want $50 in [[#authentic]] [[#happiness]] today, just *donate* it to a favorite [[#charity]].
+- If you want $50 in #authentic](.\..md#authentic)e#happiness](.\..md#happiness)*%20it%20to a favorite [#charity](.\..md#charity)
 	- authentic adj.真正的；可靠的
 	- happiness n.幸福
 

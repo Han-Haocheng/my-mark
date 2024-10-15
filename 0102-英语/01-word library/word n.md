@@ -4,7 +4,7 @@
 
 ### nonprofit adj.非盈利的
 
-- *nonprofit* [[#organization]]
+- *nonprofit* [#organization](.md#organization)
 
 ## notice
 
@@ -28,12 +28,12 @@
 
 ### nature n.自然；大自然
 
-- [[#respect]]/[[#protect]] *nature*
+- [#respect](.md#respect)/[#protect](.md#protect) *nature*
 
 ### nature n.本性；天性
 
 - by nature
-- Men are [[#greedy]] by nature.
+- Men are [#greedy](.md#greedy) by nature.
 	- greedy adj.贪婪地
 
 ## neat
@@ -49,9 +49,9 @@
 ### necessary adj.必须的；必要的
 
 - be *necessary* for sb to do sth.
-- It is *necessary* for you to [[#enrich]] your [[#vocabulary]].
+- It is *necessary* for you to #enrich](.md#enrich)%20your [#vocabulary](.md#vocabulary).
 - It is *necessary* that(+虚拟语气)
-- It is *necessary* that a person do/should do [[#exercises]] every day if he wishes to be healthy.
+- It is *necessary* that a person do/should do [#exercises](.md#exercises) every day if he wishes to be healthy.
 
 ## necessarily
 
@@ -72,7 +72,7 @@
 
 ### negative adj.负面的；消极的；否定的；有害的；坏的
 
-- What is the author's [[#attitude]] toward [[#automobiles]]?*Negative*/[[#Positive]]/[[#Neutral]]/[[#Indifferent]].
+- What is the author's #attitude](.md#attitude)%20toward [#automobiles](.md#automobiles)?*Negative*/[#Positive](.md#Positive)/[#Neutral](.md#Neutral)/[#Indifferent](.md#Indifferent).
 	- neutral adj.中立的
 	- indifferent adj.默不关系的
 
@@ -81,7 +81,7 @@
 ### nervous adj.焦虑的；担忧的
 
 - be nervous about
-- He had never given a [[#speech]] to so many people so he felt *nervous*.[[#excited]]/[[#stupid]]/[[#disappointed]]
+- He had never given a #speech](.md#speech)%20to so many people so he felt *nervous*.[#excited](.md#excited)/[#stupid](.md#stupid)/[#disappointed](.md#disappointed)
 
 ### nervous adj.神经系统的
 
@@ -92,7 +92,7 @@
 ### normal adj.典型的；正常的
 
 - normal<==>abnormal
-- *normal* [[#behavior]]
+- *normal* [#behavior](.md#behavior)
 - live a *normal* life
 
 ## abnormal

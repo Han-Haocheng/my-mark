@@ -26,29 +26,29 @@
 
 ## 单词
 
-1. ![[../01-word library/word m#mention|mention]]
-2. ![[../01-word library/word m#mess|mess]]
-3. ![[../01-word library/word m#message|message]]
-4. ![[../01-word library/word m#method|method]]
-5. ![[../01-word library/word m#minute|minute]]
-6. ![[../01-word library/word m#missing|missing]]
-7. ![[../01-word library/word m#mistake|mistake]]
-8. ![[../01-word library/word m#mobile|mobile]]
-9. ![[../01-word library/word m#model|model]]
-10. ![[../01-word library/word m#modern|modern]]
-11. ![[../01-word library/word m#monitor|monitor]]
-12. ![[../01-word library/word m#moreover|moreover]]
-13. ![[../01-word library/word n#native|native]]
-14. ![[../01-word library/word n#nature|nature]]
-15. ![[../01-word library/word n#neat|neat]]
-16. ![[../01-word library/word n#necessary|necessary]]
-	1. ![[../01-word library/word n#necessarily|necessarily]]
-	2. ![[../01-word library/word n#necessity|necessity]]
-17. ![[../01-word library/word n#negative|negative]]
-18. ![[../01-word library/word n#nervous|nervous]]
-19. ![[../01-word library/word n#normal|normal]]
-	1. ![[../01-word library/word a#abnormal|abnormal]]
-20. ![[../01-word library/word n#novel|novel]]
+1. !mention](../01-word%20library/word m.md#mention)
+2. !mess](../01-word%20library/word m.md#mess)
+3. !message](../01-word%20library/word m.md#message)
+4. !method](../01-word%20library/word m.md#method)
+5. !minute](../01-word%20library/word m.md#minute)
+6. !missing](../01-word%20library/word m.md#missing)
+7. !mistake](../01-word%20library/word m.md#mistake)
+8. !mobile](../01-word%20library/word m.md#mobile)
+9. !model](../01-word%20library/word m.md#model)
+10. !modern](../01-word%20library/word m.md#modern)
+11. !monitor](../01-word%20library/word m.md#monitor)
+12. !moreover](../01-word%20library/word m.md#moreover)
+13. !native](../01-word%20library/word n.md#native)
+14. !nature](../01-word%20library/word n.md#nature)
+15. !neat](../01-word%20library/word n.md#neat)
+16. !necessary](../01-word%20library/word n.md#necessary)
+	1. !necessarily](../01-word%20library/word n.md#necessarily)
+	2. !necessity](../01-word%20library/word n.md#necessity)
+17. !negative](../01-word%20library/word n.md#negative)
+18. !nervous](../01-word%20library/word n.md#nervous)
+19. !normal](../01-word%20library/word n.md#normal)
+	1. !abnormal](../01-word%20library/word a.md#abnormal)
+20. !novel](../01-word%20library/word n.md#novel)
 
 ## 文章
 

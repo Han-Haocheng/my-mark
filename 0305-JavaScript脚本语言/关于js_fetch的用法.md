@@ -16,4 +16,4 @@ faction fetch(resource, options);
 - 一个 `Request`对象
 - `options` 可选
 
-一个包含你想要应用到请求上的任何自定义设置的 [`RequestInit`](https://developer.mozilla.org/en-US/docs/Web/API/RequestInit "此页面目前仅提供英文版本") 对象。
+一个包含你想要应用到请求上的任何自定义设置的 `RequestInit`](https://developer.mozilla.org/en-US/docs/Web/API/RequestInit%20"此页面目前仅提供英文版本".md) 对象。

@@ -8,7 +8,7 @@
 - I'm *considering* buying a NEV.
 	- NEV n.新能源汽车
 - *consider* sth. as 把……视为；认为
-- I *consider* the [[../04-基础模块词汇/basic model 2#exam/examination n.检查；审查；(仔细的)检验；调查；考察；考查|exam]] as a [[../02-核心词汇/core 05#challenge n.挑战|challenge]].
+- I *consider* the [exam](word%20e#exam/examination n.检查；审查；(仔细的)检验；调查；考察；考查) as a [challenge](../02-核心词汇/core%2005.md#challenge n.挑战).
 - all things *considered* 通盘考虑；从各方面考虑
 - *considering* that 鉴于；考虑到……
 
@@ -25,7 +25,7 @@
 ### cause n.原因
 
 - be the *cause* of sth
-- [[#Smoking]] is the biggest [[#preventable]] *cause* of death and [[#disease]]
+- [Smoking](#smoking) is the biggest [preventable](#preventable) *cause* of [disease](#disease).
 	- smoking n.吸烟
 	- preventable adj.可预防的
 	- disease n.疾病
@@ -36,15 +36,15 @@
 
 - *cause* sb to do sth
 - *cause* sb sth
-- The [[#poverty]] is *cased* the [[#strike]].
+- The [poverty](#poverty)%20is *cased* the [strike](#strike).
 	- poverty n.贫穷
 	- strike n.罢工
-- The [[#lean]] [[#harvest]] *caused* [[#prices]] to rise [[#sharply]]
+- The [lean](#lean)%20#harvest](#harvest)*caused*%20#prices](#prices)%20to rise [sharply](#sharply)
 	- lean adj.贫乏的
 	- harvest n.收获；收割
 	- price n.价格
 	- sharply adv.急剧的
-- The [[../04-基础模块词汇/basic model 2#debt n.债务；借款；人情债|debt]] *caused* her a lot of problems.
+- The debt](../04-基础模块词汇/basic%20model 2.md#debt n.债务；借款；人情债)*caused* her a lot of problems.
 
 ## cook
 
@@ -81,8 +81,8 @@
 
 ## capable
 
-- [[#capability n.能力；性能]]
-- [[#incapable adj.无能力的]]
+- [capability n.能力；性能](#capability%20n.能力；性能)
+- [incapable adj.无能力的](#incapable%20adj.无能力的)
 
 ### capable adj.有能力的；有才能的
 
@@ -97,7 +97,7 @@
 
 ### capability n.能力；性能
 
-## case
+%20## case
 
 ### case n.情况
 
@@ -105,7 +105,7 @@
 - in this/that *case* 在这种/那种情况下
 - in *case* (that) 以防(目的状语从句)
 - in case of 如果假使(条件状语)
-- In *case* of fire,[[#dial]] 119.
+- In *case* of fire,[dial](#dial) 119.
 	- dial v.拨打
 - Their *case* are called "civil" cases,still other are accused of criminal acts,and seek in those public interest law years...................
 
@@ -116,8 +116,8 @@
 
 ### case n.案件；案例
 
-- [[../04-基础模块词汇/basic model 2#civil adj.公民的；民事的；文明的；平民的；国民的；有礼貌的|civil]] *case* 民事案件
-- [[#criminal]] *case* 刑事案件
+- civil](../04-基础模块词汇/basic%20model 2.md#civil adj.公民的；民事的；文明的；平民的；国民的；有礼貌的)*case* 民事案件
+- [criminal](#criminal) *case* 刑事案件
 	- criminal adj.刑事的
 - *case* teaching 案例教学法
 
@@ -130,7 +130,7 @@
 
 ### catch v.赶上(公共汽车，火车，飞机)
 
-- [[#miss]] v.错过
+- [miss](#miss) v.错过
 
 - *catch* the flight/plane
 
@@ -140,7 +140,7 @@
 
 ### catch v.引起；激发(兴趣，想象，注意等)
 
-- *catch* one's [[#interest]]/[[#imagination]]/[[../1 core word/Word List 2#attention n.关注；注意力|attention]]
+- *catch* one's [](#interest)/[#imagination](#imagination)/[attention](word%20a#attention n.关注；注意力)
 	- interest n.兴趣
 	- imagination n.想象
 
@@ -148,13 +148,13 @@
 
 ### catch v.听清楚；领会
 
-- [[#grasp]] v.领会
-- [[#understand]] v.领会
-- [[#follow]] v.遵循
+- [grasp](#grasp) v.领会
+- [understand](#understand) v.领会
+- [follow](#follow) v.遵循
 
 ### catch v.瞥见
 
-- *catch* [[#sight]] of = *catch* a [[#glimpse]] of
+- *catch* [sight](#sight)%20of = *catch* a [glimpse](#glimpse)of
 	- sight n.视力；眼界
 	- glimpse n.一瞥
 
@@ -163,7 +163,7 @@
 ### celebrate v.庆祝；庆贺
 
 - *celebrate* New Year
-- *celebrate* a good [[#harvest]]
+- *celebrate* a good [harvest](#harvest)
 
 ## challenge
 
@@ -177,7 +177,7 @@
 
 - golden *chance* 黄金机会
 - *chances* are that sth. 可能...
-- Being [[../02-核心词汇/core 06#confident adj.自信的；把握|confident]] can [[#increase]] the chance to win
+- Being confident](../02-核心词汇/core%2006.md#confident adj.自信的；把握)can [increase](#increase) the chance to win
 
 ## change
 
@@ -185,7 +185,7 @@
 
 ### change n.变化；改变；找给的零钱
 
-- With traveling [[#expenses]] [[#rising]] a lot Mrs.White had to *change* all her plans for the [[#tour]].
+- With traveling [expenses](.\..md#expenses)g#rising](.\..md#rising)%20had%20to *change* all her plans for the [tour](.\..md#tour)
 	- expenses n.经费
 	- tour n.旅行
 
@@ -217,7 +217,7 @@
 
 ### charity n.慈善；慈善机构
 
-- People who give/[[#donate]] money to *charity* are 43 [[#percent]] more likely than non-givers to say thay're very happy.
+- People who give/#donate](#donate)%20money to *charity* are 43 [percent](#percent)more likely than non-givers to say thay're very happy.
 	- donate v.捐款
 
 ## chief
@@ -226,22 +226,22 @@
 
 ### chief adj.首席的
 
-- *chief* [[#scientist]] 首席科学家
+- *chief* [scientist](#scientist) 首席科学家
 
 ### chief adj.主要的；首要的；最重要的
 
-- My *chief* [[#challenge n.挑战|challenge]] is how to [[#memorise]] words.
+- My *chief* challenge](#challenge%20n.挑战)is how to [memorise](#memorise) words.
 
 ## claim
 
 ### claim v.宣称；声称
 
-- The man *claimed* that he was [[#innocent]]
+- The man *claimed* that he was [innocent](#innocent)
 	- innocent adj.清白的
 
 ### claim v.索要；认领
 
-- *claim* [[#purse]]/mobile phone
+- *claim* [purse](#purse)/mobile phone
 	- purse n.钱包
 
 ### claim v.夺走；夺去；吞噬
@@ -254,7 +254,7 @@
 
 ### climate n.气候
 
-- The [[../02-核心词汇/core 05#change n.变化；改变；找给的零钱|change]] from a [[#favorable]] to an [[#unfavorable]] *climate*
+- The change](../02-核心词汇/core%2005.md#change n.变化；改变；找给的零钱)from a [favorable](#favorable)%20to an [unfavorable](#unfavorable)*climate*
 	- favorable adj.有利的；良好的
 	- unfavorable adj.不适宜的；不顺利的
 
@@ -272,13 +272,13 @@
 
 ### collect v.收集；采集
 
-- *collect* [[#data]]/[[#information]]
+- *collect* [data](#data)/[information](#information)
 	- data n.数据
 	- information n.信息
 
 ### collect v.收藏
 
-- *collect* [[../05-拓展模块词汇/extension model 1#antique n.古董；文物；古物；古玩|antique]]/[[../05-拓展模块词汇/extension model 3#vase n.花瓶|vase]]/[[#stamps]]
+- *collect* antique](../05-拓展模块词汇/extension%20model 1.md#antique n.古董；文物；古物；古玩)/vase](../05-拓展模块词汇/extension%20model 3.md#vase n.花瓶)/[stamps](#stamps)
 	- stamps n.邮票
 
 ### collect v.募捐；聚积
@@ -294,7 +294,7 @@
 ### comment n.评论
 
 - make *comment* on 对……发表评论
-- The man made no *comments* on the [[#event]].
+- The man made no *comments* on the [event](#event).
 	- event n.事件
 - no comment 无可奉告
 
@@ -310,7 +310,7 @@
 
 ### communicate v.传达；传递
 
-= [[#convey]]
+= [convey](#convey)
 
 ## communication
 
@@ -332,7 +332,7 @@
 ### compared v.作比较
 
 - *compared* with 和……作比较
-- *Compared* with English, Chinese is more [[#complex]]
+- *Compared* with English, Chinese is more [complex](#complex)
 	- complex adj.复杂的
 
 ## comparison
@@ -364,7 +364,7 @@
 ### concentrate v.集中；专心
 
 - *concentrate* on 集中注意力
-- You should *concentrate* your [[../1 core word/Word List 2#attention n.关注；注意力|attention]] on your study.
+- You should *concentrate* your attention](../1%20core word/Word List 2.md#attention n.关注；注意力)on your study.
 
 ## concentration
 
@@ -375,17 +375,17 @@
 ### concern v.设计；牵涉(某人)
 
 - be *concerned* with
-- The [[#case]] does *concern* the [[#secretary]] of the [[#county]].
+- The [case](.\..md#case)%20*concern* the [se[secretary](.\..md#secretary)ty](.\.#se[secretary](.\..md#secretary)
 	- secretary n.书记
 	- county n.县城
 
 ### concern v.使某人担忧；使烦恼
 
-- What *concern* me most is students' [[#lack]] of work [[#discipline]].
+- What *concern* me most is students' [lack](#lack)%20of work [discipline](#discipline).
 	- lack v.缺乏；
 	- discipline adj.自制力
 - as far as sb./sth. is *concerned* 就……而言
-- As far as the [[#topic]] is *concerned*, I [[#reckon]],it is well [[#worthy]] of being studied and [[#researched]].
+- As far as the [topic](.\..md#topic)oncerned*,%20I [rec[reckon](.\..md#reckon)#worthy](#rec[reckon](.\.#reckon)[worthy)%20o[worthy](.\..md#worthy)d%20[researched](.\..md#researched)
 	- topic n.主题；话题
 	- reckon v.估计；认为
 	- worthy adj.有价值的
@@ -403,17 +403,17 @@
 
 ### conduct n.行为；举止
 
-- [[#code n.行为规范；道德准则|code]] of *conduct* 行为规范
+- code](#code%20n.行为规范；道德准则)of *conduct* 行为规范
 
 ### conduct v.实施；组织；执行
 
-- conduct test/[[#interview]]/[[#experiment]]
+- conduct test/[interview](#interview)/[experiment](#experiment)
 	- interview n.面试
 	- experiment n.实验
 
 ### conduct v.传导(热、电)
 
-- *conduct* [[#heat]]/[[#electricity]]
+- *conduct* [heat](#heat)/[electricity](#electricity)
 	- heat n.热
 	- electricity n.电
 
@@ -449,7 +449,7 @@
 ### congratulation v.祝贺；道贺
 
 - *congratulation* sb. on sth
-- I'm writing this latter to *congratulation* you on [[#admission]]/[[#promotin]]
+- I'm writing this latter to *congratulation* you on [admission](#admission)/[promotin](#promotin)
 	- admission n.录取
 	- promotion n.晋升
 
@@ -497,13 +497,13 @@
 
 ### content n.内容；(书的)目录
 
-- The *contents* of the book are [[#abstract]].
+- The *contents* of the book are [abstract](#abstract).
 	- abstract adj.抽象的
 
 ### content adj.满足；满意
 
 - be *content* with sth.
-- be *content* with family/work/[[#marriage]]
+- be *content* with family/work/[marriage](#marriage)
 - be *content* with your life 知足常乐
 
 ## contract
@@ -514,7 +514,7 @@
 
 ### contract v.(使)收缩；缩小；感染(疾病)
 
-- People found to their [[#horror]] that 2/3 of the [[../1 core word/Word List 1#adult n. 成年人|adult]] [[#population]] in that [[#area]] has *contract* AIDS.
+- People found to their adult](#horror]]%20that 2/3 of the ../1 core word/Word List 1#adult n. 成年人)#population](../1%20core%20word/Word%20List 1.md#adult n. 成年人)[[population) in that [area](#area) has *contract* AIDS.
 	- horror n.恐惧；惊骇
 	- population n.人口
 	- area n.地区
@@ -523,13 +523,13 @@
 
 ### contribute v.捐献；捐赠
 
-- = [[#donate]]
+- = [donate](#donate)
 
 - *contribute* to 贡献于；有助于
-- We *contributed* $5000 to the [[#earthquake]] [[#fund]].
+- We *contributed* $5000 to the [earthquake](#earthquake)%20[fund](#fund).
 	- earthquake n.地震
 	- fund n.基金
-- As we know [[#fresh]] air, [[#nutrition]] food and exercise contribute to better health.[[word a#attribute v.归因于|attribute]].add.[[#distribute]]
+- As we know attribute](#fresh]]%20air, [nutrition](#nutrition)food%20and exercise contribute to better health.word a#attribute v.归因于).add.[distribute](word%20a.md#attribute%20v.归因于).add.[[distribute)
 	- fresh adj.新鲜的
 	- nutrition n.营养的
 	- exercise n.运动
@@ -548,7 +548,7 @@
 ### convenient adj.方便的；便利的
 
 - *convenient* for sb./sth.
-- Taking [[#subways]] is *convenient* for us to [[#travel]].
+- Taking [subways](#subways)%20is *convenient* for us to [travel](#travel).
 	- subway n.地铁
 	- travel v.旅行
 
@@ -560,7 +560,7 @@
 
 ### count v.计数
 
-- Don't *count* chickens [[../02-核心词汇/core 03#before conj.在……以前；到……之前|before]] they are [[#hatched]].
+- Don't *count* chickens before](../02-核心词汇/core%2003.md#before conj.在……以前；到……之前)they are [hatched](#hatched).
 	- hatch v.孵化
 
 ### count v.重要
@@ -574,14 +574,14 @@
 ### course n.课程
 
 - Englist *course*
-- a *course* in [[#linguistic]]
+- a *course* in [linguistic](#linguistic)
 	- linguistic n.语言学
 
 ### course n.期间
 
-- in/over the *course* of = time/[[#period]]
+- in/over the *course* of = time/[period](#period)
 	- period n.学期
-- He's seen many [[../02-核心词汇/core 05#change n.变化；改变；找给的零钱|changes]] in the *course* of the opening and [[#reform]].
+- He's seen many changes](../02-核心词汇/core%2005.md#change n.变化；改变；找给的零钱)in the *course* of the opening and [reform](#reform).
 	- reform n.改革
 
 ## credit
@@ -594,7 +594,7 @@
 
 ### credit n.学分
 
-- English [[#course n.课程|course]] is worth 4 *credits* in this [[#term]]/[[#semester]]
+- English course](#course%20n.课程)is worth 4 *credits* in this [term](#term)/[semester](#semester)
 	- term n.学期
 	- semester n.学期
 
@@ -606,7 +606,7 @@
 
 ### cure v.治愈
 
-- *cure* AIDS/[[#flu]]
+- *cure* AIDS/[flu](#flu)
 	- flu n.流感
 
 ### cure v.解决(问题)
@@ -615,7 +615,7 @@
 
 ### cure n.治疗；措施；对策
 
-- Because [[#smoking]] makes them good [[#thinker]],makes them [[#relaxed]], is fun to them, *cures* them of [[#cancer]].
+- Because [smoking](.\..md#smoking)hem%20good [think#thinker](.\..md#thinker)elaxed](#think#thinker](.\..md#thinker)elaxed),%20is#relaxed](.\..md#relaxed)*%20them%20of%20[cancer](.\..md#cancer)
 	- smoking n.吸烟
 	- thinker n.思考者；思想家
 	- relaxed adj.放松的
@@ -631,12 +631,12 @@
 
 ### current adj.当前的；现在的
 
-- *current* [[#situations]]/world
+- *current* [situations](#situations)/world
 	- situation n.局面；情况
 
 ### current adj.流行的
 
-- *curious* [[#tattoo]]
+- *curious* [tattoo](#tattoo)
 	- tattoo n.纹身
 
 ### current n.电流；(海洋、江河)水流；潮流

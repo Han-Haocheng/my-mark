@@ -31,34 +31,34 @@
 
 ## 单词
 
-1. ![[../01-word library/word a#appointment]]
-2. ![[../01-word library/word a#appreciate]]
-	1. ![[../01-word library/word a#appreciation]]
-3. ![[../01-word library/word a#approach]]
-4. ![[../01-word library/word a#argue]]
-	1. ![[../01-word library/word a#argument]]
-5. ![[../01-word library/word a#arrange]]
-	1. ![[../01-word library/word a#arrangement]]
-6. ![[../01-word library/word a#arrive]]
-7. ![[../01-word library/word a#asleep]]
-	1. ![[../01-word library/word s#sleepy]]
-	2. ![[../01-word library/word s#sleep]]
-8. ![[../01-word library/word a#aspect]]
-9. ![[../01-word library/word a#assistant]]
-10. ![[../01-word library/word a#assume]]
-11. ![[../01-word library/word a#attach]]
-12. ![[../01-word library/word a#attack]]
-13. ![[../01-word library/word a#attempt]]
-14. ![[../01-word library/word a#attand]]
-15. ![[../01-word library/word a#attention]]
-16. ![[../01-word library/word a#attitude]]
-17. ![[../01-word library/word a#attract]]
-	1. ![[../01-word library/word a#attractive]]
-	2. ![[../01-word library/word a#attraction]]
-18. ![[../01-word library/word a#authority]]
-	1. ![[../01-word library/word a#authorities]]
-19. ![[../01-word library/word a#automatic]]
-20. ![[../01-word library/word a#available]]
+1. [appointment](../01-word%20library/word a.md#appointment)
+1. [appreciate](../01-word%20library/word a.md#appreciate)
+	1. [appreciation](../01-word%20library/word a.md#appreciation)
+1. [approach](../01-word%20library/word a.md#approach)
+1. [argue](../01-word%20library/word a.md#argue)
+	1. [argument](../01-word%20library/word a.md#argument)
+1. [arrange](../01-word%20library/word a.md#arrange)
+	1. [arrangement](../01-word%20library/word a.md#arrangement)
+1. [arrive](../01-word%20library/word a.md#arrive)
+1. [asleep](../01-word%20library/word a.md#asleep)
+	1. [sleepy](../01-word%20library/word s.md#sleepy)
+	1. [sleep](../01-word%20library/word s.md#sleep)
+1. [aspect](../01-word%20library/word a.md#aspect)
+1. [assistant](../01-word%20library/word a.md#assistant)
+11. [assume](../01-word%20library/word a.md#assume)
+11. [attach](../01-word%20library/word a.md#attach)
+11. [attack](../01-word%20library/word a.md#attack)
+11. [attempt](../01-word%20library/word a.md#attempt)
+11. [attand](../01-word%20library/word a.md#attand)
+11. [attention](../01-word%20library/word a.md#attention)
+11. [attitude](../01-word%20library/word a.md#attitude)
+11. [attract](../01-word%20library/word a.md#attract)
+	1. [attractive](../01-word%20library/word a.md#attractive)
+	1. [attraction](../01-word%20library/word a.md#attraction)
+11. [authority](../01-word%20library/word a.md#authority)
+	1. [authorities](../01-word%20library/word a.md#authorities)
+11. [automatic](../01-word%20library/word a.md#automatic)
+21. [available](../01-word%20library/word a.md#available)
 
 ## 文章
 

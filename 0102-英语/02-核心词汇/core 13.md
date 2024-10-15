@@ -42,45 +42,45 @@
 
 ## 单词
 
-1. ![[../01-word library/word i#injure|injure]]
-	1. ![[../01-word library/word i#injured|injured]]
-	2. ![[../01-word library/word i#injury|injury]]
-2. ![[../01-word library/word i#inspire|inspire]]
-	1. ![[../01-word library/word i#inspiring|inspiring]]
-	2. ![[../01-word library/word i#inspiration|inspiration]]
-3. ![[../01-word library/word i#install|install]]
-		1. ![[../01-word library/word u#uninstall|uninstall]]
-4. ![[../01-word library/word i#intelligent|intelligent]]
-	1. ![[../01-word library/word i#intelligence|intelligence]]
-5. ![[../01-word library/word i#intend|intend]]
-	1. ![[../01-word library/word i#intention|intention]]
-6. ![[../01-word library/word i#interest|interest]]
-	1. ![[../01-word library/word i#interested|interested]]
-	2. ![[../01-word library/word i#interesting|interesting]]
-7. ![[../01-word library/word i#interview|interview]]
-	1. ![[../01-word library/word i#interviewer|interviewer]]
-	2. ![[../01-word library/word i#interviewee|interviewee]]
-8. ![[../01-word library/word i#invent|invent]]
-	1. ![[../01-word library/word i#invention|invention]]
-	2. ![[../01-word library/word i#inventor|inventor]]
-9. ![[../01-word library/word i#invite|invite]]
-	1. ![[../01-word library/word i#invitation|invitation]]
-10. ![[../01-word library/word i#issue|issue]]
-11. ![[../01-word library/word i#item|item]]
-12. ![[../01-word library/word j#journal|journal]]
-13. ![[../01-word library/word j#judge|judge]]
-	1. ![[../01-word library/word j#judgment|judgment]]
-14. ![[../01-word library/word j#junior|junior]]
-	1. ![[../01-word library/word s#senior|senior]]
-15. ![[../01-word library/word j#justice|justice]]
-16. ![[../01-word library/word l#latter|latter]]
-17. ![[../01-word library/word l#laugh|laugh]]
-	1. ![[../01-word library/word l#laughter|laughter]]
-18. ![[../01-word library/word l#lazy|lazy]]
-	1. ![[../01-word library/word l#laziness|laziness]]
-19. ![[../01-word library/word l#least|least]]
-20. ![[../01-word library/word l#leisure|leisure]]
-	1. ![[../01-word library/word l#leisurely|leisurely]]
+1. !injure](../01-word%20library/word i.md#injure)
+	1. !injured](../01-word%20library/word i.md#injured)
+	2. !injury](../01-word%20library/word i.md#injury)
+2. !inspire](../01-word%20library/word i.md#inspire)
+	1. !inspiring](../01-word%20library/word i.md#inspiring)
+	2. !inspiration](../01-word%20library/word i.md#inspiration)
+3. !install](../01-word%20library/word i.md#install)
+		1. !uninstall](../01-word%20library/word u.md#uninstall)
+4. !intelligent](../01-word%20library/word i.md#intelligent)
+	1. !intelligence](../01-word%20library/word i.md#intelligence)
+5. !intend](../01-word%20library/word i.md#intend)
+	1. !intention](../01-word%20library/word i.md#intention)
+6. !interest](../01-word%20library/word i.md#interest)
+	1. !interested](../01-word%20library/word i.md#interested)
+	2. !interesting](../01-word%20library/word i.md#interesting)
+7. !interview](../01-word%20library/word i.md#interview)
+	1. !interviewer](../01-word%20library/word i.md#interviewer)
+	2. !interviewee](../01-word%20library/word i.md#interviewee)
+8. !invent](../01-word%20library/word i.md#invent)
+	1. !invention](../01-word%20library/word i.md#invention)
+	2. !inventor](../01-word%20library/word i.md#inventor)
+9. !invite](../01-word%20library/word i.md#invite)
+	1. !invitation](../01-word%20library/word i.md#invitation)
+10. !issue](../01-word%20library/word i.md#issue)
+11. !item](../01-word%20library/word i.md#item)
+12. !journal](../01-word%20library/word j.md#journal)
+13. !judge](../01-word%20library/word j.md#judge)
+	1. !judgment](../01-word%20library/word j.md#judgment)
+14. !junior](../01-word%20library/word j.md#junior)
+	1. !senior](../01-word%20library/word s.md#senior)
+15. !justice](../01-word%20library/word j.md#justice)
+16. !latter](../01-word%20library/word l.md#latter)
+17. !laugh](../01-word%20library/word l.md#laugh)
+	1. !laughter](../01-word%20library/word l.md#laughter)
+18. !lazy](../01-word%20library/word l.md#lazy)
+	1. !laziness](../01-word%20library/word l.md#laziness)
+19. !least](../01-word%20library/word l.md#least)
+20. !leisure](../01-word%20library/word l.md#leisure)
+	1. !leisurely](../01-word%20library/word l.md#leisurely)
 
 ## Title: The Journey of an Inventor
 

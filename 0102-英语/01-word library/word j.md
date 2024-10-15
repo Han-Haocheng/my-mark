@@ -32,7 +32,7 @@
 
 - I am 5 years *junior* to my sister.
 - = I am 5 years younger than my sister.
-- Although I am 15 years older than my [[#colleague]], I am *junior* to him in the [[#firm]].
+- Although I am 15 years older than my #colleague](.\..md#colleague)nior*%20to him in the [#firm](.\..md#firm)
 
 ### junior n.大三学生
 

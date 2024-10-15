@@ -26,29 +26,29 @@
 
 
 ## 单词
-1. ![[../01-word library/word l#less|less]]
-2. ![[../01-word library/word l#like|like]]
-3. ![[../01-word library/word l#litter|litter]]
-4. ![[../01-word library/word l#live|live]]
-	1. ![[../01-word library/word l#lively|lively]]
-5. ![[../01-word library/word l#locate|locate]]
-6. ![[../01-word library/word l#lonely|lonely]]
-7. ![[../01-word library/word l#loose|loose]]
-8. ![[../01-word library/word m#maintain|maintain]]
-9. ![[../01-word library/word m#major|major]]
-10. ![[../01-word library/word m#manage|manage]]
-	1. ![[../01-word library/word m#management|management]]
-	2. ![[../01-word library/word m#manager|manager]]
-11. ![[../01-word library/word m#manner|manner]]
-12. ![[../01-word library/word m#mark|mark]]
-13. ![[../01-word library/word m#mass|mass]]
-14. ![[../01-word library/word m#master|master]]
-15. ![[../01-word library/word m#mean|mean]]
-16. ![[../01-word library/word m#means|means]]
-17. ![[../01-word library/word m#measure|measure]]
-18. ![[../01-word library/word m#memory|memory]]
-19. ![[../01-word library/word m#memories|memories]]
-20. ![[../01-word library/word m#mental|mental]]
+1. !less](../01-word%20library/word l.md#less)
+2. !like](../01-word%20library/word l.md#like)
+3. !litter](../01-word%20library/word l.md#litter)
+4. !live](../01-word%20library/word l.md#live)
+	1. !lively](../01-word%20library/word l.md#lively)
+5. !locate](../01-word%20library/word l.md#locate)
+6. !lonely](../01-word%20library/word l.md#lonely)
+7. !loose](../01-word%20library/word l.md#loose)
+8. !maintain](../01-word%20library/word m.md#maintain)
+9. !major](../01-word%20library/word m.md#major)
+10. !manage](../01-word%20library/word m.md#manage)
+	1. !management](../01-word%20library/word m.md#management)
+	2. !manager](../01-word%20library/word m.md#manager)
+11. !manner](../01-word%20library/word m.md#manner)
+12. !mark](../01-word%20library/word m.md#mark)
+13. !mass](../01-word%20library/word m.md#mass)
+14. !master](../01-word%20library/word m.md#master)
+15. !mean](../01-word%20library/word m.md#mean)
+16. !means](../01-word%20library/word m.md#means)
+17. !measure](../01-word%20library/word m.md#measure)
+18. !memory](../01-word%20library/word m.md#memory)
+19. !memories](../01-word%20library/word m.md#memories)
+20. !mental](../01-word%20library/word m.md#mental)
 
 ## 文章
 

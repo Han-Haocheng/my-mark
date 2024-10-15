@@ -9,7 +9,7 @@
 
 ### wish v.希望
 
-- I want you to [[#marry]] me.
+- I want you to [#marry](.md#marry) me.
 
 ## watch
 

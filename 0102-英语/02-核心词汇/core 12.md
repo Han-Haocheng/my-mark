@@ -36,39 +36,39 @@
 
 ## 单词
 
-01. ![[../01-word library/word h#hesitate]]
-02. ![[../01-word library/word h#hobby]]
-03. ![[../01-word library/word h#honest]]
-	1. ![[../01-word library/word h#honesty]]
-04. ![[../01-word library/word h#household]]
-05. ![[../01-word library/word h#however]]
-06. ![[../01-word library/word h#humorous]]
-	1. ![[../01-word library/word h#humor]]
-07. ![[../01-word library/word i#identity]]
-08. ![[../01-word library/word i#ignore]]
-	1. ![[../01-word library/word i#ignorance]]
-	2. ![[../01-word library/word i#ignorant]]
-09. ![[../01-word library/word i#illustrate]]
-10. ![[../01-word library/word i#image]]
-	1. ![[../01-word library/word i#imagine]]
-	2. ![[../01-word library/word i#imagination]]
-	3. ![[../01-word library/word i#imaginable]]
-	4. ![[../01-word library/word i#imaginative]]
-11. ![[../01-word library/word i#imaginary]]
-12. ![[../01-word library/word i#impact]]
-13. ![[../01-word library/word i#improve]]
-	1. ![[../01-word library/word i#improvement]]
-14. ![[../01-word library/word i#include]]
-15. ![[../01-word library/word i#increase]]
-16. ![[../01-word library/word i#independent]]
-	1. ![[../01-word library/word i#independence]]
-	2. ![[../01-word library/word i#independently]]
-17. ![[../01-word library/word i#indicate]]
-18. ![[../01-word library/word i#individual]]
-19. ![[../01-word library/word i#influence]]
-	1. ![[../01-word library/word i#influencer]]
-20. ![[../01-word library/word i#inform]]
-	1. ![[../01-word library/word i#information]]
+01. !../01-word library/word h#hesitate](../01-word%20library/word h.md#hesitate)
+02. !../01-word library/word h#hobby](../01-word%20library/word h.md#hobby)
+03. !../01-word library/word h#honest](../01-word%20library/word h.md#honest)
+	1. !../01-word library/word h#honesty](../01-word%20library/word h.md#honesty)
+04. !../01-word library/word h#household](../01-word%20library/word h.md#household)
+05. !../01-word library/word h#however](../01-word%20library/word h.md#however)
+06. !../01-word library/word h#humorous](../01-word%20library/word h.md#humorous)
+	1. !../01-word library/word h#humor](../01-word%20library/word h.md#humor)
+07. !../01-word library/word i#identity](../01-word%20library/word i.md#identity)
+08. !../01-word library/word i#ignore](../01-word%20library/word i.md#ignore)
+	1. !../01-word library/word i#ignorance](../01-word%20library/word i.md#ignorance)
+	2. !../01-word library/word i#ignorant](../01-word%20library/word i.md#ignorant)
+09. !../01-word library/word i#illustrate](../01-word%20library/word i.md#illustrate)
+10. !../01-word library/word i#image](../01-word%20library/word i.md#image)
+	1. !../01-word library/word i#imagine](../01-word%20library/word i.md#imagine)
+	2. !../01-word library/word i#imagination](../01-word%20library/word i.md#imagination)
+	3. !../01-word library/word i#imaginable](../01-word%20library/word i.md#imaginable)
+	4. !../01-word library/word i#imaginative](../01-word%20library/word i.md#imaginative)
+11. !../01-word library/word i#imaginary](../01-word%20library/word i.md#imaginary)
+12. !../01-word library/word i#impact](../01-word%20library/word i.md#impact)
+13. !../01-word library/word i#improve](../01-word%20library/word i.md#improve)
+	1. !../01-word library/word i#improvement](../01-word%20library/word i.md#improvement)
+14. !../01-word library/word i#include](../01-word%20library/word i.md#include)
+15. !../01-word library/word i#increase](../01-word%20library/word i.md#increase)
+16. !../01-word library/word i#independent](../01-word%20library/word i.md#independent)
+	1. !../01-word library/word i#independence](../01-word%20library/word i.md#independence)
+	2. !../01-word library/word i#independently](../01-word%20library/word i.md#independently)
+17. !../01-word library/word i#indicate](../01-word%20library/word i.md#indicate)
+18. !../01-word library/word i#individual](../01-word%20library/word i.md#individual)
+19. !../01-word library/word i#influence](../01-word%20library/word i.md#influence)
+	1. !../01-word library/word i#influencer](../01-word%20library/word i.md#influencer)
+20. !../01-word library/word i#inform](../01-word%20library/word i.md#inform)
+	1. !../01-word library/word i#information](../01-word%20library/word i.md#information)
 
 ## 文章
 

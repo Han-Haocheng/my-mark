@@ -25,28 +25,28 @@
 
 ## 单词
 
-1. ![[../01-word library/word a#abroad]]
-2. ![[../01-word library/word a#accept]]
-3. ![[../01-word library/word a#accident]]
-4. ![[../01-word library/word a#account]]
-5. ![[../01-word library/word a#achieve]]
-6. ![[../01-word library/word a#adjust]]
-7. ![[../01-word library/word a#adult]]
-8. ![[../01-word library/word a#advantage]]
-9. ![[../01-word library/word a#advice]]
-10. ![[../01-word library/word a#afford]]
-11. ![[../01-word library/word a#against]]
-12. ![[../01-word library/word a#alike]]
-13. ![[../01-word library/word a#alone]]
-14. ![[../01-word library/word a#along]]
-15. ![[../01-word library/word a#although]]
-16. ![[../01-word library/word a#amount]]
-17. ![[../01-word library/word a#angry]]
-	1. ![[../01-word library/word a#anger]]
-18. ![[../01-word library/word a#anxious]]
-	1. ![[../01-word library/word a#anxiety]]
-19. ![[../01-word library/word a#appear]]
-20. ![[../01-word library/word a#apply]]
+1. [abroad](../01-word%20library/word a.md#abroad)
+1. [accept](../01-word%20library/word a.md#accept)
+1. [accident](../01-word%20library/word a.md#accident)
+1. [account](../01-word%20library/word a.md#account)
+1. [achieve](../01-word%20library/word a.md#achieve)
+1. [adjust](../01-word%20library/word a.md#adjust)
+1. [adult](../01-word%20library/word a.md#adult)
+1. [advantage](../01-word%20library/word a.md#advantage)
+1. [advice](../01-word%20library/word a.md#advice)
+11. [afford](../01-word%20library/word a.md#afford)
+11. [against](../01-word%20library/word a.md#against)
+11. [alike](../01-word%20library/word a.md#alike)
+11. [alone](../01-word%20library/word a.md#alone)
+11. [along](../01-word%20library/word a.md#along)
+11. [although](../01-word%20library/word a.md#although)
+11. [amount](../01-word%20library/word a.md#amount)
+11. [angry](../01-word%20library/word a.md#angry)
+	1. [anger](../01-word%20library/word a.md#anger)
+11. [anxious](../01-word%20library/word a.md#anxious)
+	1. [anxiety](../01-word%20library/word a.md#anxiety)
+11. [appear](../01-word%20library/word a.md#appear)
+21. [apply](../01-word%20library/word a.md#apply)
 
 ## 文章
 

@@ -7,28 +7,28 @@
 - go *abroad* 出国
 - at home and *abroad* 国内外
 
-- The [[#couple]] went *abroad*.
+- The [couple](#couple) went *abroad*.
 	- couple n.夫妻
-- The [[#brand]] is [[#famous]] at home and *abroad*.
+- The [brand](#brand) is [famous](#famous)at home and *abroad*.
 	- brand n.品牌
 	- famous adj.著名
-- She accepts my [[#apology]].
+- She accepts my [apology](#apology).
 	- apology n.道歉
 
 ## accept
 
-- [[#acceptance n.认可]]
+- [acceptance](#acceptance%20n.认可)
 
 ### accept v. 接受（建议、要求）；认可
 
-- Please *accept* our [[#sincere]] [[#apologies]]
-	- [[#sincere]] adj. 诚实的, 正直的, 真挚的, 纯净的
-	- [[#apologies]] n. 道歉, 抱歉, 抱怨, 道歉书
-- I *accept* you [[#advice n.建议；忠告；劝告|advice]]/[[suggestions]].
-	- [[#suggestion]] n.建议（可数）
+- Please *accept* our [sincere](#sincere) [apologies](#apologies)
+	- [sincere](#sincere) adj. 诚实的, 正直的, 真挚的, 纯净的
+	- [apologies](#apologies) n. 道歉, 抱歉, 抱怨, 道歉书
+- I *accept* you [advice](#advice%20n.建议；忠告；劝告)/[suggestions](suggestions.md).
+	- [suggestion](#suggestion) n.建议（可数）
 - The couple *accepted* my invitation.
 - I do hope all of you will *accept* my teaching style.
-- I accepted your [[#apology]]
+- I accepted your [apology](#apology)
 
 ## acceptance
 
@@ -42,35 +42,35 @@
 
 - car *accident* 交通事故
 
-- Researchers have [[#estimated]] that as many as 80% of all [[#automobile]] *accidents* can be [[#attribute v.归因于|attributed]] to [[#psychological]] [[word c#condition n.条件；物质环境|condition]] of the driver.
-	- [[#estimate]] v. 估计；估算
-	- [[#automobile]] n. 汽车；v. 开汽车；坐汽车；adj. 自动的
-	- [[#psychological]] adj. 心理的；心灵的；精神上的
+- Researchers have [estimated](#estimated) that as many as 80% of all [#automobile](#automobile)*accidents* can be [attributed](#attribute%20v.归因于) to [condition](word%20c.md#condition%20n.条件；物质环境) [psychological](#psychological) of the driver.
+	- estimate v. 估计；估算
+	- automobile n. 汽车；v. 开汽车；坐汽车；adj. 自动的
+	- psychological adj. 心理的；心灵的；精神上的
 
 ## account
 
 ### account v. 认为是；视为
 
 - *account* for 解释；说明；是……的原因
-- take...into *account* = take ... into [[word c#consideration n.考虑；原因|consideration]] 把……考虑进去
+- take...into *account* = take ... into [consideration](word%20c.md#consideration n.考虑；原因)把……考虑进去
 - on *account* of 由于
-- His [[word l#laziness n.懒惰|laziness]] *accounts* for his [[word f#failure n.失败|failure]]
-- On *account* of [[#terrible]] weather, the [[#flight]] has been [[word c#cancel v.取消；撤销|cancelled]].
-	- [[#terrible]] adj. 恶劣的
-	- [[#flight]] n.航班
+- His [laziness](word%20l.md#laziness n.懒惰)*accounts* for his [failure](word%20f.md#failure n.失败)
+- On *account* of [terrible](#terrible) the [cancel](word%20c#cancel%20v.取消；撤销) [flight](#flight).
+	- [terrible](#terrible) adj. 恶劣的
+	- [flight](#flight) n.航班
 
 ### account n. 账户；说明；账号；叙述
 
 ## achieve
 
-- [[#achievement]]
+- [achievement](#achievement)
 
 ### achieve v. 实现；完成
 
 - *achieve* one's dream
 
-- I [[#must]] *achieve* my dreams
-- I [[#can]] *achieve* my [[word g#goal n.目标；目的|goals]]
+- I [must](#must) *achieve* my dreams
+- I goals](#can]]%20*achieve* my [goal](word%20g#goal%20n.目标；目的)
 
 ## achievement
 
@@ -80,19 +80,19 @@
 
 ## adjust
 
-- [[#adjustment]]
+- [adjustment](#adjustment)
 
 ### adjust v.调整；调节
 
-- He *adjusted* the light/air [[#conditioner]]/[[#mood]]
+- He *adjusted* the light/air [conditioner](#conditioner)/[mood](#mood)
 	- conditioner n.调节器
-	- [[#mood]] n.心情
+	- mood n.心情
 
 ### adjust v.适应；习惯
 
 - *adjust* oneself to 使自己适应；习惯于
-- The boy *adjusted* himself to the new [[#dormitory]] life
-	- [[#dormitory]] n. 宿舍
+- The boy *adjusted* himself to the new [dormitory](#dormitory) life
+	- dormitory n. 宿舍
 - Learn to *adjust* yourself to the new life
 
 ## adjustment
@@ -101,11 +101,11 @@
 
 ## adult
 
-- [[#teenager]] n.青年
-- [[#child]] n.儿童
-- [[#infant]] n.婴儿；婴幼儿
-- [[#adulteration]] n. 掺杂, 掺假的东西
-- [[#adultery]] n. 通奸
+- [teenager](#teenager) n.青年
+- [child](#child) n.儿童
+- [infant](#infant) n.婴儿；婴幼儿
+- [adulteration](#adulteration) n. 掺杂, 掺假的东西
+- [adultery](#adultery) n. 通奸
 
 ### adult n. 成年人
 
@@ -114,23 +114,23 @@
 
 ## advantage
 
-- [[word d#disadvantage]]
+- [disadvantage](word%20d.md#disadvantage)
 
 ### advantage n.优点；有利条件
 
 - gain *advantage* over 比……有优势
-- My boyfriend has many *advantages* and [[#disadvantage n.缺点；不利条件|disadvantages]]
-- Living in [[#urban]] areas has many *advantages*
-	- [[#urban]] n. 城市
+- My boyfriend has many *advantages* and [disadvantages](#disadvantage%20n.缺点；不利条件)
+- Living in [urban](#urban) areas has many *advantages*
+	- [urban](#urban) n. 城市
 
 ## advice
 
-- [[#advise]]
+- [advise](#advise)
 
 ### advice n.建议；忠告；劝告
 
 - My English teacher always gives me some *advice* on how to learn English.
-- Some *advice* how to improve your [[#oral]] English
+- Some *advice* how to improve your [oral](#oral) English
 	- oral n. 口语的
 	- oral English=speaking English
 
@@ -138,9 +138,9 @@
 
 ### advise v.提出建议；劝告；忠告
 
-- My teacher *advises* that I should [[#recite]] the passage
+- My teacher *advises* that I should [recite](#recite) the passage
 	- recite v.背诵
-- My mother *advices* me to go abroad to study [[#futher]]
+- My mother *advices* me to go abroad to study [futher](#futher)
 	- further adv.深入的
 
 ## afford
@@ -159,15 +159,15 @@
 
 ### against prep.碰；倚着
 
-- The [[#ladder]] [[#leans]] *against* the wall.
+- The [ladder](#ladder) [leans](#leans)*against* the wall.
 	- ladder n.梯子
 	- leans v.倚靠
 
 ## alike
 
-- [[#unlike prep.和……不一样]]
-- [[#dislike n.不喜欢]]
-- [[#likely adj.可能的]]
+- [unlike prep.和……不一样](#unlike%20prep.和……不一样)
+- [dislike n.不喜欢](#dislike%20n.不喜欢)
+- [likely adj.可能的](#likely%20adj.可能的)
 
 ### alike adj.相像的；十分相似的
 
@@ -186,7 +186,7 @@ adv.（与某人）一道；一起
 
 ### alone adj.adv.独自的；仅仅；单独的
 
-- I am *alone* in the [[#dorm]] but I don't feel [[#lonely]]
+- I am *alone* in the [dorm](#dorm) but I don't feel [lonely](#lonely)
 	- dorm n.宿舍
 	- lonely adj.孤独的；寂寞的
 - Dad drives 28 miles and __back and forth__ the work *alone*
@@ -196,9 +196,9 @@ adv.（与某人）一道；一起
 
 ### although conj. 虽然；尽管
 
-- *Although* the girl is [[#pretty]], I [[#dislike n.不喜欢|dislike]] her
+- *Although* the girl is [pretty](#pretty), I [dislike](dislike n.不喜欢) her
 	- pretty adj.美丽的；漂亮的
-- *Although* he work hard, he makes no [[#progress]]
+- *Although* he work hard, he makes no [progress](#progress)
 	- progress n. 进展；进步
 
 ## amount
@@ -209,12 +209,12 @@ adv.（与某人）一道；一起
 
 ### amount v.共计；等同
 
-- His [[#earnings]] *amount* to 500,000 RMB each year
+- His [earnings](#earnings) *amount* to 500,000 RMB each year
 	- earnings n. 收入；工资
 
 ## angry
 
-- [[#anger]]
+- [anger](#anger)
 
 ### angry adj.生气的；愤怒的
 
@@ -226,7 +226,7 @@ adv.（与某人）一道；一起
 
 ### anger n. 愤怒；怒火；怒气
 
-- We all [[#experence]] some kind of anger in our life. Some of get *angry* easily.
+- We all [experence](#experence) some kind of anger in our life. Some of get *angry* easily.
 	- experience n.经历
 
 ## anxious
@@ -235,50 +235,50 @@ adv.（与某人）一道；一起
 
 - be *anxious* about n.
 - be *anxious* about to do sth.
-- Never be/feel *anxious* about your own [[#appearance]]
+- Never be/feel *anxious* about your own [appearance](#appearance)
 	- appearance n. 相貌
 
 ## anxiety
 
 ### anxiety n.焦虑；担忧；担心
 
-- The girl is waiting for [[#outcomes]] of the exam ,full of *anxiety*
+- The girl is waiting for [outcomes](#outcomes) of the exam ,full of *anxiety*
 	- outcome n.结果
 
 ## appear
 
 ### appear v.显得；看来；似乎
 
-- She didn't *appear* at all [[#surprised]] at the news
+- She didn't *appear* at all [surprised](#surprised) at the news
 
 ### appear vi.出现；显现
 
-- = [[#merge]]
-- A [[#conflict]] *appear* [[#among]] the nations.
+- = [merge](#merge)
+- A [conflict](#conflict) *appear* [among](#among)the nations.
 	- conflict n.冲突
 	- among prep.在……之间
 
 ### appear v. 看起来像
 
-- [[word s#seem v.好像；似乎|seem v.好像；似乎]]
-- [[word l#look v.看起来|look v.看起来]]
+- seem v.好像；似乎](word%20s.md#seem v.好像；似乎)
+- look v.看起来](word%20l.md#look v.看起来)
 
-- The girl *appears* [[#angry adj.生气的；愤怒的|angry]]
+- The girl *appears* angry](#angry%20adj.生气的；愤怒的)
 
 ## apply
 
-- [[#application]]
-- [[#applicant]]
+- [application](#application)
+- [applicant](#applicant)
 
 ### apply v.应用；运用
 
 - *apply* sth to sb.
 - *apply* for
-- Learn to *apply* [[#theories]] to your life.
+- Learn to *apply* [theories](#theories) to your life.
 	- theories n.理论
-- I'm writing this letter to you to *apply* for the job/position/[[#post]].
+- I'm writing this letter to you to *apply* for the job/position/[post](#post).
 	- post n. 职位
-- You should first __fill out/in__ his [[#form]] if you want to *apply* for this job.
+- You should first __fill out/in__ his [form](#form) if you want to *apply* for this job.
 	- fill out 填写
 	- form n. 表单；表格
 
@@ -288,8 +288,8 @@ adv.（与某人）一道；一起
 
 ## applicant
 
-- [[#assistant n.助理]]
-- [[#consultant n.顾问]]
+- [#assistant n.助理](#assistant%20n.助理)
+- [#consultant n.顾问](#consultant%20n.顾问)
 
 ### applicant n.申请人
 
@@ -313,7 +313,7 @@ adv.（与某人）一道；一起
 ### ache v. 疼；痛
 
 - Her eyes *ached*.
-- Her [[#stomach]] is *aching*.
+- Her [stomach](#stomach) is *aching*.
 
 ## agree
 
@@ -347,7 +347,7 @@ adv.（与某人）一道；一起
 = caused
 
 - *attribute* to sth.
-- The adults' [[#negligence]] *attribute* to the girl's death.
+- The adults' [negligence](#negligence) *attribute* to the girl's death.
 	- negligence n.疏忽大意
 
 ## appointment
@@ -358,16 +358,16 @@ adv.（与某人）一道；一起
 
 ### appointment n.委任；任命
 
-- His new *appointment* takes [[#effect]] from the beginning of new mouth.
+- His new *appointment* takes [effect](#effect) from the beginning of new mouth.
 	- effect n.影响；生效
 
 ## appreciate
 
-- [[#appreciation n.感激]]
+- [#appreciation n.感激](#appreciation%20n.感激)
 
 ### appreciate v.感激；感谢
 
-- I *appreciate* your [[#timely]] help
+- I *appreciate* your [timely](#timely) help
 	- timely adv. 及时的
 - I *appreciate* your saving me
 
@@ -381,9 +381,9 @@ adv.（与某人）一道；一起
 
 ### approach v.接近；靠近
 
-- [[word c#come v.成为；变成；变得|come v.成为；变成；变得]]
+- come v.成为；变成；变得](word%20c.md#come v.成为；变成；变得)
 
-- By the second [[#semester]], she [[../1 core word/Word List 1#adjust v.调整；调节|adjusted]] her teaching *approach* to [[#grab]] student's [[#attention n.关注；注意力|attention]].
+- By the second [semester](#semester), she [adjusted](word%20a#adjust v.调整；调节) her teaching *approach* to [grab](#grab) student's [attention](#attention n.关注；注意力).
 	- semester n.学期
 	- grab v.吸引
 - The fall/autumn is *approaching*
@@ -392,7 +392,7 @@ adv.（与某人）一道；一起
 
 - *approach* to
 - new *approaches* to English teaching
-- Carl Jung [[#believed]] that [[#collecting]] is *approach* to growing fruit
+- Carl Jung [#believed](#believed) that [collecting](#collecting)is *approach* to growing fruit
 	- believe v.相信
 	- collect v.收集
 
@@ -410,13 +410,13 @@ adv.（与某人）一道；一起
 
 ## arrange
 
-- [[#arrangement n.安排]]
+- [#arrangement n.安排](#arrangement%20n.安排)
 
 ### arrange v.安排；布置
 
 - *arrange* for sth
 - *arrange* to do sth
-- The teacher are [[#busy]] *arranging* for the [[#approach v.接近；靠近|approaching]] exams.
+- The teacher are [busy](#busy) *arranging* for the [approaching](approach v.接近；靠近)exams.
 	- busy adj.繁忙的
 
 ## arrangement
@@ -435,13 +435,13 @@ adv.（与某人）一道；一起
 - Last night *arrived* in Beijing Train Station.
 - Last night *arrived* at ZhangQiu Station
 
-- The woman isn't sur when the train wall *arrive*.The train was [[../02-核心词汇/core 05#catch v.接住；拦住|caught]] in an [[../1 core word/Word List 1#accident n. 事故；意外；偶然事件|accident]].
+- The woman isn't sur when the train wall *arrive*.The train was caught](../02-核心词汇/core%2005.md#catch v.接住；拦住)in an accident](../1%20core word/Word List 1.md#accident n. 事故；意外；偶然事件).
 	- caught v.陷入
 
 ## asleep
 
-- [[#sleep]]
-- [[#sleepy]]
+- [sleep](#sleep)
+- [sleepy](#sleepy)
 
 ### asleep adj.睡着的
 
@@ -449,7 +449,7 @@ adv.（与某人）一道；一起
 - The boy fall *asleep*
 	- fall *asleep* 入睡
 
-- He fall *asleep* and [[#missed]] the [[#flight]]
+- He fall *asleep* and [missed](#missed) the [flight](#flight)
 	- miss v.错过
 	- flight n.航班
 
@@ -459,7 +459,7 @@ adv.（与某人）一道；一起
 
 - for one *aspect* = on the one hand
 - for another *aspect* = on the other hand
-- WeChat has a [[#profound]] [[#effect]] on our life in many *aspects*
+- WeChat has a [profound](#profound) [effect](#effect)on our life in many *aspects*
 	- profound adj.极深的；深厚的；深刻的；渊博的
 	- effect vt.实行；引起；完成
 
@@ -469,9 +469,9 @@ adv.（与某人）一道；一起
 
 ### assistant adj.助理的
 
-- [[#customers]] and shop *assistant*
+- [customers](#customers) and shop *assistant*
 	- customer n.顾客
-- [[#foreign]] [[#tourist]] and his [[#local]] [[#guide]]
+- [foreign](#foreign) [tourist](#tourist)and his [local](#local) [guide](#guide)
 	- foreign adj.国外的
 	- tourist n.游客；旅客
 	- local adj.本地的
@@ -482,7 +482,7 @@ adv.（与某人）一道；一起
 ### attach v.把……视为
 
 - *attach* importance to 重视
-- We should *attach* [[#importace]] to students' safety [[#education]].
+- We should *attach* [importace](#importace) to students' safety [education](#education).
 	- importance n.重要性
 	- education n.教育
 
@@ -500,7 +500,7 @@ adv.（与某人）一道；一起
 
 ### attack n.攻击；袭击
 
-- [[#wild]] animal's *attack*
+- [wild](#wild) animal's *attack*
 	- wild adj.野生的
 
 ### attack n.一阵突发
@@ -509,7 +509,7 @@ adv.（与某人）一道；一起
 
 ### attack v.攻击；袭击；进攻；抨击
 
-- __Humpback whales__ make singing noises [[#probably]] to [[#express]] [[#emotions]]/*attack* [[#rivals]]
+- __Humpback whales__ make singing noises[probably](#probably) to [express](#express) [#emotions](#emotions)/*attack* [rivals](#rivals)
 	- humpback whales 座头鲸
 	- probably adv.可能；大概
 	- express v.表达
@@ -521,7 +521,7 @@ adv.（与某人）一道；一起
 ### attempt n.企图；尝试；努力
 
 - *attempt* to do sth.
-- His *attempts* to [[#assassinate]] te [[#president]] [[#failed]]
+- His *attempts* to [assassinate](#assassinate) te [president](#president)[failed](#failed)
 	- assassinate v.刺杀
 	- president n.总统
 	- failed v.失败
@@ -529,7 +529,7 @@ adv.（与某人）一道；一起
 ### attempt v.努力；尝试
 
 - *attempts* to do sth.
-- He *attmpts* to [[#answer]] my [[#question]]
+- He *attmpts* to [answer](#answer) my [question](#question)
 	- answer v.回答
 	- question n.问题
 
@@ -537,9 +537,9 @@ adv.（与某人）一道；一起
 
 ### attand v.出席；参加
 
-- *attand* the [[#meeting]]
+- *attand* the [meeting](#meeting)
 	- meeting n.会议
-- *attand* the [[#forum]]
+- *attand* the [forum](#forum)
 	- forum n.论坛
 - *attand* the class
 
@@ -552,10 +552,10 @@ adv.（与某人）一道；一起
 ### attention n.关注；注意力
 
 - pay *attention* to 关注
-- What did we usually do [[#concerning]] [[#depression]]？We paid too much *attention* to it.
+- What did we usually do [concerning](#concerning) [depression](#depression)？We paid too much *attention* to it.
 	- concerning prep.关于
 	- depression n.抑郁症
-- We should pay *attention* to students' [[#Mental]] /[[#psychological]] [[#health]]
+- We should pay *attention* to students' [Mental](#Mental) /[psychological](#psychological) [health](#health)
 	- mental adj.精神的；心理的
 	- psychological adj.心理学上的
 	- health n.健康
@@ -565,7 +565,7 @@ adv.（与某人）一道；一起
 ### attitude n.态度
 
 - *Attitude* is everything 态度决定一切
-- What's the [[#author]]'s *attitude* [[#toward]]...?[[#Negative]].[[#Positive]].[[#Neutral]].[[#Indifferent]]
+- What's the [author](#author) *attitude* [toward](.\..md#toward) [automobile](#auto/automobile%20n.汽车) ?[negative](#negative).[positive](#positive).[neutral](#neutral).[Indifferent](#Indifferent).
 	- author n.作者
 	- toward prep.对于
 	- negative adj.消极的
@@ -622,10 +622,10 @@ adv.（与某人）一道；一起
 
 ### average adj.平均的；一般的；普通的
 
-- The global *average* air [[#temperature]] is believed rise in the near future
+- The global *average* air [temperature](#temperature) is believed rise in the near future
 	- global n.全球
 	- temperature n.温度
-- The [[#country]]'s [[#registered]] *average* [[#unemployment]] [[#rate]] in [[#urban]] areas.
+- The [country](#country)'s%20#registered](#registered)*average*%20#unemployment](#unemployment) [rate](#rate)in [urban](#urban) areas.
 	- country n.国家的
 	- register n.登记的
 	- unemployment n.失业
@@ -636,14 +636,14 @@ adv.（与某人）一道；一起
 
 ### avoid v.避免；避开；回避；躲避
 
-- [[#avoidable]] adj.可避免的
-- [[#unavoidable]] adj.不可避免的
+- [avoidable](#avoidable) adj.可避免的
+- [unavoidable](#unavoidable) adj.不可避免的
 
-- *avoid* [[#conflicts]]
+- *avoid* [conflicts](#conflicts)
 	- conflict n.冲突
-- Please *avoid* [[word l#leaving v.遗弃|leaving]] [[#litter]]
+- Please *avoid* leaving](word%20l.md#leaving v.遗弃)[litter](#litter)
 	- litter n.垃圾
-- Students should *avoid* [[word l#leaving v.遗弃|leaving]] litter
+- Students should *avoid* leaving](word%20l.md#leaving v.遗弃)litter
 
 ## awake
 
@@ -652,7 +652,7 @@ adv.（与某人）一道；一起
 - wake up
 - get up
 - I *awake* at 6 every morning.
-- I stayed *awake* the [[#whole]] night
+- I stayed *awake* the [whole](#whole) night
 	- whole adj.整个的
 
 ## award
@@ -667,7 +667,7 @@ adv.（与某人）一道；一起
 - *award* for sth.
 - *award* sb sth
 - *award* sth to sb
-- The [[#citizens]] *awarded* him "the most [[#courageous]]/[[#popular]] man"of the nation.
+- The [citizens](#citizens) *awarded* him "the most [courageous](#courageous)/[popular](#popular) man"of the nation.
 	- citizen n.市民
 	- courageous adj.勇敢的
 	- popular adj.受欢迎的
@@ -676,12 +676,12 @@ adv.（与某人）一道；一起
 
 ### aware adj.意识到的
 
-- [[#unaware adj.没有意识到]]
-- [[#awareness n.意识；认识]]
+- [unaware adj.没有意识到](#unaware%20adj.没有意识到)
+- [awareness n.意识；认识](#awareness%20n.意识；认识)
 
 - be *aware* of + 名词
 - be *aware* that + 句子
-- We are *aware* our own [[#advantage n.优点；有利条件|advantages]]
+- We are *aware* our own advantages](#advantage%20n.优点；有利条件)
 - I am *aware* that I made a mistake
 
 ## awareness
@@ -695,7 +695,7 @@ adv.（与某人）一道；一起
 - awfully adv.非常地
 
 - *awful* mood 坏心情
-- My [[#mood]] is *awful* = I feel *awful* today
+- My [mood](#mood) is *awful* = I feel *awful* today
 - The weather is *awful*
 
 ### awfully adv.非常地
@@ -706,7 +706,7 @@ adv.（与某人）一道；一起
 
 ### awkward adj.令人尴尬的；使人难堪的
 
-- *awkward* [[#situations]]
+- *awkward* [situations](#situations)
 	- situation n.情景
 
 ## afterwards
@@ -717,8 +717,8 @@ adv.（与某人）一道；一起
 
 ### alcohol n.酒精；乙醇；酒；含酒精饮料
 
-- Drinking [[#excessive]] *alcohol* dose harm to your health.
-	- [[#excessive]] adj.过量的
+- Drinking [excessive](#excessive) *alcohol* dose harm to your health.
+	- [excessive](#excessive) adj.过量的
 
 ## ancestor
 

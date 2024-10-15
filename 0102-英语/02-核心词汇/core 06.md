@@ -37,37 +37,37 @@
 	contact
 
 ## 单词
-1. ![[../01-word library/word c#claim]]
-2. ![[../01-word library/word c#climate]]
-3. ![[../01-word library/word c#code]]
-4. ![[../01-word library/word c#collect]]
-	1. ![[../01-word library/word c#collector]]
-5. ![[../01-word library/word c#comment]]
-	1. ![[../01-word library/word c#communicate]]
-	2. ![[../01-word library/word c#communication]]
-	3. ![[../01-word library/word c#communicator]]
-6. ![[../01-word library/word c#compare]]
-	1. ![[../01-word library/word c#compared]]
-	2. ![[../01-word library/word c#comparison]]
-	3. ![[../01-word library/word c#comparable]]
-7. ![[../01-word library/word c#complain]]
-8. ![[../01-word library/word c#complaint]]
-9.  ![[../01-word library/word c#concentrate]]
-	1. ![[../01-word library/word c#concentration]]
-10. ![[../01-word library/word c#concern]]
-11. ![[../01-word library/word c#condition]]
-12. ![[../01-word library/word c#conduct]]
-13. ![[../01-word library/word c#conference]]
-14. ![[../01-word library/word c#confident]]
-	1. ![[../01-word library/word c#confidence]]
-15. ![[../01-word library/word c#confirm]]
-16. ![[../01-word library/word c#congratulation]]
-17. ![[../01-word library/word c#consider]]
-	1. ![[../01-word library/word c#considerate]]
-	2. ![[../01-word library/word c#considerable]]
-	3. ![[../01-word library/word c#consideration]]
-18. ![[../01-word library/word c#consistent]]
-19. ![[../01-word library/word c#construct]]
-	1. ![[../01-word library/word c#construction]]
-	2. ![[../01-word library/word c#constructive]]
-20. ![[../01-word library/word c#contact]]
+1. [claim](../01-word%20library/word c.md#claim)
+1. [climate](../01-word%20library/word c.md#climate)
+1. [code](../01-word%20library/word c.md#code)
+1. [collect](../01-word%20library/word c.md#collect)
+	1. [collector](../01-word%20library/word c.md#collector)
+1. [comment](../01-word%20library/word c.md#comment)
+	1. [communicate](../01-word%20library/word c.md#communicate)
+	1. [communication](../01-word%20library/word c.md#communication)
+	1. [communicator](../01-word%20library/word c.md#communicator)
+1. [compare](../01-word%20library/word c.md#compare)
+	1. [compared](../01-word%20library/word c.md#compared)
+	1. [comparison](../01-word%20library/word c.md#comparison)
+	1. [comparable](../01-word%20library/word c.md#comparable)
+1. [complain](../01-word%20library/word c.md#complain)
+1. [complaint](../01-word%20library/word c.md#complaint)
+9.  !../01-word library/word c#concentrate](../01-word%20library/word c.md#concentrate)
+	1. [concentration](../01-word%20library/word c.md#concentration)
+11. [concern](../01-word%20library/word c.md#concern)
+11. [condition](../01-word%20library/word c.md#condition)
+11. [conduct](../01-word%20library/word c.md#conduct)
+11. [conference](../01-word%20library/word c.md#conference)
+11. [confident](../01-word%20library/word c.md#confident)
+	1. [confidence](../01-word%20library/word c.md#confidence)
+11. [confirm](../01-word%20library/word c.md#confirm)
+11. [congratulation](../01-word%20library/word c.md#congratulation)
+11. [consider](../01-word%20library/word c.md#consider)
+	1. [considerate](../01-word%20library/word c.md#considerate)
+	1. [considerable](../01-word%20library/word c.md#considerable)
+	1. [consideration](../01-word%20library/word c.md#consideration)
+11. [consistent](../01-word%20library/word c.md#consistent)
+11. [construct](../01-word%20library/word c.md#construct)
+	1. [construction](../01-word%20library/word c.md#construction)
+	1. [constructive](../01-word%20library/word c.md#constructive)
+21. [contact](../01-word%20library/word c.md#contact)

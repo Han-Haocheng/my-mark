@@ -33,35 +33,35 @@
 ## 单词
 
 
-1. ![[../01-word library/word p#profit]]
-	1. ![[../01-word library/word p#profitable]]
-	2. ![[../01-word library/word n#nonprofit]]
-2. ![[../01-word library/word p#progress]]
-3. ![[../01-word library/word p#promise]]
-4. ![[../01-word library/word p#promote]]
-	1. ![[../01-word library/word p#promotion]]
-5. ![[../01-word library/word p#propose]]
-	1. ![[../01-word library/word p#proposal]]
-6. ![[../01-word library/word p#protect]]
-	1. ![[../01-word library/word p#protector]]
-	2. ![[../01-word library/word p#protection]]
-	3. ![[../01-word library/word p#protective]]
-7. ![[../01-word library/word p#protest]]
-8. ![[../01-word library/word p#prove]]
-	1. ![[../01-word library/word p#proof]]
-9. ![[../01-word library/word p#provide]]
-10. ![[../01-word library/word p#publish]]
-11. ![[../01-word library/word p#punish]]
-	1. ![[../01-word library/word p#punishment]]
-12. ![[../01-word library/word p#purchase]]
-13. ![[../01-word library/word p#purpose]]
-14. ![[../01-word library/word q#quality]]
-15. ![[../01-word library/word q#quantity]]
-16. ![[../01-word library/word q#quit]]
-17. ![[../01-word library/word r#range]]
-18. ![[../01-word library/word r#rapid]]
-19. ![[../01-word library/word r#rather]]
-20. ![[../01-word library/word r#raw]]
+1. !../01-word library/word p#profit](../01-word%20library/word p.md#profit)
+	1. !../01-word library/word p#profitable](../01-word%20library/word p.md#profitable)
+	2. !../01-word library/word n#nonprofit](../01-word%20library/word n.md#nonprofit)
+2. !../01-word library/word p#progress](../01-word%20library/word p.md#progress)
+3. !../01-word library/word p#promise](../01-word%20library/word p.md#promise)
+4. !../01-word library/word p#promote](../01-word%20library/word p.md#promote)
+	1. !../01-word library/word p#promotion](../01-word%20library/word p.md#promotion)
+5. !../01-word library/word p#propose](../01-word%20library/word p.md#propose)
+	1. !../01-word library/word p#proposal](../01-word%20library/word p.md#proposal)
+6. !../01-word library/word p#protect](../01-word%20library/word p.md#protect)
+	1. !../01-word library/word p#protector](../01-word%20library/word p.md#protector)
+	2. !../01-word library/word p#protection](../01-word%20library/word p.md#protection)
+	3. !../01-word library/word p#protective](../01-word%20library/word p.md#protective)
+7. !../01-word library/word p#protest](../01-word%20library/word p.md#protest)
+8. !../01-word library/word p#prove](../01-word%20library/word p.md#prove)
+	1. !../01-word library/word p#proof](../01-word%20library/word p.md#proof)
+9. !../01-word library/word p#provide](../01-word%20library/word p.md#provide)
+10. !../01-word library/word p#publish](../01-word%20library/word p.md#publish)
+11. !../01-word library/word p#punish](../01-word%20library/word p.md#punish)
+	1. !../01-word library/word p#punishment](../01-word%20library/word p.md#punishment)
+12. !../01-word library/word p#purchase](../01-word%20library/word p.md#purchase)
+13. !../01-word library/word p#purpose](../01-word%20library/word p.md#purpose)
+14. !../01-word library/word q#quality](../01-word%20library/word q.md#quality)
+15. !../01-word library/word q#quantity](../01-word%20library/word q.md#quantity)
+16. !../01-word library/word q#quit](../01-word%20library/word q.md#quit)
+17. !../01-word library/word r#range](../01-word%20library/word r.md#range)
+18. !../01-word library/word r#rapid](../01-word%20library/word r.md#rapid)
+19. !../01-word library/word r#rather](../01-word%20library/word r.md#rather)
+20. !../01-word library/word r#raw](../01-word%20library/word r.md#raw)
 ## 文章
 
 

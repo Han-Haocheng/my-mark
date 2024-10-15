@@ -38,41 +38,41 @@
 
 ## 单词列表
 
-1. ![[../01-word library/word p#perform]]
-	1. ![[../01-word library/word p#performance]]
-2. ![[../01-word library/word p#permit]]
-3. ![[../01-word library/word p#persuade]]
-4. ![[../01-word library/word p#physical]]
-	1. ![[../01-word library/word p#physics]]
-5. ![[../01-word library/word p#polite]]
-	1. ![[../01-word library/word p#politely]]
-	2. ![[../01-word library/word i#impolite]]
-	3. ![[../01-word library/word p#politeness]]
-6. ![[../01-word library/word p#pollution]]
-	1. ![[../01-word library/word p#pollute]]
-	2. ![[../01-word library/word p#pollutant]]
-7. ![[../01-word library/word p#population]]
-8. ![[../01-word library/word p#positive]]
-9. ![[../01-word library/word p#postpone]]
-10. ![[../01-word library/word p#practical]]
-	1. ![[../01-word library/word p#practically]]
-	2. ![[../01-word library/word p#practice]]
-11. ![[../01-word library/word p#praise]]
-12. ![[../01-word library/word p#precaution]]
-13. ![[../01-word library/word p#prefer]]
-	1. ![[../01-word library/word p#preference]]
-	2. ![[../01-word library/word p#preferable]]
-14. ![[../01-word library/word p#prepare]]
-	1. ![[../01-word library/word p#preparation]]
-15. ![[../01-word library/word p#present]]
-16. ![[../01-word library/word p#prevent]]
-	1. ![[../01-word library/word p#prevention]]
-	2. ![[../01-word library/word p#preventive]]
-17. ![[../01-word library/word p#previous]]
-18. ![[../01-word library/word p#primary]]
-19. ![[../01-word library/word p#private]]
-	1. ![[../01-word library/word p#privacy]]
-20. ![[../01-word library/word p#procedure]]
+1. !../01-word library/word p#perform](../01-word%20library/word p.md#perform)
+	1. !../01-word library/word p#performance](../01-word%20library/word p.md#performance)
+2. !../01-word library/word p#permit](../01-word%20library/word p.md#permit)
+3. !../01-word library/word p#persuade](../01-word%20library/word p.md#persuade)
+4. !../01-word library/word p#physical](../01-word%20library/word p.md#physical)
+	1. !../01-word library/word p#physics](../01-word%20library/word p.md#physics)
+5. !../01-word library/word p#polite](../01-word%20library/word p.md#polite)
+	1. !../01-word library/word p#politely](../01-word%20library/word p.md#politely)
+	2. !../01-word library/word i#impolite](../01-word%20library/word i.md#impolite)
+	3. !../01-word library/word p#politeness](../01-word%20library/word p.md#politeness)
+6. !../01-word library/word p#pollution](../01-word%20library/word p.md#pollution)
+	1. !../01-word library/word p#pollute](../01-word%20library/word p.md#pollute)
+	2. !../01-word library/word p#pollutant](../01-word%20library/word p.md#pollutant)
+7. !../01-word library/word p#population](../01-word%20library/word p.md#population)
+8. !../01-word library/word p#positive](../01-word%20library/word p.md#positive)
+9. !../01-word library/word p#postpone](../01-word%20library/word p.md#postpone)
+10. !../01-word library/word p#practical](../01-word%20library/word p.md#practical)
+	1. !../01-word library/word p#practically](../01-word%20library/word p.md#practically)
+	2. !../01-word library/word p#practice](../01-word%20library/word p.md#practice)
+11. !../01-word library/word p#praise](../01-word%20library/word p.md#praise)
+12. !../01-word library/word p#precaution](../01-word%20library/word p.md#precaution)
+13. !../01-word library/word p#prefer](../01-word%20library/word p.md#prefer)
+	1. !../01-word library/word p#preference](../01-word%20library/word p.md#preference)
+	2. !../01-word library/word p#preferable](../01-word%20library/word p.md#preferable)
+14. !../01-word library/word p#prepare](../01-word%20library/word p.md#prepare)
+	1. !../01-word library/word p#preparation](../01-word%20library/word p.md#preparation)
+15. !../01-word library/word p#present](../01-word%20library/word p.md#present)
+16. !../01-word library/word p#prevent](../01-word%20library/word p.md#prevent)
+	1. !../01-word library/word p#prevention](../01-word%20library/word p.md#prevention)
+	2. !../01-word library/word p#preventive](../01-word%20library/word p.md#preventive)
+17. !../01-word library/word p#previous](../01-word%20library/word p.md#previous)
+18. !../01-word library/word p#primary](../01-word%20library/word p.md#primary)
+19. !../01-word library/word p#private](../01-word%20library/word p.md#private)
+	1. !../01-word library/word p#privacy](../01-word%20library/word p.md#privacy)
+20. !../01-word library/word p#procedure](../01-word%20library/word p.md#procedure)
 
 ## 文章
 

@@ -14,7 +14,7 @@
 
 ### think v.认为
 
-- I *think* his [[#performance]] [[#ignorant]]
+- I *think* his #performance](.md#performance)%20[#ignorant](.md#ignorant)
 
 ## turn
 
@@ -25,7 +25,7 @@
 ### turn out （以某方式）发生；最后是；结果是
 
 - It's turned out nice again
-- My boyfriend turns out a [[#liar]]
+- My boyfriend turns out a [#liar](.md#liar)
 
 ## tablet
 

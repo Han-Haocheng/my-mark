@@ -28,30 +28,30 @@
 	donate
 
 ## 单词
-1. ![[../01-word library/word d#depend]]
-2. ![[../01-word library/word d#deposit]]
-3. ![[../01-word library/word d#describe]]
-	1. ![[../01-word library/word d#description]]
-4. ![[../01-word library/word d#desire]]
-	1. ![[../01-word library/word d#desirable]]
-5. ![[../01-word library/word d#despite]]
-6. ![[../01-word library/word d#destination]]
-7. ![[../01-word library/word d#destroy]]
-8. ![[../01-word library/word d#detail]]
-9. ![[../01-word library/word d#determine]]
-	1. ![[../01-word library/word d#determination]]
-10. ![[../01-word library/word d#develop]]
-	1. ![[../01-word library/word d#development]]
-11. ![[../01-word library/word d#difficult]]
-12. ![[../01-word library/word d#disappear]]
-13. ![[../01-word library/word d#disappointed]]
-	1. ![[../01-word library/word d#disappoint]]
-14. ![[../01-word library/word d#disappointment]]
-15. ![[../01-word library/word d#disaster]]
-16. ![[../01-word library/word d#discount]]
-17. ![[../01-word library/word d#discover]]
-18. ![[../01-word library/word d#discuss]]
-	1. ![[../01-word library/word d#discussion]]
-19. ![[../01-word library/word d#display]]
-20. ![[../01-word library/word d#divide]]
-21. ![[../01-word library/word d#donate]]
+1. [depend](../01-word%20library/word d.md#depend)
+1. [deposit](../01-word%20library/word d.md#deposit)
+1. [describe](../01-word%20library/word d.md#describe)
+	1. [description](../01-word%20library/word d.md#description)
+1. [desire](../01-word%20library/word d.md#desire)
+	1. [desirable](../01-word%20library/word d.md#desirable)
+1. [despite](../01-word%20library/word d.md#despite)
+1. [destination](../01-word%20library/word d.md#destination)
+1. [destroy](../01-word%20library/word d.md#destroy)
+1. [detail](../01-word%20library/word d.md#detail)
+1. [determine](../01-word%20library/word d.md#determine)
+	1. [determination](../01-word%20library/word d.md#determination)
+11. [develop](../01-word%20library/word d.md#develop)
+	1. [development](../01-word%20library/word d.md#development)
+11. [difficult](../01-word%20library/word d.md#difficult)
+11. [disappear](../01-word%20library/word d.md#disappear)
+11. [disappointed](../01-word%20library/word d.md#disappointed)
+	1. [disappoint](../01-word%20library/word d.md#disappoint)
+11. [disappointment](../01-word%20library/word d.md#disappointment)
+11. [disaster](../01-word%20library/word d.md#disaster)
+11. [discount](../01-word%20library/word d.md#discount)
+11. [discover](../01-word%20library/word d.md#discover)
+11. [discuss](../01-word%20library/word d.md#discuss)
+	1. [discussion](../01-word%20library/word d.md#discussion)
+11. [display](../01-word%20library/word d.md#display)
+21. [divide](../01-word%20library/word d.md#divide)
+21. [donate](../01-word%20library/word d.md#donate)

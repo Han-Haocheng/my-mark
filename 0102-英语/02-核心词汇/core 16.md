@@ -29,32 +29,32 @@
 
 ## 单词列表
 
-1. ![[../01-word library/word o#object]]
-	1. ![[../01-word library/word o#objection]]
-2. ![[../01-word library/word o#observe]]
-	1. ![[../01-word library/word o#observation]]
-3. ![[../01-word library/word o#obvious]]
-	1. ![[../01-word library/word o#obviously]]
-4. ![[../01-word library/word o#occur]]
-5. ![[../01-word library/word o#offer]]
-6. ![[../01-word library/word o#operate]]
-7. ![[../01-word library/word o#opinion]]
-8. ![[../01-word library/word o#opposite]]
-9. ![[../01-word library/word o#option]]
-10. ![[../01-word library/word o#ordinary]]
-11. ![[../01-word library/word o#organize]]
-	1. ![[../01-word library/word o#organisation]]
-12. ![[../01-word library/word o#otherwise]]
-13. ![[../01-word library/word o#overseas]]
-14. ![[../01-word library/word o#overweight]]
-15. ![[../01-word library/word p#pain]]
-16. ![[../01-word library/word p#particular]]
-	1. ![[../01-word library/word p#particularly]]
-17. ![[../01-word library/word p#passive]]
-18. ![[../01-word library/word p#passport]]
-19. ![[../01-word library/word p#password]]
-20. ![[../01-word library/word p#patient]]
-	1. ![[../01-word library/word p#patience]]
+1. !../01-word library/word o#object](../01-word%20library/word o.md#object)
+	1. !../01-word library/word o#objection](../01-word%20library/word o.md#objection)
+2. !../01-word library/word o#observe](../01-word%20library/word o.md#observe)
+	1. !../01-word library/word o#observation](../01-word%20library/word o.md#observation)
+3. !../01-word library/word o#obvious](../01-word%20library/word o.md#obvious)
+	1. !../01-word library/word o#obviously](../01-word%20library/word o.md#obviously)
+4. !../01-word library/word o#occur](../01-word%20library/word o.md#occur)
+5. !../01-word library/word o#offer](../01-word%20library/word o.md#offer)
+6. !../01-word library/word o#operate](../01-word%20library/word o.md#operate)
+7. !../01-word library/word o#opinion](../01-word%20library/word o.md#opinion)
+8. !../01-word library/word o#opposite](../01-word%20library/word o.md#opposite)
+9. !../01-word library/word o#option](../01-word%20library/word o.md#option)
+10. !../01-word library/word o#ordinary](../01-word%20library/word o.md#ordinary)
+11. !../01-word library/word o#organize](../01-word%20library/word o.md#organize)
+	1. !../01-word library/word o#organisation](../01-word%20library/word o.md#organisation)
+12. !../01-word library/word o#otherwise](../01-word%20library/word o.md#otherwise)
+13. !../01-word library/word o#overseas](../01-word%20library/word o.md#overseas)
+14. !../01-word library/word o#overweight](../01-word%20library/word o.md#overweight)
+15. !../01-word library/word p#pain](../01-word%20library/word p.md#pain)
+16. !../01-word library/word p#particular](../01-word%20library/word p.md#particular)
+	1. !../01-word library/word p#particularly](../01-word%20library/word p.md#particularly)
+17. !../01-word library/word p#passive](../01-word%20library/word p.md#passive)
+18. !../01-word library/word p#passport](../01-word%20library/word p.md#passport)
+19. !../01-word library/word p#password](../01-word%20library/word p.md#password)
+20. !../01-word library/word p#patient](../01-word%20library/word p.md#patient)
+	1. !../01-word library/word p#patience](../01-word%20library/word p.md#patience)
 
 ## 文章
 

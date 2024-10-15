@@ -2,7 +2,7 @@
 
 ## 安装
 
-1. 下载[node.js](https://nodejs.cn/download/)
+1. 下载[node.js](https://nodejs.cn/download/.md)
 
 ### 检查当前nodejs和npm版本
 
@@ -38,19 +38,19 @@ npm install [<package-spec> ...]
 - `package-lock.json`
 - `yarn.lock`
 
-见 [package-lock.json](https://npm.nodejs.cn/cli/v10/configuring-npm/package-lock-json) 和 [`npm shrinkwrap`](https://npm.nodejs.cn/cli/v10/commands/npm-shrinkwrap)。
+见 package-lock.json](https://npm.nodejs.cn/cli/v10/configuring-npm/package-lock-json.md) 和 [`npm%20shrinkwrap`](https://npm.nodejs.cn/cli/v10/commands/npm-shrinkwrap.md)。
 
 一个 `package` 是：
 
-- a) 包含由 [`package.json`](https://npm.nodejs.cn/cli/v10/configuring-npm/package-json) 文件描述的程序的文件夹
+- a) 包含由 [`package.json`](https://npm.nodejs.cn/cli/v10/configuring-npm/package-json.md) 文件描述的程序的文件夹
     
 - b) 一个 gzipped tarball，包含 (a)
     
 - c) 解析为 (b) 的 url
     
-- d) 在注册表上发布的 `<name>@<version>`（参见 [`registry`](https://npm.nodejs.cn/cli/v10/using-npm/registry)），带有 (c)
+- d) 在注册表上发布的 `<name>@<version>`（参见 `registry`](https://npm.nodejs.cn/cli/v10/using-npm/registry.md)），带有%20(c)
     
-- e) 指向 (d) 的 `<name>@<tag>`（见 [`npm dist-tag`](https://npm.nodejs.cn/cli/v10/commands/npm-dist-tag)）
+- e) 指向 (d) 的 `<name>@<tag>`（见 [`npm dist-tag`](https://npm.nodejs.cn/cli/v10/commands/npm-dist-tag.md)）
     
 - f) 具有满足 (e) 的 "latest" 标签的 `<name>`
     
