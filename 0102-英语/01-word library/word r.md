@@ -437,14 +437,14 @@
 
 ### result n.结果；后果
 - = consequence
-- One should be #responsible adj.负责任的；有责任的](.\..md#responsible%20adj.负责任的；有责任的)lts* of the [#event](.\..md#event)
-- as a *result*/[#consequence](.md#consequence) 后果是
+- One should be [responsible](.\..md#responsible%20adj.负责任的；有责任的) *results* of the [event](.\..md#event)
+- as a *result*/[consequence](.md#consequence) 后果是
 - He abused drugs. As a result he died early.
 	- drugs n.毒品 
 
 ### result n.成绩；分数
 
-- His *results* in the exams are far #beyond](.md#beyond)%20the [#average](.md#average).
+- His *results* in the exams are far [beyond](.md#beyond) the [average](.md#average).
 
 ### result n.比赛结果；比分
 
