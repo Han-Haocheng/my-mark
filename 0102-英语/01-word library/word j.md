@@ -39,11 +39,20 @@
 - freshman 大一学生
 - sophomore 大二学生
 
-## senior
 
-### senior adj.身份高的；年龄大的
+## junior
 
-### senior n.大四学生
+### junior adj.地位(职位、级别)底下的
+
+- *junior* <==> senior 比……高
+- be *junior* to
+- Although he is 5 years older than him, he is *junior* to me in the firm.
+- Although he is 5 years younger than him, he is senior to me in the firm.
+
+### junior n.职位较低者；三年级学生
+
+- *junior* <==> senior 大四学生
+
 
 ## justice
 

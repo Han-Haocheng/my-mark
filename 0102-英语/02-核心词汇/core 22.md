@@ -1,0 +1,27 @@
+# Word List 22
+	sore
+	source
+	spare
+	specialty
+	specific
+	spread
+	stage
+	standard
+	step
+	stick
+	strategy
+	strategic
+	strategically
+	stress
+	stressful
+	strict
+	strictness
+	strike
+	struggle
+	stuff
+	subject
+	sudden
+	suddenly
+	sufficient
+	suggest
+	suggestion
