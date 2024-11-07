@@ -1,33 +1,33 @@
 # Word List 20
 	respond
 	response
-		responsible
-		responsibility
-		irresponsible
-		irresponsibility
+	responsible
+	responsibility
+	irresponsible
+	irresponsibility
 	result
 	resume
 	retire
-		retirement
+	retirement
 	reveal
 	review
-		view
-		preview
+	view
+	preview
 	revise
-		revision
+	revision
 	risk
-		risky
+	risky
 	role
 	row
 	safeguard
 	sample
 	satisfy
-		satisfactory
-		satisfaction
-		satisfactory
-		unsatisfactory
+	satisfactory
+	satisfaction
+	satisfactory
+	unsatisfactory
 	scare
-		scary
+	scary
 	scene
 	schedule
 	score
@@ -40,16 +40,16 @@
 2. ![response](../01-word%20library/word%20R.md#response)
 	1. ![responsible](../01-word%20library/word%20R.md#responsible)
 	2. ![responsibility](../01-word%20library/word%20R.md#responsibility)
-	3. ![irresponsible](../01-word%20library/word%20I.md#irresponsible)
-	4. ![irresponsibility](../01-word%20library/word%20I.md#irresponsibility)
+	3. ![irresponsible](../01-word%20library/word%20r.md#irresponsible)
+	4. ![irresponsibility](../01-word%20library/word%20r.md#irresponsibility)
 3. ![result](../01-word%20library/word%20R.md#result)
 4. ![resume](../01-word%20library/word%20R.md#resume)
 5. ![retire](../01-word%20library/word%20R.md#retire)
 	1. ![retirement](../01-word%20library/word%20R.md#retirement)
 6. ![reveal](../01-word%20library/word%20R.md#reveal)
 7. ![review](../01-word%20library/word%20R.md#review)
-	1. ![view](../01-word%20library/word%20V.md#view)
-	2. ![preview](../01-word%20library/word%20P.md#preview)
+	1. ![view](../01-word%20library/word%20r.md#view)
+	2. ![preview](../01-word%20library/word%20r.md#preview)
 8. ![revise](../01-word%20library/word%20R.md#revise)
 	1. ![revision](../01-word%20library/word%20R.md#revision)
 9. ![risk](../01-word%20library/word%20R.md#risk)

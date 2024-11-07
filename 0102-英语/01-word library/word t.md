@@ -1,5 +1,91 @@
 # T
 
+## target 
+### target n.目标；靶子 
+
+### target v.面向；吧……对准；以……为目标
+
+- be *targeted* at
+- The project is *targeted* at helping the poor.
+- According to a report from China Daily,in an event targeted at helping poverty reduction.
+
+## task 
+### task n.任务
+- Different dogs were [originally](#originally) developed to [perform](#perform) [specific](#specific) *tasks*.
+	- originally adv.最初地
+	- perform v.执行
+	- specific adv.具体地
+
+## tend
+### tend v.往往会
+- *tend* to do sth.
+- People *tend* to bear great [burden](#burden)/[stress](#stress) in [reality](#reality).
+	- stress n.压力
+	- burden n.负担
+	- bear v.承担
+
+### tend v.趋向；倾向
+
+- His views *tend* towards the [extreme](#extreme).
+	- extreme n.极端
+
+### tend v.照料；照管；护理
+- = look after=take care of 
+- *tend* to / *tend* to sb 
+- Doctors and nurses *tended* the injured.
+
+## therefore
+### therefore adv.因此；所以；因而
+
+- = so
+- She hadn't eaten/[skipped](#skipped) breakfast <u>therefore</u> she was hungry . [furthermore](#furthermore). *therefore*. as well as. still.
+	- furthermore adv.而且
+
+## thirsty
+### thirsty adj.渴的；口渴的
+
+- I am *thirsty* and hungry.
+- be *thirsty* for 对……渴望 
+- be *thirsty* for knowledge/[wealth](#wealth) and [fame](#fame)
+
+## thought
+### thought n.想法；思考；思想；思维；考虑；看法
+
+## think 
+### think v.思考；看法
+
+## thoughtful
+### thoughtful adj.思考的；深思熟虑的；沉思的
+
+- a *thoughtful* [issue](#issue)-love
+
+### thoughtful adj.体贴的；关心别人的；周到的
+
+## throughout
+### throughout prep.遍及；各处
+
+- Workers went on [strikes](#strike) *throughout* the nation. 
+- He lived a [tough](#tough) life *throughout* his study.
+
+## timetable
+### timetable n.时间表；时刻表
+- a bus/train *timetable*
+
+## tired 
+### tired adj.疲倦的；疲劳的
+- I feel *tired*. 
+### tired adj.厌烦的；厌倦的
+- be *tired* of life/marriage
+
+## tough 
+### tough adj.坚强的；坚韧不拔的；吃苦耐劳的
+- Be tough
+- Be a tough man!
+
+### tough adj.艰苦的；艰难的；棘手的
+### tough adj.非常老的
+
+
 ## tell
 
 ### tell v.告诉；讲述

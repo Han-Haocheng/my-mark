@@ -8,9 +8,9 @@
 
 ### be v.是；很
 
-- He *is* a CEO/executive of the company
-- He *is* handsome.
-- He *is* rich
+- He *is* a CEO/[executive](#executive) of the company
+- He *is* [handsome](#handsome).
+- He *is* [rich](#rich)
 
 ## background
 
@@ -24,7 +24,7 @@
 
 ### badly adv.很坏的；糟糕
 
-- He behaves *badly*
+- He [behaves](#behaves) *badly*
 	- behave n.行为
 
 ### badly adv.非常；很
@@ -38,7 +38,7 @@
 
 - keep *balance*
 - lose *balance*
-- WeiQi can teach [concentration](#concentration),%20*balance* and [discipline](#discipline)
+- WeiQi can teach [concentration](#concentration), *balance* and [discipline](#discipline)
 	- concentration n.专注力
 	- discipline n.自制力
 
@@ -97,11 +97,11 @@
 
 ### because conj.因为
 
-- I love Engilsh *because* English is useful communication](../02-核心词汇/core%2006.md#communication n.沟通；交流；传递；传达)tool.
+- I love English *because* English is useful [communication](word%20c.md#communication n.沟通；交流；传递；传达) tool.
 
 ### because of prep.因为
 
-- *Because* of the bad weather, all flights have been can cancelled](../02-核心词汇/core%2005.md#cancel v.取消；撤销)
+- *Because* of the bad weather, all flights have been can [cancelled](word%20c.md#cancel v.取消；撤销)
 
 ## become
 
@@ -140,7 +140,7 @@
 
 ### behind prep.在……后面
 
-- *Behind* the [campus](#campus)is a [pond](word%20#pond%20n.池塘)
+- *Behind* the [campus](#campus) is a [pond](word%20#pond%20n.池塘)
 	- campus n.校园
 
 ### behind adv.在……后面
@@ -241,10 +241,10 @@
 ## blind adj.失明的；盲人；(对事)视而不见
 
 - be *blind* to
-- The student is *blind* to his [lack](#lack)%20of [discipline](#discipline)
+- The student is *blind* to his [lack](#lack) of [discipline](#discipline)
 	- lack n.缺乏
 	- discipline n.自制力
-- For many *blind* people and those with [vision](#vision)%20difficulties life can be made easier with a [guide](#guide)dog.
+- For many *blind* people and those with [vision](#vision) difficulties life can be made easier with a [guide](#guide)dog.
 	- vision n.视力
 	- guide n.导航；向导
 
@@ -264,13 +264,13 @@
 
 ### blow v.吹奏
 
-- The [referee](#referee)%20*blew* his [whistle](#whistle).
+- The [referee](#referee) *blew* his [whistle](#whistle).
 	- referee n.裁判
 	- whistle n.哨子
 
 ### blow v.打击；挫折
 
-- He [failure](#failure)%20to pass the exam is a [heavy](#heavy)*blow* to him.
+- He [failure](#failure) to pass the exam is a [heavy](#heavy)*blow* to him.
 	- heavy adv.沉重地
 
 ## borad
@@ -289,12 +289,12 @@
 ### born v.出生
 
 - be *born* in 出生在(时间、地点)
-- He was *born* in a cave](../05-拓展模块词汇/extension%20model 1.md#cave n.洞穴；山洞).
+- He was *born* in a [cave](word%20c.md#cave n.洞穴；山洞).
 
 ### born adj.天生的
 
 - a *born* musician 音乐家
-- Are some people *born* [clever](#clever)%20and others *born* [stupid](#stupid).
+- Are some people *born* [clever](#clever) and others *born* [stupid](#stupid).
 	- clever adj.聪明的
 	- stupid adj.愚蠢的
 
@@ -355,7 +355,7 @@
 - *break* away 脱离
 - *break* up (关系)破碎；(使)破碎
 - *break* off 折断；突然终止
-- *break* [vase](word%20v.md#vase%20n.花瓶)/[mirror](word%20m.md#mirror%20n. 镜子)
+- *break* [vase](word%20v.md#vase%20n.花瓶)/[mirror](word%20m.md#mirror%20n.镜子)
 - *break* the world [record](#record)
 	- record n.记录
 - *break* heart 使心碎
@@ -372,7 +372,7 @@
 
 - I can't *breathe*
 - *breathe* deeply 深呼吸
-- I [hate](#hate)%20*breathing* [polluted](#polluted)air
+- I [hate](#hate) *breathing* [polluted](#polluted)air
 	- hate v.憎恨
 	- polluted adj.被污染的
 
@@ -424,12 +424,12 @@
 
 ### broken adj.破碎的
 
-- *broken* [vase](word%20v.md#vase n.花瓶)/[mirror](word%20m.md#mirror n. 镜子)/marriage
+- *broken* [vase](word%20v.md#vase%20n.花瓶)/[mirror](word%20m.md#mirror%20n.镜子)/marriage
 	- marriage n.婚姻
 
 ### broken adj.说话结巴的
 
-- *broken* English <===> [fluent](#fluent) English
+- *broken* English <==> [fluent](#fluent) English
 	- fluent adj.流利的
 
 ## budget
@@ -458,7 +458,7 @@
 
 ### be/am/is/are v.是；有，存在；位于，在(某处)
 
-### be/am/is/are aux.与过去分词连用构成被动语态；与现在分词连用构成进行时；用于反意疑问句；（表述条件）
+### be/am/is/are aux.与过去分词连用构成被动语态；与现在分词连用构成进行时；用于反意疑问句；(表述条件)
 
 ## beauty
 
@@ -470,7 +470,7 @@
 
 ## bend
 
-### bend v.(使四肢等)弯曲；（使）拐弯，弯曲
+### bend v.(使四肢等)弯曲；(使)拐弯，弯曲
 
 ## bike/bicycle
 
@@ -508,13 +508,15 @@
 
 ## bounce
 
-### bounce v.（使）弹起，反弹；上下跳动，蹦跳
+### bounce v.(使)弹起，反弹；上下跳动，蹦跳
 
-### bounce n.弹跳，跳动；弹力，弹性；（价格的）迅速回升
+### bounce n.弹跳，跳动；弹力，弹性；(价格的)迅速回升
 
 ## bow
 
-### bow n.弓，弓形物；鞠躬； v.鞠躬，欠身；（使）弯曲；低（头），俯（首）
+### bow n.弓，弓形物；鞠躬
+
+### bow v.鞠躬，欠身；(使)弯曲；低(头)，俯(首)
 
 ## brake
 
@@ -524,7 +526,7 @@
 
 ## breast
 
-### breast n.(女子的)乳房；（鸟的）胸部；胸部
+### breast n.(女子的)乳房；(鸟的)胸部；胸部
 
 ## brick
 
@@ -556,7 +558,7 @@
 
 ## bet
 
-### bet v.打赌，以（钱、物等）打赌，与...打赌；敢说，确信
+### bet v.打赌，以(钱、物等)打赌，与...打赌；敢说，确信
 
 ### bet n.打赌；赌金，赌注
 
@@ -564,7 +566,7 @@
 
 ### bond n.纽带，联系，关系；债券，公债；契约，盟约
 
-### bond v.与...黏合，（使）黏合（或连接）在一起；（使）建立亲密关系
+### bond v.与...黏合，(使)黏合(或连接)在一起；(使)建立亲密关系
 
 ### bond adj.被奴役的，不自由的
 
@@ -574,7 +576,7 @@
 
 ## botanical
 
-### botanical  adj.植物学的
+### botanical adj.植物学的
 
 ### botanical n.植物性药材
 
@@ -586,7 +588,7 @@
 
 ## brand
 
-### brand  n.品牌；类型
+### brand n.品牌；类型
 
 ## buffet
 
@@ -603,7 +605,7 @@
 ### baby n. 宝贝;婴儿;宝贝儿，心肝儿;动物幼崽
 
 ## back
-### back n. (人体或动物的)背部，背;（文件等的）背面;后面;（椅子等的）靠背
+### back n. (人体或动物的)背部，背;(文件等的)背面;后面;(椅子等的)靠背
 ### back adj. 后面的;过去的;背后的;后部的
 ### back adv. 在后;在背面;向后
 ### back v. 支持;帮助
@@ -630,7 +632,7 @@
 ### bake n. 烤;烘烤的成品
 
 ## ball
-### ball n. 球;（大型正式的）舞会
+### ball n. 球;(大型正式的)舞会
 
 ## ballet
 ### ballet n. 芭蕾;芭蕾舞团;芭蕾舞剧
@@ -652,8 +654,8 @@
 
 
 ## bar
-### bar n. 酒吧;（木、金属等的）条，（长方或椭圆形的）块;（门、窗等的）闩
-### bar v. 禁止，阻止（某人做某事）;闩（门、窗等）
+### bar n. 酒吧;(木、金属等的)条，(长方或椭圆形的)块;(门、窗等的)闩
+### bar v. 禁止，阻止(某人做某事);闩(门、窗等)
 
 ## barbecue
 ### barbecue n. 烧烤;(户外烧烤用的)烤架;户外烧烤
@@ -684,7 +686,7 @@
 ### bat v. 挥打，拍打;用球板击球，用球棒击球(尤指板球或棒球运动);轮到击球
 
 ## bath
-### bath n. 洗澡;浴缸;洗浴;浴盆;游泳池;洗澡水;（旧时的）公共浴室，澡堂;浴器，浴锅，染缸
+### bath n. 洗澡;浴缸;洗浴;浴盆;游泳池;洗澡水;(旧时的)公共浴室，澡堂;浴器，浴锅，染缸
 ### bath v. 给…洗澡;洗澡
 
 ## bathroom
@@ -706,13 +708,13 @@
 ### beard n. 胡须;须;髯;(人的)络腮胡子
 
 ## bed 
-### bed  n. (河)床;(海等的)底;地层;底层;花坛;苗圃;菜园
+### bed n. (河)床;(海等的)底;地层;底层;花坛;苗圃;菜园
 
 ## bedroom
 ### bedroom n. 卧室
 
 ## beef 
-### beef  n. 牛肉
+### beef n. 牛肉
 
 ## beer
 ### beer n. 啤酒;一杯(或一瓶、一罐)啤酒
@@ -736,16 +738,16 @@
 ## best
 ### best adj. 最好的;最优秀的;最合适的;最出色的;最恰当的;最幸福的;最愉快的
 ### best adv. 最;最恰当地;最出色地;最适合地;最高程度地;最高标准地
-### best n. （个人的）最高水平，最高纪录;(人或事物所能达到的)最高标准;最好的事物(或人);最合乎要求的事物
+### best n. (个人的)最高水平，最高纪录;(人或事物所能达到的)最高标准;最好的事物(或人);最合乎要求的事物
 
 ## better
-### better adj. 较好的，更好的;（病势）好转的，见轻的;超过一半的，较大的;更合适的;能力更强的，更熟练的;更得体的
+### better adj. 较好的，更好的;(病势)好转的，见轻的;超过一半的，较大的;更合适的;能力更强的，更熟练的;更得体的
 ### better adv. 更好地;更妥，更恰当;更大程度地;不那么差
 ### better n. 更好的事物，较好者;更有才智者，更重要的人;上司们
 ### better v. 胜过，超过;改善，改进
 
 ## big
-### big adj.大的;(体积、程度、数量等)巨大的;重大的;严重的;庞大的;大方的;大受欢迎的;热衷于…的;年龄较大的;经常（或大量）做某事的
+### big adj.大的;(体积、程度、数量等)巨大的;重大的;严重的;庞大的;大方的;大受欢迎的;热衷于…的;年龄较大的;经常(或大量)做某事的
 ### big adv. 大大;给人印象深地
 
 ## bill
@@ -802,7 +804,7 @@
 ### bone n. 骨，骨头;骨骼，身体，尸骸
 
 ## book
-### book n. 书，书籍;著作，印刷（或电子）出版物;账簿，账目，会计簿
+### book n. 书，书籍;著作，印刷(或电子)出版物;账簿，账目，会计簿
 ### book v. 预订，预约
 
 ## booklet
@@ -825,7 +827,7 @@
 
 ## both
 ### both det. 两者，双方
-### both adj. 两...（都），两个...（都）
+### both adj. 两...(都)，两个...(都)
 ### both pron. 两个
 ### both conj. 不仅...而且..，...和...都，既...又...
 ### both adv. 在两方面同样地
@@ -844,7 +846,7 @@
 ### boxing v. (拳击运动)击打(某人)
 
 ## boy 
-### boy  n. 男孩;黑仔，小子;伙计;兵哥哥们，小伙子们;男青年
+### boy n. 男孩;黑仔，小子;伙计;兵哥哥们，小伙子们;男青年
 
 ## brain
 ### brain n. 脑;智力;脑力;聪明的人
@@ -861,10 +863,10 @@
 ### bridge v. 在…建桥，架桥于，跨过
 
 ## bring 
-### bring  v. 带来;提供;导致;引起;起诉;供给;取来;带…到某处
-- bring sb/sth (with you) 
-- bring sth (for sb)
-- bring (sb) sth
+### bring v. 带来;提供;导致;引起;起诉;供给;取来;带…到某处
+- *bring* sb/sth (with you) 
+- *bring* sth (for sb)
+- *bring* (sb) sth
 
 
 ## broad
@@ -893,7 +895,7 @@
 ### burger n.汉堡;果仁饼
 
 ## burn
-### burn v.燃烧;（使燃料）燃烧;(使)烧毁，烧坏
+### burn v.燃烧;(使燃料)燃烧;(使)烧毁，烧坏
 ### burn n.烧伤;灼伤;烫伤
 
 ## bus
@@ -906,7 +908,7 @@
 ### busy adj.忙碌的;忙于(做某事);无暇的;工作忙的
 
 ## but
-### but conj.但是;而;然而;相反;尽管如此;表示歉意时说;除…外;（强调一贯真实）
+### but conj.但是;而;然而;相反;尽管如此;表示歉意时说;除…外;(强调一贯真实)
 ### but prep.除了;除…之外
 ### but adv.只有;仅仅
 ### but n.借口;推辞
@@ -922,7 +924,7 @@
 ## buy
 ### buy v.买;购买;相信;收买;贿赂;买通;够支付;付出极大的代价而获得
 - *buy* sb sth 
--  *buy*sth (for sb)
+- *buy*sth (for sb)
 ### buy n.购买;买进(或出售)的东西;合算的商品
 
 ## by
@@ -952,4 +954,4 @@
 ### by adj.附带的
 ### by n.再见
 - =bye.
-- by and again
+- *by* and again

@@ -5,10 +5,10 @@
 ### consider v.考虑；思考；仔细考虑
 
 - *consider* doing sth.
-- I'm *considering* buying a NEV.
+- I'm *considering* buying a [NEV](#NEV).
 	- NEV n.新能源汽车
 - *consider* sth. as 把……视为；认为
-- I *consider* the [exam](word%20e#exam/examination n.检查；审查；(仔细的)检验；调查；考察；考查) as a [challenge](../02-核心词汇/core%2005.md#challenge n.挑战).
+- I *consider* the [exam](word%20e#exam/examination%20n.检查；审查；(仔细的)检验；调查；考察；考查) as a [challenge](#challenge%20n.挑战).
 - all things *considered* 通盘考虑；从各方面考虑
 - *considering* that 鉴于；考虑到……
 
@@ -36,15 +36,15 @@
 
 - *cause* sb to do sth
 - *cause* sb sth
-- The [poverty](#poverty)%20is *cased* the [strike](#strike).
+- The [poverty](#poverty) is *cased* the [strike](#strike).
 	- poverty n.贫穷
 	- strike n.罢工
-- The [lean](#lean)%20#harvest](#harvest)*caused*%20#prices](#prices)%20to rise [sharply](#sharply)
+- The [lean](#lean) [#harvest](#harvest)*caused* [#prices](#prices) to rise [sharply](#sharply)
 	- lean adj.贫乏的
 	- harvest n.收获；收割
 	- price n.价格
 	- sharply adv.急剧的
-- The debt](../04-基础模块词汇/basic%20model 2.md#debt n.债务；借款；人情债)*caused* her a lot of problems.
+- The [debt](word%20d.md#debt%20n.债务；借款；人情债) *caused* her a lot of problems.
 
 ## cook
 
@@ -116,7 +116,7 @@
 
 ### case n.案件；案例
 
-- civil](../04-基础模块词汇/basic%20model 2.md#civil adj.公民的；民事的；文明的；平民的；国民的；有礼貌的)*case* 民事案件
+- [civil](word%20c.md#civil%20adj.公民的；民事的；文明的；平民的；国民的；有礼貌的)*case* 民事案件
 - [criminal](#criminal) *case* 刑事案件
 	- criminal adj.刑事的
 - *case* teaching 案例教学法
@@ -140,7 +140,7 @@
 
 ### catch v.引起；激发(兴趣，想象，注意等)
 
-- *catch* one's [](#interest)/[#imagination](#imagination)/[attention](word%20a#attention n.关注；注意力)
+- *catch* one's [interest](#interest)/[#imagination](#imagination)/[attention](word%20a#attention n.关注；注意力)
 	- interest n.兴趣
 	- imagination n.想象
 
@@ -154,7 +154,7 @@
 
 ### catch v.瞥见
 
-- *catch* [sight](#sight)%20of = *catch* a [glimpse](#glimpse)of
+- *catch* [sight](#sight) of = *catch* a [glimpse](#glimpse)of
 	- sight n.视力；眼界
 	- glimpse n.一瞥
 
@@ -177,7 +177,7 @@
 
 - golden *chance* 黄金机会
 - *chances* are that sth. 可能...
-- Being confident](../02-核心词汇/core%2006.md#confident adj.自信的；把握)can [increase](#increase) the chance to win
+- Being [confident](word%20c.md#confident%20adj.自信的；把握) can [increase](#increase) the chance to win
 
 ## change
 
@@ -185,7 +185,7 @@
 
 ### change n.变化；改变；找给的零钱
 
-- With traveling [expenses](.\..md#expenses)g#rising](.\..md#rising)%20had%20to *change* all her plans for the [tour](.\..md#tour)
+- With traveling [expenses](word%20e.md#expenses) g [#rising](.\..md#rising) had to *change* all her plans for the [tour](#tour)
 	- expenses n.经费
 	- tour n.旅行
 
@@ -217,7 +217,7 @@
 
 ### charity n.慈善；慈善机构
 
-- People who give/#donate](#donate)%20money to *charity* are 43 [percent](#percent)more likely than non-givers to say thay're very happy.
+- People who give/[#donate](#donate) money to *charity* are 43 [percent](#percent)more likely than non-givers to say they're very happy.
 	- donate v.捐款
 
 ## chief
@@ -230,7 +230,7 @@
 
 ### chief adj.主要的；首要的；最重要的
 
-- My *chief* challenge](#challenge%20n.挑战)is how to [memorise](#memorise) words.
+- My *chief* [challenge](#challenge%20n.挑战)is how to [memories](#memories) words.
 
 ## claim
 
@@ -254,7 +254,7 @@
 
 ### climate n.气候
 
-- The change](../02-核心词汇/core%2005.md#change n.变化；改变；找给的零钱)from a [favorable](#favorable)%20to an [unfavorable](#unfavorable)*climate*
+- The [change](#change n.变化；改变；找给的零钱)from a [favorable](#favorable) to an [unfavorable](#unfavorable) *climate*
 	- favorable adj.有利的；良好的
 	- unfavorable adj.不适宜的；不顺利的
 
@@ -278,7 +278,7 @@
 
 ### collect v.收藏
 
-- *collect* antique](../05-拓展模块词汇/extension%20model 1.md#antique n.古董；文物；古物；古玩)/vase](../05-拓展模块词汇/extension%20model 3.md#vase n.花瓶)/[stamps](#stamps)
+- *collect* [antique](word%20a.md#antique%20n.古董；文物；古物；古玩)/[vase](word%20v.md#vase n.花瓶)/[stamps](#stamps)
 	- stamps n.邮票
 
 ### collect v.募捐；聚积
@@ -375,17 +375,17 @@
 ### concern v.设计；牵涉(某人)
 
 - be *concerned* with
-- The [case](.\..md#case)%20*concern* the [se[secretary](.\..md#secretary)ty](.\.#se[secretary](.\..md#secretary)
+- The [case](.\..md#case) *concern* the [secretary](#secretary)
 	- secretary n.书记
 	- county n.县城
 
 ### concern v.使某人担忧；使烦恼
 
-- What *concern* me most is students' [lack](#lack)%20of work [discipline](#discipline).
+- What *concern* me most is students' [lack](#lack) of work [discipline](#discipline).
 	- lack v.缺乏；
 	- discipline adj.自制力
 - as far as sb./sth. is *concerned* 就……而言
-- As far as the [topic](.\..md#topic)oncerned*,%20I [rec[reckon](.\..md#reckon)#worthy](#rec[reckon](.\.#reckon)[worthy)%20o[worthy](.\..md#worthy)d%20[researched](.\..md#researched)
+- As far as the [topic](.\..md#topic)oncerned*,%20I [rec[reckon](#reckon) [#worthy](#rec[reckon](.\.#reckon)[worthy)%20o[worthy](.\..md#worthy)d%20[researched](.\..md#researched)
 	- topic n.主题；话题
 	- reckon v.估计；认为
 	- worthy adj.有价值的
@@ -773,13 +773,13 @@
 
 ## center
 
-### center  n.中心；中央；中心点
+### center n.中心；中央；中心点
 
 ### center v.把…放在中央
 
 ## chairman
 
-### chairman  n.主席；(公司等的)董事长；(委员会的)委员长；(会议的)主持人
+### chairman n.主席；(公司等的)董事长；(委员会的)委员长；(会议的)主持人
 
 ### chairman v.担任…的主席
 
@@ -803,19 +803,19 @@
 
 ## choke
 
-### choke  n.窒息
+### choke n.窒息
 
 ### choke v.(使)窒息，哽噎； (尤指感情激动而)说不出话来，使哽咽
 
 ## chop
 
-### chop  v.切碎；砍；剁碎
+### chop v.切碎；砍；剁碎
 
 ### chop n.砍；剁
 
 ## chorus
 
-### chorus  n.合唱队；合唱团；歌舞队；合唱曲
+### chorus n.合唱队；合唱团；歌舞队；合唱曲
 
 ### chorus v.合唱
 
@@ -825,73 +825,73 @@
 
 ## civil
 
-### civil  adj.公民的；民事的；文明的；平民的；国民的；有礼貌的
+### civil adj.公民的；民事的；文明的；平民的；国民的；有礼貌的
 
 ## civilian
 
-### civilian  n.平民；老百姓
+### civilian n.平民；老百姓
 
-### civilian  adj.平民的；民用的
+### civilian adj.平民的；民用的
 
 ## civilisation
 
-### civilisation  文明；文明世界
+### civilisation 文明；文明世界
 
 ## clay
 
-### clay  n.黏土；陶土
+### clay n.黏土；陶土
 
 ## cloth
 
-### cloth  n.布料；(一块)布
+### cloth n.布料；(一块)布
 
 ## colour
 
-### colour  n.颜色；颜料
+### colour n.颜色；颜料
 
 ## comedy
 
-### comedy  n.喜剧；喜剧片；幽默；滑稽；诙谐
+### comedy n.喜剧；喜剧片；幽默；滑稽；诙谐
 
 ## commerce
 
-### commerce  n.商业；商务；(尤指国际间的)贸易
+### commerce n.商业；商务；(尤指国际间的)贸易
 
 ## communist
 
-### communist  n.共产主义者；共产党党员  
+### communist n.共产主义者；共产党党员 
 
 ### communist adj.共产党的；共产主义者的
 
 ## constant
 
-### constant  n.常数；常量  
+### constant n.常数；常量 
 
-### constant  adj.恒定的；不断的；不变的；固定的
+### constant adj.恒定的；不断的；不变的；固定的
 
 ## constitution
 
-### constitution  n.宪法；构成；组成；章程；构造
+### constitution n.宪法；构成；组成；章程；构造
 
 ## core
 
-### core  n.最重要的部分，核心，要点，精髓； (苹果等的)果核
+### core n.最重要的部分，核心，要点，精髓； (苹果等的)果核
 
-### core  adj.主要的；基本的；最重要的
+### core adj.主要的；基本的；最重要的
 
 ## costume
 
-### costume  n.服装；成套服装
+### costume n.服装；成套服装
 
-### costume  adj.(戏剧)古装的
+### costume adj.(戏剧)古装的
 
 ## cottage
 
-### cottage  n.小屋；(尤指)村舍，小别墅
+### cottage n.小屋；(尤指)村舍，小别墅
 
 ## crop
 
-### crop  n.作物；庄稼
+### crop n.作物；庄稼
 
 
 ## cafe
@@ -951,7 +951,7 @@
 ### carbon adj. 碳的;碳状的
 
 ## card 
-### card  n. (尤指显示个人信息的)卡片;信用卡;贺卡;储值卡;纸牌游戏;现金卡
+### card n. (尤指显示个人信息的)卡片;信用卡;贺卡;储值卡;纸牌游戏;现金卡
 
 ## care
 ### care n. 照顾，照料;保养，护理;护理
@@ -977,7 +977,7 @@
 
 ## cartoon
 ### cartoon n. 卡通;动画片;草图;(报刊中与政治或时事有关的)讽刺画
-### cartoon v.  (把…)画成漫画[动画]
+### cartoon v. (把…)画成漫画[动画]
 
 
 ## cash

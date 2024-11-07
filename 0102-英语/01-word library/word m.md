@@ -363,7 +363,7 @@
 
 ## mirror
 
-### mirror n. 镜子
+### mirror n.镜子
 
 ### mirror vt. 反射；反映；映照
 

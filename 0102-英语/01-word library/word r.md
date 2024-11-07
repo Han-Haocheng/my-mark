@@ -512,10 +512,10 @@
 
 ## revise
 ### revise v.修改；修订
-- *revise* [#textbook](.md#textbook)
+- *revise* [textbook](.md#textbook)
 	- textbook n.教材
 ### revise v.改变(计划、意见)
-- *revise* [#retirement](.md#retirement) plan
+- *revise* [retirement](.md#retirement) plan
 
 ### revise v.复习
 - = [#review](.md#review)

@@ -847,3 +847,135 @@
 - *seek* [employment](.md#employment) 求职
 - job-seeker 求职者
 
+
+## summary
+### summary n. 总结；概括；概要
+
+- the *summary* of the report
+- in summary = in a word 总而言之；总之
+- In *summary*, life is full of [uncertainties](#uncertainties)
+	- uncertainty 不确定
+
+## summarize
+### summarize v.总结；概括；概述
+
+- Let me *summarize* the paper/meeting.
+- to *summarize* = to conclude 总之
+
+## supply
+### supply n. 供应量；供给量
+- Food is in short *supply* all over the country.
+- the law of *supply* and demand 商品供求关系法则
+- According to this law, changes in the prices of goods cause change in *supply* and demand
+
+### supply v.供应；供给
+
+- *supply* sb with
+- *supply* sth to sb
+- Foreign governments supplied arms to the rebels
+
+## support
+### support v.支持；支撑
+
+- I *support* you 
+- The pillar *supports* the building
+
+### support v.帮助；援助
+
+- many foreign governments *support* the earthquake-stricken nation.
+
+### support v.鼓励
+- = encourage
+
+### support v.资助；赞助
+
+- The volunteers support the girls in their higher education.
+
+### support n.支持；帮助；援助；赞助；支持；鼓励
+
+## supportive
+### supportive adj.支持的；赞成的
+
+## suppose
+### suppose v.认为；推断；料想
+
+- =think
+- I *suppose* that he will postpone his retirement.
+
+### suppose v.假定；假设；设想
+
+- *suppose* that
+- *suppose* that the company goes bankruptcy, what will you do?
+- be *supposed* to 应该做某事
+- As a college student you are *supposed* to value your time and work hard.
+
+## surprise
+### surprise n.惊讶；惊喜
+- What a *surprise*?
+### surprise n.令人惊奇的事
+### surprise v.(使)吃惊
+
+- to sb's *surprise* 
+
+## surprising
+### surprising adj.令人感到惊讶
+## surprised
+### surprised adj.自己感到惊讶
+## surprisingly
+### surprisingly adv.不可思议的是；令人惊讶的是
+
+- *Surprisingly*, he passed the exam.
+- Not *surprisingly*, he failed to pass the exam.
+
+## surround 
+### surround v.环绕；包围
+- The hills *surround* our school.
+
+### surround v.(使)包围；(使)围住
+
+- Police *surrounded* the building.
+- The master *surrounds* his garden with [fences](#fences).
+	- fences n.篱笆
+## surrounding 
+### surrounding n.环境
+
+- surroundings 周边环境
+- environment 自然环境
+
+
+## survey
+### survey n.民意调查；民意测验
+- A [recent](#recent) *survey* showed 75%of those questioned were in favor of the plan.
+
+### survey v.(对……)做民意调查
+- = interview
+- We *surveyed* 500 smokers and found that our three quarters would like to give up.=[quit](#quit)
+	- quit v.戒烟
+
+## survive
+### survive v.生存；存活
+- Of the six people injured in the only two *survived*.
+
+### survive v.幸存
+- Many birds didn't *survive* the severe winter.
+
+### survive v.比……活的时间长
+
+- She *survived* her husband by ten years
+
+survivor n.幸存者
+survivor n.生存
+
+## symbol
+### symbol n.符号；象征
+
+-  the *symbol* of = symbolizes
+- The Great Wall is the *symbol* of the Chinese Nation.
+
+- To the Chinese people, bamboo is a *symbol* of [virtue](#virtue).
+	- virtue n.美德
+
+## symptom 
+### symptom n.症状
+- flu *symptom*
+- *Symptoms* include a headache and [sore](#sore) [throat](#throat).

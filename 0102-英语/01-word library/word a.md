@@ -70,7 +70,7 @@
 - *achieve* one's dream
 
 - I [must](#must) *achieve* my dreams
-- I goals](#can]]%20*achieve* my [goal](word%20g#goal%20n.目标；目的)
+- I can *achieve* my [goals](word%20g#goal%20n.目标；目的).
 
 ## achievement
 
@@ -383,7 +383,7 @@ adv.（与某人）一道；一起
 
 - come v.成为；变成；变得](word%20c.md#come v.成为；变成；变得)
 
-- By the second [semester](#semester), she [adjusted](word%20a#adjust v.调整；调节) her teaching *approach* to [grab](#grab) student's [attention](#attention n.关注；注意力).
+- By the second [semester](#semester), she [adjusted](word%20a#adjust%20v.调整；调节) her teaching *approach* to [grab](#grab) student's [attention](#attention n.关注；注意力).
 	- semester n.学期
 	- grab v.吸引
 - The fall/autumn is *approaching*
@@ -416,7 +416,7 @@ adv.（与某人）一道；一起
 
 - *arrange* for sth
 - *arrange* to do sth
-- The teacher are [busy](#busy) *arranging* for the [approaching](approach v.接近；靠近)exams.
+- The teacher are [busy](#busy) *arranging* for the [approaching](#approach%20v.接近；靠近)exams.
 	- busy adj.繁忙的
 
 ## arrangement
@@ -521,7 +521,7 @@ adv.（与某人）一道；一起
 ### attempt n.企图；尝试；努力
 
 - *attempt* to do sth.
-- His *attempts* to [assassinate](#assassinate) te [president](#president)[failed](#failed)
+- His *attempts* to [assassinate](#assassinate) the [president](#president) [failed](#failed)
 	- assassinate v.刺杀
 	- president n.总统
 	- failed v.失败
@@ -529,23 +529,23 @@ adv.（与某人）一道；一起
 ### attempt v.努力；尝试
 
 - *attempts* to do sth.
-- He *attmpts* to [answer](#answer) my [question](#question)
+- He *attempts* to [answer](#answer) my [question](#question)
 	- answer v.回答
 	- question n.问题
 
-## attand
+## attend
 
-### attand v.出席；参加
+### attend v.出席；参加
 
-- *attand* the [meeting](#meeting)
+- *attend* the [meeting](#meeting)
 	- meeting n.会议
-- *attand* the [forum](#forum)
+- *attend* the [forum](#forum)
 	- forum n.论坛
-- *attand* the class
+- *attend* the class
 
-### attand v.注意；照料；专心
+### attend v.注意；照料；专心
 
-- *attand* to sb.
+- *attend* to sb.
 
 ## attention
 
@@ -565,7 +565,7 @@ adv.（与某人）一道；一起
 ### attitude n.态度
 
 - *Attitude* is everything 态度决定一切
-- What's the [author](#author) *attitude* [toward](.\..md#toward) [automobile](#auto/automobile%20n.汽车) ?[negative](#negative).[positive](#positive).[neutral](#neutral).[Indifferent](#Indifferent).
+- What's the [author](#author) *attitude* [toward](#toward) [automobile](#auto/automobile%20n.汽车) ?[negative](#negative).[positive](#positive).[neutral](#neutral).[Indifferent](#Indifferent).
 	- author n.作者
 	- toward prep.对于
 	- negative adj.消极的
@@ -604,7 +604,7 @@ adv.（与某人）一道；一起
 
 ### automatic adj.自动的
 
-- *automatic* driving mode n.自动挡汽车
+- *automatic* driving mode 自动挡汽车
 
 ## available
 
@@ -615,7 +615,7 @@ adv.（与某人）一道；一起
 
 ### available adj.可获得的；可利用的
 
-- There are no tickets *available* for tonight's performance
+- There are no tickets *available* for tonight's [performance](#performance)
 	- performance n.性能；表现；业绩
 
 ## average
@@ -625,7 +625,7 @@ adv.（与某人）一道；一起
 - The global *average* air [temperature](#temperature) is believed rise in the near future
 	- global n.全球
 	- temperature n.温度
-- The [country](#country)'s%20#registered](#registered)*average*%20#unemployment](#unemployment) [rate](#rate)in [urban](#urban) areas.
+- The [country's](#country) [registered](#registered) *average* [#unemployment](#unemployment) [rate](#rate) in [urban](#urban) areas.
 	- country n.国家的
 	- register n.登记的
 	- unemployment n.失业
@@ -681,8 +681,8 @@ adv.（与某人）一道；一起
 
 - be *aware* of + 名词
 - be *aware* that + 句子
-- We are *aware* our own advantages](#advantage%20n.优点；有利条件)
-- I am *aware* that I made a mistake
+- We are *aware* our own [advantages](#advantage%20n.优点；有利条件)
+- I am *aware* that I made a [mistake](word%20m.md#mistake)
 
 ## awareness
 
@@ -718,7 +718,7 @@ adv.（与某人）一道；一起
 ### alcohol n.酒精；乙醇；酒；含酒精饮料
 
 - Drinking [excessive](#excessive) *alcohol* dose harm to your health.
-	- [excessive](#excessive) adj.过量的
+	- excessive adj.过量的
 
 ## ancestor
 
@@ -750,7 +750,7 @@ adv.（与某人）一道；一起
 
 ## aboard
 
-### aboard	adv./prep.在(船、飞机、公共汽车、火车等)上；上(船、飞机、公共汽车、火车等)；在船上
+### aboard  adv./prep.在(船、飞机、公共汽车、火车等)上；上(船、飞机、公共汽车、火车等)；在船上
 
 ## academic
 
@@ -856,18 +856,23 @@ adv.（与某人）一道；一起
 ### about adj. 在附近的;即将（做…）的；快要（发生…）的
 
 ## above
-### above prep. 在(或向)…上面; (数目、数量、水平、年龄)超过，多于，大于;(重要性、质量)超过，胜过;
-### above adv. 在(或向)上面;上文;(数目、数量、水平、年龄)超过，更多，更大;前文;在(或向)较高处
-### above adj. 上述的;前文述及的
+### above prep.在(或向)…上面; (数目、数量、水平、年龄)超过，多于，大于;(重要性、质量)超过，胜过;
+### above adv.在(或向)上面;上文;(数目、数量、水平、年龄)超过，更多，更大;前文;在(或向)较高处
+### above adj.上述的;前文述及的
 
 ## absent
-### absent adj. + ~ (from sth)  缺席的;不存在;不在的;缺少;心不在焉的;出神的
-### absent vt. + [VN]~ yourself (from sth)  不在;缺席;不参加
+### absent adj.缺席的；不存在；不在的；缺少；心不在焉的；出神的
+
+- *absent* from sth
+
+### absent v.不在；缺席；不参加
+- *absent* oneself (from sth)
 
 ## absolutely
-### absolutely adv. (强调真实无误)绝对地，完全地;当然，对极了;极其
+### absolutely adv.(强调真实无误)绝对地；完全地；当然；对极了；极其
 
 ## ache
+
 ### ache vi. 疼痛;渴望;隐痛
 ### ache n. (身体某部位的)疼痛
 
@@ -892,12 +897,19 @@ adv.（与某人）一道；一起
 ### actually adv. 事实上;(礼貌地纠正他人)实际上;确实，说实在的;(在口语中用于强调事实)的确;(表示想法与事实不一致因而惊奇)竟然;真实地
 
 ## adapt
-### adapt v. 适应(新情况);使适合(新用途、新情况)+ [VN]~ sth (for sth);改编;改写+ ~ (yourself) (to sth)
+### adapt v. 适应(新情况)；使适合(新用途、新情况)
+
+- *adapt* sth (for sth)
+
+### adapt v.改编;改写
+
+- *adapt* oneself (to sth)
 
 ## add
 ### add v. 添加;添加（特色）;增加;加;把…加起来，计算…的总和，把…相加;补充说;继续说
 
 ## addict
+
 ### addict n. 瘾君子;吸毒成瘾的人;对…入迷的人
 ### addict vt. 使沉溺;使上瘾;使自己沾染（某些恶习）
 
@@ -927,9 +939,9 @@ adv.（与某人）一道；一起
 
 ## afraid
 ### afraid adj.害怕的;害怕，畏惧(可能受伤害、受苦);担心(会发生某事);担心，生怕(将发生不快、不幸或危险的事)
-- afraid of sb/sth
-- afraid of doing sth
-- afraid to do sth
+- *afraid* of sb/sth
+- *afraid* of doing sth
+- *afraid* to do sth
 
 ## after
 ### after prep. 之后;(时间)在…后;关于;在(某人)后面;在…后面
@@ -955,8 +967,8 @@ adv.（与某人）一道；一起
 
 ## agree
 ### agree v.同意;商定;一致;批准，认可（计划、要求等）;(对…)取得一致意见，一致同意;赞成;答应;（与…）相符;应允
-- agree with sb about/on sth
-- agree with sth
+- *agree* with sb about/on sth
+- *agree* with sth
 
 ## agriculture
 ### agriculture n. 农业;农艺;农学
@@ -968,14 +980,14 @@ adv.（与某人）一道；一起
 ### aid n.帮助;援助;(完成某工作所需的)助手;辅助设备;救援物资;辅助物;援助款项
 ### aid v.援助;帮助
 
-- aid sb/sth in sth/in doing sth
-- aid sb with sth
+- *aid* sb/sth in sth/in doing sth
+- *aid* sb with sth
 
 ## aim
 ### aim n. 目的;目标;瞄准
 ### aim v.旨在，目的是;针对，指向;瞄准，对准;打算，企图
-- aim at doing sth
-- aim at/for sth
+- *aim* at doing sth
+- *aim* at/for sth
 
 ## air
 ### air n. 空气;(飞行的)空中;天空;摆架子
@@ -1129,8 +1141,8 @@ adv.（与某人）一道；一起
 ### as conj. 当…时;随着;照…方式;因为;由于;正如;尽管
 
 ## ask
-### ask v. + ~ (sb) (about sb/sth)
-问;要求;请;询问;请求;征求;期望;要价;恳求(给予);请求允许
+### ask v.问;要求;请;询问;请求;征求;期望;要价;恳求(给予);请求允许
+- *ask* sb (about sb/sth)
 
 ## at
 ### at prep. 在(某时间或时刻);在(学习或工作地点);在(某处);在…岁时;向;以，达;处于最佳（或最差等）状态;在…方面;以…的方式;从事于，忙于;因为，由于;应…（而）
@@ -1138,8 +1150,9 @@ adv.（与某人）一道；一起
 ## athlete
 ### athlete n. 运动员;健儿;田径运动员;擅长运动的人
 
-## ATM/Automatic Teller Machine
-### ATM/Automatic Teller Machine   abbr. (= automated teller machine ) 自动取款机
+## ATM
+### ATM abbr.自动取款机
+- = automated teller machine
 
 ## audience
 ### audience n. 观众;(戏剧、音乐会或演讲等的)听众;(同一事物的)读者
