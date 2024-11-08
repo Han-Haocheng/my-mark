@@ -1,4 +1,4 @@
-# Word List 2
+# core 2
 
 	appointment
 	appreciate
@@ -49,7 +49,7 @@
 11. ![attach](../01-word%20library/word%20a.md#attach)
 12. ![attack](../01-word%20library/word%20a.md#attack)
 13. ![attempt](../01-word%20library/word%20a.md#attempt)
-14. ![attand](../01-word%20library/word%20a.md#attand)
+14. ![attend](../01-word%20library/word%20a.md#attend)
 15. ![attention](../01-word%20library/word%20a.md#attention)
 16. ![attitude](../01-word%20library/word%20a.md#attitude)
 17. ![attract](../01-word%20library/word%20a.md#attract)

@@ -1,4 +1,4 @@
-# Word List 22
+# core 22
 	sore
 	source
 	spare

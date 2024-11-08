@@ -1,4 +1,4 @@
-# Word List 12
+# core 12
 
 	hesitate
 	hobby

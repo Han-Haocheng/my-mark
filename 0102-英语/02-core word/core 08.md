@@ -1,4 +1,4 @@
-# Word List 8
+# core 8
 	depend
 	deposit
 	describe

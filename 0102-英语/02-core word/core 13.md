@@ -1,4 +1,4 @@
-# Word List 13
+# core 13
 
 	injure
 	injured

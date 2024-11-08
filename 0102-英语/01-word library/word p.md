@@ -729,3 +729,11 @@ a.（含）蛋白质的
 - The *purpose* of the [#experiment](.md#experiment)...
 - sb. purpose is to do
 - His purpose is to make money.
+
+## preview
+- [view](.md#view)
+- [review](.md#review)
+
+### preview v.预习
+
+- If you want to make [progress](#progress) you need *preview* and [review](#review) your lessons.

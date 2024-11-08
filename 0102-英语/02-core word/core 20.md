@@ -1,4 +1,4 @@
-# Word List 20
+# core 20
 	respond
 	response
 	responsible
@@ -48,8 +48,8 @@
 	1. ![retirement](../01-word%20library/word%20R.md#retirement)
 6. ![reveal](../01-word%20library/word%20R.md#reveal)
 7. ![review](../01-word%20library/word%20R.md#review)
-	1. ![view](../01-word%20library/word%20r.md#view)
-	2. ![preview](../01-word%20library/word%20r.md#preview)
+	1. ![view](../01-word%20library/word%20v.md#view)
+	2. ![preview](../01-word%20library/word%20p.md#preview)
 8. ![revise](../01-word%20library/word%20R.md#revise)
 	1. ![revision](../01-word%20library/word%20R.md#revision)
 9. ![risk](../01-word%20library/word%20R.md#risk)

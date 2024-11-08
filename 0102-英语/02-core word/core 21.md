@@ -1,4 +1,4 @@
-# Word List 21
+# core 21
 	junior
 	sense
 	sensitive

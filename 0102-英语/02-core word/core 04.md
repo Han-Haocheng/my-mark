@@ -1,4 +1,4 @@
-# Word List 4
+# core 4
 
 	belong
 	benefit

@@ -1,4 +1,4 @@
-# Word List 16
+# core 16
 
 	object
 	objection

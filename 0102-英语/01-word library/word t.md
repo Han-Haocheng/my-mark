@@ -209,3 +209,70 @@
 ## tyre
 ### tyre n. 轮胎
 ### tyre v. 装轮胎
+
+## tradition
+### tradition n.传统
+
+## traditional
+### traditional adj.传统的；习俗的
+- *traditional* [custom](#custom)/[culture](#culture)/[diet](#diet)
+### traditional adj.惯例的；守旧的
+
+- a *traditional* girl <==> an open girl
+- *traditional* Chinese [medicine](#medicine) is an important part of *traditional* Chinese [culture](#culture).
+
+## transfer
+### transfer v.使转移；搬迁
+
+- *transfer* sth/sb from to ...
+- How can I *transfer* money from my bank [account](#account) to his?
+- I couldn't *transfer* all my [credits](#credit) from [junior](#junior) college to my [current](#current) university.
+
+### transfer v.调动；转职
+
+- *transfer* sb from
+- Ten [employees](#employee) are being *transferred* from the sales [department](#department).
+
+### transfer v.(使在旅途中)转乘；换乘
+
+
+## transport
+### transport v.(交通工具)运输；运送；输送
+
+- to *transport* [goods](#goods)/[passengers](#passenger)
+
+### transport v.(以自然方式)运输；传播
+
+- The seeds are *transported* by the [wind](#wind).
+
+## transportation 
+### transportation n.交通运输
+
+- JiNan's *transportation* is very [convenient](#convenient).
+
+## treasure
+### treasure n.财富；珍宝；金银财宝
+
+### treasure v.珍藏；珍视
+### treasure v.珍爱；珍重
+- *treasure* your time 
+- I *treasure* his [friendship](#friendship) 
+
+## truth
+### truth n.真相；真理；实事
+- My life goal is to [seek](#seek) the *truth*.
+- parents should [praise](#praise) their kids for telling the *truth*.
+	- praise v.表扬
+- Only years later did i learn the *truth* about the matter.
+### truth adj.真的；真实的；真理的
+
+
+## typical
+### typical adj.典型的；有代表性的；特有的
+
+- be *typical* of sb/sth. 
+- [Hospitality](#Hospitality) is *typical* of Shandongness
+-  
+## typically
+### typically adv.典型地
+

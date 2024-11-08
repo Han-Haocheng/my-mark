@@ -95,10 +95,6 @@
 - *normal* [#behavior](.md#behavior)
 - live a *normal* life
 
-## abnormal
-
-### abnormal adj.不正常的；变态的
-
 ## novel
 
 ### novel n.(长篇)小说

@@ -1170,3 +1170,7 @@ adv.（与某人）一道；一起
 
 ## away
 ### away adv. 向远处，远离;不在，离开
+
+## abnormal
+
+### abnormal adj.不正常的；变态的

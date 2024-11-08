@@ -1,4 +1,4 @@
-# Word List 6
+# core 6
 
 
 	claim

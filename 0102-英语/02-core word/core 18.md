@@ -1,4 +1,4 @@
-# Word List 18
+# core 18
 
 	profit
 	profitable

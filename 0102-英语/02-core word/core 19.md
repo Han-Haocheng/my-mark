@@ -1,4 +1,4 @@
-# Word List 19
+# core 19
 	reach
 	ready
 	recommend

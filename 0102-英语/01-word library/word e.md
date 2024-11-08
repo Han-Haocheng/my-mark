@@ -234,14 +234,6 @@
 
 - life expectancy 预期寿命
 
-## unexpectedly
-
-### unexpectedly adv.出人意料地；意料之外地
-
-## unexpected
-
-### unexpected adj.出人意料的；意料之外的
-
 ## experience
 
 ### experience (U)n.经验
@@ -266,10 +258,6 @@
 ### experienced adj.有经验的
 
 - an experienced nurse
-
-## inexperienced
-
-### inexperienced adj.无经验的
 
 ## explore
 

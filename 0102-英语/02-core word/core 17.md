@@ -1,4 +1,4 @@
-# Word List 17
+# core 17
 
 	perform
 	performance

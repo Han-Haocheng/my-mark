@@ -1,5 +1,4 @@
-# Word List 10
-
+# core 10
 	eventually
 	exchange
 	exist
@@ -44,11 +43,11 @@
 4. ![expect](../01-word%20library/word%20e.md#expect)
 	1. ![expectation](../01-word%20library/word%20e.md#expectation)
 	2. ![expectancy](../01-word%20library/word%20e.md#expectancy)
-	3. ![unexpectedly](../01-word%20library/word%20e.md#unexpectedly)
-	4. ![unexpected](../01-word%20library/word%20e.md#unexpected)
+	3. ![unexpectedly](../01-word%20library/word%20u.md#unexpectedly)
+	4. ![unexpected](../01-word%20library/word%20u.md#unexpected)
 5. ![experience](../01-word%20library/word%20e.md#experience)
 	1. ![experienced](../01-word%20library/word%20e.md#experienced)
-	2. ![inexperienced](../01-word%20library/word%20e.md#inexperienced)
+	2. ![inexperienced](../01-word%20library/word%20i.md#inexperienced)
 6. ![explore](../01-word%20library/word%20e.md#explore)
 	1. ![explorer](../01-word%20library/word%20e.md#explorer)
 	2. ![exploration](../01-word%20library/word%20e.md#exploration)
@@ -63,7 +62,7 @@
 	1. ![failure](../01-word%20library/word%20f.md#failure)
 12. ![familiar](../01-word%20library/word%20f.md#familiar)
 	1. ![familiarity](../01-word%20library/word%20f.md#familiarity)
-	2. ![unfamiliarity](../01-word%20library/word%20f.md#unfamiliarity)
+	2. ![unfamiliarity](../01-word%20library/word%20u.md#unfamiliarity)
 13. ![fault](../01-word%20library/word%20f.md#fault)
 14. ![faulty](../01-word%20library/word%20f.md#faulty)
 15. ![fear](../01-word%20library/word%20f.md#fear)

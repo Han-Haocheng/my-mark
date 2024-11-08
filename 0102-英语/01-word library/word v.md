@@ -32,3 +32,27 @@
 
 ## vitamin
 ### vitamin n. 维生素;维他命
+
+## vacation
+### vacation n.(美国学校的)假期
+- = holiday 假期
+
+>[!faq]+ 例题：Many students will watch TV only to (D) time during the summer vacation.
+>A.spend B.waste C.enjoy D. kill
+
+## various
+### various adj.各种各样的；各式各样的
+- The dining hall [supplies](#supply) students with *various* food to [satisfy](#satisfy) their *various* needs.
+
+## variety
+### variety n.(同一事物的)不同种类，多种式样
+
+- This [tool](#tool) can be used in a *variety* of ways.
+- He would not attend the meeting for a variety of reasons.
+
+## virtual
+### virtual adj.很接近的；几乎……的；事实上的；实际上的；实质上的
+
+## view
+### view n.景色；观点
+### view v.看

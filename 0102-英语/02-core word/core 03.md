@@ -1,4 +1,4 @@
-# Word List 3
+# core 3
 
 	average
 	avoid

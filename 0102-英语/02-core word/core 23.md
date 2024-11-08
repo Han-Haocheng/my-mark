@@ -1,4 +1,4 @@
-# word list 23
+# core 23
 	summary
 	summarize
 	supply

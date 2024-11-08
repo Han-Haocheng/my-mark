@@ -497,18 +497,6 @@
 
 ### review n.温习课；复习课
 
-## preview
-- [#view](.md#view)
-- [#review](.md#review)
-
-### preview v.预习
-
-- If you want to make #progress](.md#progress)%20you need *preview* and [#review](.md#review)your lessons.
-
-## view
-### view n.景色；观点
-### view v.看
-
 
 ## revise
 ### revise v.修改；修订

@@ -67,9 +67,6 @@
 
 ### familiarity n.熟悉
 
-## unfamiliarity
-
-### unfamiliarity n.不熟悉
 
 ## fault
 
@@ -377,3 +374,6 @@
 ## frontier
 
 ### frontier n.边境；边界；国界；(学科或活动的)尖端，边缘
+
+## fortunately
+### fortunately adv.幸运的

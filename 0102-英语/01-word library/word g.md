@@ -82,9 +82,6 @@
 
 - the Graduate 《毕业生》
 
-## undergraduate
-
-### undergraduate n.本科生
 
 ## postgraduate
 

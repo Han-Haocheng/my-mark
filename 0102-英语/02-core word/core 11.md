@@ -1,4 +1,4 @@
-# Word List 11
+# core 11
 
 	flexible
 	fluent
@@ -50,7 +50,7 @@
 	1. ![glorious](../01-word%20library/word%20g.md#glorious)
 14. ![goal](../01-word%20library/word%20g.md#goal)
 15. ![graduate](../01-word%20library/word%20g.md#graduate)
-	1. ![undergraduate](../01-word%20library/word%20g.md#undergraduate)
+	1. ![undergraduate](../01-word%20library/word%20u.md#undergraduate)
 	2. ![postgraduate](../01-word%20library/word%20g.md#postgraduate)
 16. ![grateful](../01-word%20library/word%20g.md#grateful)
 17. ![guarantee](../01-word%20library/word%20g.md#guarantee)

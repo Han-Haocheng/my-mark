@@ -1,4 +1,4 @@
-# Word List 7
+# core 7
 	content
 	contract
 	contribute

@@ -1,4 +1,4 @@
-# Word List 1
+# core 1
 
 	abroad
 	accept

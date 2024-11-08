@@ -409,13 +409,13 @@
 
 ## draft
 
-### draft	n.草稿；草案
+### draft n.草稿；草案
 
 ### draft v.起草；草拟
 
 ## draw
 
-### draw	v.画
+### draw v.画
 
 - draw a bird/shrimp/tiger/line
 	- shrimp n.虾
@@ -428,7 +428,7 @@
 
 ## due
 
-### due	adj.由于；因为
+### due adj.由于；因为
 
 - His failure is due to his laziness
 
@@ -444,7 +444,7 @@
 
 ## dull
 
-### dull	adj.枯燥无味的；无聊的
+### dull adj.枯燥无味的；无聊的
 
 - a dull movie/match
 - The movie is dull.
@@ -532,10 +532,11 @@
 
 ### drill n.钻头；演习；训练；钻床；练习
 
+## dustbin
+
+### dustbin n.垃圾箱；(常置于房外的)垃圾桶
+
 ## duration
 
 ### duration n.持续时间；期间
 
-## dustbin
-
-### dustbin n.垃圾箱；(常置于房外的)垃圾桶

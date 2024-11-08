@@ -1,4 +1,4 @@
-# Word List 14
+# core 14
 
 	less
 	like

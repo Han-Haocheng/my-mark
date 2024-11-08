@@ -768,8 +768,8 @@
 - The [common](.md#common) life could not *satisfy* the girl.
 - to *satisfy*/meet the needs/demands of 为了满足……的需求
 
-
-## satisfaction n.满足；满意；欣慰
+## satisfaction
+### satisfaction n.满足；满意；欣慰
 
 - to sb's *satisfaction* 使某人满意的是
 - To the teacher's *satisfaction* students made greater [progress](.md#progress).
@@ -778,10 +778,6 @@
 
 ### satisfactory adj.令人满意的
 
-## unsatisfactory
-
-### unsatisfactory adj.不令人满意的
-
 ## scare
 
 ### scare n.恐惧；恐慌
@@ -789,16 +785,16 @@
 
 ### scare v.使害怕；使恐惧
 
-- The girl's #cosplay](.md#cosplay)%20*scared* her [neighbors](.md#neighbors).
+- The girl's [cosplay](#cosplay) *scared* her [neighbors](#neighbors).
 ## scary
 ### scary adj.恐怖的；恐惧的
 
-- scary film
+- *scary* film
 ## scene
 ### scene n.(不愉快事件发生的)现场
 
 - scenery
-- The *scenes* of the road #accident](.md#accident)%20are [horrible](.md#horrible)/[scary](.md#scary).
+- The *scenes* of the road [accident](#accident) are [horrible](#horrible)/[scary](#scary).
 
 ## schedule
 ### schedule n.工作计划；日程安排

@@ -1,4 +1,4 @@
-# Word List 15
+# core 15
 
 	mention
 	mess

@@ -128,7 +128,7 @@
 
 ## begin
 
-## begin v.开始
+### begin v.开始
 
 - *begin* to do sth.=*begin* doing sth.
 - Class *begins*
@@ -238,7 +238,7 @@
 
 - Directions in this section there this.......
 
-## blind adj.失明的；盲人；(对事)视而不见
+### blind adj.失明的；盲人；(对事)视而不见
 
 - be *blind* to
 - The student is *blind* to his [lack](#lack) of [discipline](#discipline)

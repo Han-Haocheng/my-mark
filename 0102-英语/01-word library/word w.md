@@ -36,3 +36,46 @@
 
 ## wool
 ### wool n. 羊毛;毛线;毛织物;毛料
+
+## warn
+### warn v.警告；告诫；劝告
+- *warn* sb against/about sth
+- *warn* students about [treasuring](#treasuring)
+
+### warn v.使警惕
+
+- *warn* sb of sth
+- The news *warned* us of the [campus](#campus) [violence](#violence).
+
+- neutral indifferent tolerant warning
+
+## waste
+### waste v.浪费；滥用
+- *waste* sth. on sth.
+- *waste* time on game
+- *waste* sth (in) doing sth.
+- *waste* time in playing games
+
+### waste n.浪费
+- food *waste*
+
+### waste n.废物；垃圾
+- [plastic](#plastic) *waste*
+
+## weight
+### weight v.称重
+
+- she *weighs* kilos/kilograms.
+
+### weight v.称重量；量体重
+- He *weighed* himself on the bathroom [scales](#scales) 
+
+### weight v.认真考虑；权衡；斟酌
+
+- *weight* up
+
+### weight n.重量
+
+- lose/gain *weight*
+
+

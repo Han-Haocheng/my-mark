@@ -1,4 +1,4 @@
-# Word List 9
+# core 9
 	doubt
 	draft
 	draw

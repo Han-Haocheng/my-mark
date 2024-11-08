@@ -97,7 +97,7 @@
 
 ### capability n.能力；性能
 
-%20## case
+## case
 
 ### case n.情况
 

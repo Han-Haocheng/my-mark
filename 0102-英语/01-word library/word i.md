@@ -255,11 +255,6 @@
 
 - Are you sure to install software?Yes/No
 
-## uninstall
-
-### uninstall v.卸载
-
-- Are you sure to uninstall software?Yes/No
 
 ## intelligent
 
@@ -428,3 +423,7 @@
 ### invoice n.发票；费用清单
 
 ### invoice vt.开发票(或清单)；发出发票(或清单)  
+
+## inexperienced
+
+### inexperienced adj.无经验的
