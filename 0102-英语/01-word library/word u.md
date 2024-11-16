@@ -114,3 +114,7 @@
 ## unsatisfactory
 
 ### unsatisfactory adj.不令人满意的
+
+## urban
+### urban adj.城市的；城镇的；都市的
+- I prefer the [rural](#rural) life to the *urban* life.

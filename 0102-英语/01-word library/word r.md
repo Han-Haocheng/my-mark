@@ -551,3 +551,8 @@
 ### row v.划船
 
 - The lovers are *rowing* in the lake.I [#admire](.md#admire) them.
+
+## rural
+### rural adj.乡村的；乡下的
+
+- I prefer the *rural* life to the [urban](#urban) life.

@@ -56,3 +56,22 @@
 ## view
 ### view n.景色；观点
 ### view v.看
+
+## volume
+### volume n.体积；容积；容量
+- The *volume* of the [tank](#tank) is $5M^{3}$
+
+### volume n.音量
+### volume n.一卷；一册
+- Volume 1
+
+## volunteer
+### volunteer n.志愿者；义务工作者
+### volunteer v.自愿做；义务做；无偿做
+
+-  volunteer sth for/as sth
+- Volunteers are 42 percent more happiness than  
+
+## vocation
+### vocation n.职业；工作
+- Nursing is not just a job ---- it's a [holy](#holy) *vocation*.

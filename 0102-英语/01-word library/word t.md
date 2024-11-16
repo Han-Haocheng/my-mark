@@ -276,3 +276,24 @@
 ## typically
 ### typically adv.典型地
 
+
+## tidy
+### tidy adj.整洁的；整齐的
+### tidy v.整理；使整洁
+
+## though
+### though conj.虽然；尽管；即使
+
+- Tired *though* she was/Even if she was tired,there was no [hope](#hope) of her being able to sleep.
+- even if/even *though* 虽然；尽管
+- as if/as *though* 好像；仿佛
+- It looks as *though* it is going to rain.
+- My wife [treats](#treate) me as *though* she were my queen. 
+
+### though adv.不过；可是；然而
+
+- He stayed up late on weekends,*though*.
+
+## technique
+### technique n.技巧；工艺；奇数；技能；技艺
+- =skill
