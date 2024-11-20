@@ -363,7 +363,7 @@ adv.（与某人）一道；一起
 
 ## appreciate
 
-- [#appreciation n.感激](#appreciation%20n.感激)
+- [appreciation n.感激](#appreciation%20n.感激)
 
 ### appreciate v.感激；感谢
 
@@ -410,7 +410,7 @@ adv.（与某人）一道；一起
 
 ## arrange
 
-- [#arrangement n.安排](#arrangement%20n.安排)
+- [arrangement n.安排](#arrangement%20n.安排)
 
 ### arrange v.安排；布置
 
@@ -471,7 +471,7 @@ adv.（与某人）一道；一起
 
 - [customers](#customers) and shop *assistant*
 	- customer n.顾客
-- [foreign](#foreign) [tourist](#tourist)and his [local](#local) [guide](#guide)
+- [foreign](#foreign) [tourist](#tourist) and his [local](#local) [guide](#guide)
 	- foreign adj.国外的
 	- tourist n.游客；旅客
 	- local adj.本地的
@@ -509,7 +509,7 @@ adv.（与某人）一道；一起
 
 ### attack v.攻击；袭击；进攻；抨击
 
-- __Humpback whales__ make singing noises[probably](#probably) to [express](#express) [#emotions](#emotions)/*attack* [rivals](#rivals)
+- __Humpback whales__ make singing noises[probably](#probably) to [express](#express) [emotions](#emotions)/*attack* [rivals](#rivals)
 	- humpback whales 座头鲸
 	- probably adv.可能；大概
 	- express v.表达
@@ -565,7 +565,7 @@ adv.（与某人）一道；一起
 ### attitude n.态度
 
 - *Attitude* is everything 态度决定一切
-- What's the [author](#author) *attitude* [toward](#toward) [automobile](#auto/automobile%20n.汽车) ?[negative](#negative).[positive](#positive).[neutral](#neutral).[Indifferent](#Indifferent).
+- What's the [author](#author) *attitude* [toward](#toward) [automobile](#auto/automobile%20n.汽车)? [negative](#negative).[positive](#positive).[neutral](#neutral).[Indifferent](#Indifferent).
 	- author n.作者
 	- toward prep.对于
 	- negative adj.消极的
@@ -625,7 +625,7 @@ adv.（与某人）一道；一起
 - The global *average* air [temperature](#temperature) is believed rise in the near future
 	- global n.全球
 	- temperature n.温度
-- The [country's](#country) [registered](#registered) *average* [#unemployment](#unemployment) [rate](#rate) in [urban](#urban) areas.
+- The [country's](#country) [registered](#registered) *average* [unemployment](#unemployment) [rate](#rate) in [urban](#urban) areas.
 	- country n.国家的
 	- register n.登记的
 	- unemployment n.失业
@@ -641,9 +641,9 @@ adv.（与某人）一道；一起
 
 - *avoid* [conflicts](#conflicts)
 	- conflict n.冲突
-- Please *avoid* leaving](word%20l.md#leaving v.遗弃)[litter](#litter)
+- Please *avoid* [leaving](word%20l.md#leaving v.遗弃) [litter](#litter)
 	- litter n.垃圾
-- Students should *avoid* leaving](word%20l.md#leaving v.遗弃)litter
+- Students should *avoid* [leaving](word%20l.md#leaving v.遗弃)litter
 
 ## awake
 
