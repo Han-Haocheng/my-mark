@@ -1,0 +1,103 @@
+# basic model 5
+
+	outline
+	pan
+	paragraph
+	patent
+	PC/personal computer
+	PE/physical education
+	penny
+	personnel
+	phenomenon
+	photo
+	phrase
+	physician
+	pin
+	poet
+	policeman
+	policewoman
+	politics
+	precisely
+	prison
+	professor
+	programme
+	proof
+	property
+	protein
+	pub
+	purse
+	rainbow
+	rat
+	realize
+	reception
+	religious
+	resistance
+	revenue 
+	revolution
+	rocket
+	rub
+	rude
+	salesman
+	saleswoman
+	salesperson
+	saying
+	scream
+	secondary
+	sector
+	session
+	setting
+	sew
+	shelf
+	socialist
+	solar
+
+![outline](../01-word%20library/word%20o.md#outline)
+![pan](../01-word%20library/word%20p.md#pan)
+![paragraph](../01-word%20library/word%20p.md#paragraph)
+![patent](../01-word%20library/word%20p.md#patent)
+![PC/personal computer](../01-word%20library/word%20P.md#PC/personal computer)
+![PE/physical education](../01-word%20library/word%20P.md#PE/physical education)
+![penny](../01-word%20library/word%20p.md#penny)
+![personnel](../01-word%20library/word%20p.md#personnel)
+![phenomenon](../01-word%20library/word%20p.md#phenomenon)
+![photo](../01-word%20library/word%20p.md#photo)
+![phrase](../01-word%20library/word%20p.md#phrase)
+![physician](../01-word%20library/word%20p.md#physician)
+![pin](../01-word%20library/word%20p.md#pin)
+![poet](../01-word%20library/word%20p.md#poet)
+![policeman](../01-word%20library/word%20p.md#policeman)
+![policewoman](../01-word%20library/word%20p.md#policewoman)
+![politics](../01-word%20library/word%20p.md#politics)
+![precisely](../01-word%20library/word%20p.md#precisely)
+![prison](../01-word%20library/word%20p.md#prison)
+![professor](../01-word%20library/word%20p.md#professor)
+![programme](../01-word%20library/word%20p.md#programme)
+![proof](../01-word%20library/word%20p.md#proof)
+![property](../01-word%20library/word%20p.md#property)
+![protein](../01-word%20library/word%20p.md#protein)
+![pub](../01-word%20library/word%20p.md#pub)
+![purse](../01-word%20library/word%20p.md#purse)
+![rainbow](../01-word%20library/word%20r.md#rainbow)
+![rat](../01-word%20library/word%20r.md#rat)
+![realize](../01-word%20library/word%20r.md#realize)
+![reception](../01-word%20library/word%20r.md#reception)
+![religious](../01-word%20library/word%20r.md#religious)
+![resistance](../01-word%20library/word%20r.md#resistance)
+![revenue ](../01-word%20library/word%20r.md#revenue )
+![revolution](../01-word%20library/word%20r.md#revolution)
+![rocket](../01-word%20library/word%20r.md#rocket)
+![rub](../01-word%20library/word%20r.md#rub)
+![rude](../01-word%20library/word%20r.md#rude)
+![salesman](../01-word%20library/word%20s.md#salesman)
+![saleswoman](../01-word%20library/word%20s.md#saleswoman)
+![salesperson](../01-word%20library/word%20s.md#salesperson)
+![saying](../01-word%20library/word%20s.md#saying)
+![scream](../01-word%20library/word%20s.md#scream)
+![secondary](../01-word%20library/word%20s.md#secondary)
+![sector](../01-word%20library/word%20s.md#sector)
+![session](../01-word%20library/word%20s.md#session)
+![setting](../01-word%20library/word%20s.md#setting)
+![sew](../01-word%20library/word%20s.md#sew)
+![shelf](../01-word%20library/word%20s.md#shelf)
+![socialist](../01-word%20library/word%20s.md#socialist)
+![solar](../01-word%20library/word%20s.md#solar)

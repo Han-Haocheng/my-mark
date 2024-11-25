@@ -24,7 +24,7 @@
 - Please *accept* our [sincere](#sincere) [apologies](#apologies)
 	- [sincere](#sincere) adj. 诚实的, 正直的, 真挚的, 纯净的
 	- [apologies](#apologies) n. 道歉, 抱歉, 抱怨, 道歉书
-- I *accept* you [advice](#advice%20n.建议；忠告；劝告)/[suggestions](suggestions.md).
+- I *accept* you [advice](#advice%20n.建议；忠告；劝告)/[suggestions](#suggestions.md).
 	- [suggestion](#suggestion) n.建议（可数）
 - The couple *accepted* my invitation.
 - I do hope all of you will *accept* my teaching style.
@@ -42,7 +42,7 @@
 
 - car *accident* 交通事故
 
-- Researchers have [estimated](#estimated) that as many as 80% of all [#automobile](#automobile)*accidents* can be [attributed](#attribute%20v.归因于) to [condition](word%20c.md#condition%20n.条件；物质环境) [psychological](#psychological) of the driver.
+- Researchers have [estimated](#estimated) that as many as 80% of all [automobile](#automobile)*accidents* can be [attributed](#attribute%20v.归因于) to [condition](word%20c.md#condition%20n.条件；物质环境) [psychological](#psychological) of the driver.
 	- estimate v. 估计；估算
 	- automobile n. 汽车；v. 开汽车；坐汽车；adj. 自动的
 	- psychological adj. 心理的；心灵的；精神上的
@@ -52,9 +52,9 @@
 ### account v. 认为是；视为
 
 - *account* for 解释；说明；是……的原因
-- take...into *account* = take ... into [consideration](word%20c.md#consideration n.考虑；原因)把……考虑进去
+- take...into *account* = take ... into [consideration](word%20c.md#consideration%20n.考虑；原因)把……考虑进去
 - on *account* of 由于
-- His [laziness](word%20l.md#laziness n.懒惰)*accounts* for his [failure](word%20f.md#failure n.失败)
+- His [laziness](word%20l.md#laziness%20n.懒惰) *accounts* for his [failure](word%20f.md#failure%20n.失败)
 - On *account* of [terrible](#terrible) the [cancel](word%20c#cancel%20v.取消；撤销) [flight](#flight).
 	- [terrible](#terrible) adj. 恶劣的
 	- [flight](#flight) n.航班
@@ -196,7 +196,7 @@ adv.（与某人）一道；一起
 
 ### although conj. 虽然；尽管
 
-- *Although* the girl is [pretty](#pretty), I [dislike](dislike n.不喜欢) her
+- *Although* the girl is [pretty](#pretty), I [dislike](word%20d.md#dislike%20n.不喜欢) her
 	- pretty adj.美丽的；漂亮的
 - *Although* he work hard, he makes no [progress](#progress)
 	- progress n. 进展；进步
@@ -260,15 +260,15 @@ adv.（与某人）一道；一起
 
 ### appear v. 看起来像
 
-- seem v.好像；似乎](word%20s.md#seem v.好像；似乎)
-- look v.看起来](word%20l.md#look v.看起来)
+- [seem v.好像；似乎](word%20s.md#seem%20v.好像；似乎)
+- [look v.看起来](word%20l.md#look%20v.看起来)
 
-- The girl *appears* angry](#angry%20adj.生气的；愤怒的)
+- The girl *appears* [angry](#angry%20adj.生气的；愤怒的)
 
 ## apply
 
-- [application](#application)
-- [applicant](#applicant)
+- [application n.运用；申请](#application%20n.运用；申请)
+- [applicant n.申请人](#applicant%20n.申请人)
 
 ### apply v.应用；运用
 
@@ -288,8 +288,8 @@ adv.（与某人）一道；一起
 
 ## applicant
 
-- [#assistant n.助理](#assistant%20n.助理)
-- [#consultant n.顾问](#consultant%20n.顾问)
+- [assistant n.助理](#assistant%20n.助理)
+- [consultant n.顾问](#consultant%20n.顾问)
 
 ### applicant n.申请人
 
@@ -383,7 +383,7 @@ adv.（与某人）一道；一起
 
 - come v.成为；变成；变得](word%20c.md#come v.成为；变成；变得)
 
-- By the second [semester](#semester), she [adjusted](word%20a#adjust%20v.调整；调节) her teaching *approach* to [grab](#grab) student's [attention](#attention n.关注；注意力).
+- By the second [semester](#semester), she [adjusted](word%20a#adjust%20v.调整；调节) her teaching *approach* to [grab](#grab) student's [attention](#attention%20n.关注；注意力).
 	- semester n.学期
 	- grab v.吸引
 - The fall/autumn is *approaching*
@@ -392,7 +392,7 @@ adv.（与某人）一道；一起
 
 - *approach* to
 - new *approaches* to English teaching
-- Carl Jung [#believed](#believed) that [collecting](#collecting)is *approach* to growing fruit
+- Carl Jung [believed](#believed) that [collecting](#collecting)is *approach* to growing fruit
 	- believe v.相信
 	- collect v.收集
 
@@ -435,7 +435,7 @@ adv.（与某人）一道；一起
 - Last night *arrived* in Beijing Train Station.
 - Last night *arrived* at ZhangQiu Station
 
-- The woman isn't sur when the train wall *arrive*.The train was caught](../02-核心词汇/core%2005.md#catch v.接住；拦住)in an accident](../1%20core word/Word List 1.md#accident n. 事故；意外；偶然事件).
+- The woman isn't sur when the train wall *arrive*.The train was [caught](word%20c.md#catch%20v.接住；拦住)in an [accident](#accident%20n.事故；意外；偶然事件).
 	- caught v.陷入
 
 ## asleep
@@ -509,7 +509,7 @@ adv.（与某人）一道；一起
 
 ### attack v.攻击；袭击；进攻；抨击
 
-- __Humpback whales__ make singing noises[probably](#probably) to [express](#express) [emotions](#emotions)/*attack* [rivals](#rivals)
+- __Humpback whales__ make singing noises [probably](#probably) to [express](#express) [emotions](#emotions)/*attack* [rivals](#rivals)
 	- humpback whales 座头鲸
 	- probably adv.可能；大概
 	- express v.表达
@@ -641,9 +641,9 @@ adv.（与某人）一道；一起
 
 - *avoid* [conflicts](#conflicts)
 	- conflict n.冲突
-- Please *avoid* [leaving](word%20l.md#leaving v.遗弃) [litter](#litter)
+- Please *avoid* [leaving](word%20l.md#leaving%20v.遗弃) [litter](#litter)
 	- litter n.垃圾
-- Students should *avoid* [leaving](word%20l.md#leaving v.遗弃)litter
+- Students should *avoid* [leaving](word%20l.md#leaving%20v.遗弃)litter
 
 ## awake
 
@@ -1174,3 +1174,98 @@ adv.（与某人）一道；一起
 ## abnormal
 
 ### abnormal adj.不正常的；变态的
+
+## abuse
+### abuse n.滥用
+- *abuse* of drugs / authority
+### abuse n.虐待
+- *abuse* child/wife
+### abuse v.滥用；虐待
+
+## access
+### access n.接近；进入；入口
+- *access* to
+
+### access n.接触；使用；接近(机会)
+
+- have/gain/get/obtain *access* to 得接近；得会见；得进入；得使用 
+
+## accompany
+### accompany v.陪伴；陪同
+### accompany v.伴随；与……同时发生
+
+## according
+### according prep.根据；按照；按(……所报道)；依据
+
+- according to 
+
+## advertise
+### advertise v.为……做广告
+- *advertise* sth as sth.
+- I read your *advertisement* in China Daily yesterday about hiring a teaching assistant of English.
+
+## advocate
+### advocate v.提倡；支持；拥护
+### advocate n.支持者；拥护者；提倡者
+- advocate of/for sth
+
+## affect
+### affect v.影响
+- sb affect sb.
+
+## alert 
+### alert adj.警惕的；警觉的
+- keep/remain/stay *alert*
+### alert v.警惕；使警觉
+### alert n.警报；警惕；警戒
+
+## alternative
+### alternative n.可供选择的事物
+
+- have no *alternative*/choice/option but to do sth.
+
+### alternative adj.可替代的；可选择的
+
+## apologise
+### apologise v.道歉
+- *apologise* to sb for sth.
+- letter of *apology*
+
+## apparently
+### apparently adv.显然地；明显地
+- = obviously
+- Apparently, he lies.
+
+## approve
+### approve v.赞成；同意
+- approve of sth. 
+
+### approve v.批准；核准
+
+## arise
+### arise v.出现；发生
+- The problem arises.
+
+## arouse
+### arouse v.激起；激发
+- arouse students' interest/curiosity/sympathy
+
+## arrest
+### arrest v.逮捕；拘留
+### arrest n.逮捕；拘捕
+
+## asset
+### asset n.资产；财产
+### asset n.优点；长处；有利条件
+- = advantage
+
+## assumption
+### assumption n.假设；假定 
+
+- His *assumption* (that all man lie) is false. 
+
+## attain
+### attain v.达到(年龄，水平，状况)；(努力)获得；得到
+- *attain* certificate
+
+

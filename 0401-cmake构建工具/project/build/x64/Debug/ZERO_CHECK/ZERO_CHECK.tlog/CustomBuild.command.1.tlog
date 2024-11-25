@@ -1,0 +1,10 @@
+^D:\SYNCTHING\DATA\SYNC-NOTE\0401-CMAKE构建工具\PROJECT\BUILD\CMAKEFILES\AE5E68ECAEBD40A1B792A74D42AB2ADB\GENERATE.STAMP.RULE
+setlocal
+E:\Programming\cmake-3.28.1-windows-x86_64\bin\cmake.exe -SD:/syncthing/data/sync-note/0401-cmake构建工具/project -BD:/syncthing/data/sync-note/0401-cmake构建工具/project/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/syncthing/data/sync-note/0401-cmake构建工具/project/build/myproject.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,105 @@
+# basic model 2
+
+	canal
+	centimetre
+	centre
+	chairman 
+	chairwoman
+	chairperson
+	chart
+	cheek
+	child
+	choke
+	chop
+	chorus
+	cigarette
+	civil
+	civilian
+	civilisation
+	clay
+	cloth
+	colour
+	comedy
+	commerce
+	communist
+	constant
+	constitution
+	core
+	costume
+	cottage
+	crop
+	deadline
+	debt
+	decade
+	deficit
+	departure
+	dialogue
+	dignity
+	disk
+	dive
+	dorm/dormitory
+	dust
+	economy
+	educate
+	elsewhere
+	emotion
+	entertainment
+	episode
+	essay
+	euro
+	exam/examination
+	exhibition
+	fabric
+	
+## 单词
+
+![canal](../01-word%20library/word%20c.md#canal)
+![centimetre](../01-word%20library/word%20c.md#centimetre)
+![centre](../01-word%20library/word%20c.md#centre)
+![chairman](../01-word%20library/word%20c.md#chairman)
+![chairwoman](../01-word%20library/word%20c.md#chairwoman)
+![chairperson](../01-word%20library/word%20c.md#chairperson)
+![chart](../01-word%20library/word%20c.md#chart)
+![cheek](../01-word%20library/word%20c.md#cheek)
+![child](../01-word%20library/word%20c.md#child)
+![choke](../01-word%20library/word%20c.md#choke)
+![chop](../01-word%20library/word%20c.md#chop)
+![chorus](../01-word%20library/word%20c.md#chorus)
+![cigarette](../01-word%20library/word%20c.md#cigarette)
+![civil](../01-word%20library/word%20c.md#civil)
+![civilian](../01-word%20library/word%20c.md#civilian)
+![civilisation](../01-word%20library/word%20c.md#civilisation)
+![clay](../01-word%20library/word%20c.md#clay)
+![cloth](../01-word%20library/word%20c.md#cloth)
+![colour](../01-word%20library/word%20c.md#colour)
+![comedy](../01-word%20library/word%20c.md#comedy)
+![commerce](../01-word%20library/word%20c.md#commerce)
+![communist](../01-word%20library/word%20c.md#communist)
+![constant](../01-word%20library/word%20c.md#constant)
+![constitution](../01-word%20library/word%20c.md#constitution)
+![core](../01-word%20library/word%20c.md#core)
+![costume](../01-word%20library/word%20c.md#costume)
+![cottage](../01-word%20library/word%20c.md#cottage)
+![crop](../01-word%20library/word%20c.md#crop)
+![deadline](../01-word%20library/word%20d.md#deadline)
+![debt](../01-word%20library/word%20d.md#debt)
+![decade](../01-word%20library/word%20d.md#decade)
+![deficit](../01-word%20library/word%20d.md#deficit)
+![departure](../01-word%20library/word%20d.md#departure)
+![dialogue](../01-word%20library/word%20d.md#dialogue)
+![dignity](../01-word%20library/word%20d.md#dignity)
+![disk](../01-word%20library/word%20d.md#disk)
+![dive](../01-word%20library/word%20d.md#dive)
+![dorm/dormitory](../01-word%20library/word%20d.md#dorm/dormitory)
+![dust](../01-word%20library/word%20d.md#dust)
+![economy](../01-word%20library/word%20e.md#economy)
+![educate](../01-word%20library/word%20e.md#educate)
+![elsewhere](../01-word%20library/word%20e.md#elsewhere)
+![emotion](../01-word%20library/word%20e.md#emotion)
+![entertainment](../01-word%20library/word%20e.md#entertainment)
+![episode](../01-word%20library/word%20e.md#episode)
+![essay](../01-word%20library/word%20e.md#essay)
+![euro](../01-word%20library/word%20e.md#euro)
+![exam/examination](../01-word%20library/word%20e.md#exam/examination)
+![exhibition](../01-word%20library/word%20e.md#exhibition)
+![fabric](../01-word%20library/word%20f.md#fabric)

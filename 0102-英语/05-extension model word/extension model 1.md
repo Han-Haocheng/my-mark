@@ -1,0 +1,105 @@
+# extension model 1
+
+	afterwards
+	alcohol
+	ancestor
+	antique
+	arch
+	arrow
+	astronaut
+	avenue
+	bet
+	bond
+	bonus
+	botanical
+	bowling
+	brand
+	buffet
+	butcher
+	cafeteria
+	calorie
+	canteen
+	capsule
+	cargo
+	carve
+	cave
+	cheese
+	chili
+	circuit
+	circus
+	citizen
+	client
+	collar
+	colleague
+	column
+	comic
+	Confucius
+	corporation
+	council
+	coupon
+	crew
+	cuisine
+	damp
+	depth
+	diamond
+	dinosaur
+	directory
+	drill
+	duration
+	dustbin
+	eagle
+	emperor
+	enterprise
+
+## 单词
+
+![afterwards](../01-word%20library/word%20a.md#afterwards)
+![alcohol](../01-word%20library/word%20a.md#alcohol)
+![ancestor](../01-word%20library/word%20a.md#ancestor)
+![antique](../01-word%20library/word%20a.md#antique)
+![arch](../01-word%20library/word%20a.md#arch)
+![arrow](../01-word%20library/word%20a.md#arrow)
+![astronaut](../01-word%20library/word%20a.md#astronaut)
+![avenue](../01-word%20library/word%20a.md#avenue)
+![bet](../01-word%20library/word%20b.md#bet)
+![bond](../01-word%20library/word%20b.md#bond)
+![bonus](../01-word%20library/word%20b.md#bonus)
+![botanical](../01-word%20library/word%20b.md#botanical)
+![bowling](../01-word%20library/word%20b.md#bowling)
+![brand](../01-word%20library/word%20b.md#brand)
+![buffet](../01-word%20library/word%20b.md#buffet)
+![butcher](../01-word%20library/word%20b.md#butcher)
+![cafeteria](../01-word%20library/word%20c.md#cafeteria)
+![calorie](../01-word%20library/word%20c.md#calorie)
+![canteen](../01-word%20library/word%20c.md#canteen)
+![capsule](../01-word%20library/word%20c.md#capsule)
+![cargo](../01-word%20library/word%20c.md#cargo)
+![carve](../01-word%20library/word%20c.md#carve)
+![cave](../01-word%20library/word%20c.md#cave)
+![cheese](../01-word%20library/word%20c.md#cheese)
+![chili](../01-word%20library/word%20c.md#chili)
+![circuit](../01-word%20library/word%20c.md#circuit)
+![circus](../01-word%20library/word%20c.md#circus)
+![citizen](../01-word%20library/word%20c.md#citizen)
+![client](../01-word%20library/word%20c.md#client)
+![collar](../01-word%20library/word%20c.md#collar)
+![colleague](../01-word%20library/word%20c.md#colleague)
+![column](../01-word%20library/word%20c.md#column)
+![comic](../01-word%20library/word%20c.md#comic)
+![Confucius](../01-word%20library/word%20c.md#Confucius)
+![corporation](../01-word%20library/word%20c.md#corporation)
+![council](../01-word%20library/word%20c.md#council)
+![coupon](../01-word%20library/word%20c.md#coupon)
+![crew](../01-word%20library/word%20c.md#crew)
+![cuisine](../01-word%20library/word%20c.md#cuisine)
+![damp](../01-word%20library/word%20d.md#damp)
+![depth](../01-word%20library/word%20d.md#depth)
+![diamond](../01-word%20library/word%20d.md#diamond)
+![dinosaur](../01-word%20library/word%20d.md#dinosaur)
+![directory](../01-word%20library/word%20d.md#directory)
+![drill](../01-word%20library/word%20d.md#drill)
+![duration](../01-word%20library/word%20d.md#duration)
+![dustbin](../01-word%20library/word%20d.md#dustbin)
+![eagle](../01-word%20library/word%20e.md#eagle)
+![emperor](../01-word%20library/word%20e.md#emperor)
+![enterprise](../01-word%20library/word%20e.md#enterprise)

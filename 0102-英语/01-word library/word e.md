@@ -402,3 +402,17 @@
 ## enterprise
 
 ### enterprise n.企业；公司；事业；事业心
+
+## effect
+### effect n.影响
+
+- have an effect on 
+
+## effective
+
+### effective adj.有效果的；有疗效的；生效的
+
+## effectively 
+### effectively adv.有效果地；有疗效地；生效地
+## effectiveness
+### effectiveness n.效果；疗效

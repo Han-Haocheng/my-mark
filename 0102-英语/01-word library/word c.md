@@ -39,7 +39,7 @@
 - The [poverty](#poverty) is *cased* the [strike](#strike).
 	- poverty n.贫穷
 	- strike n.罢工
-- The [lean](#lean) [#harvest](#harvest)*caused* [#prices](#prices) to rise [sharply](#sharply)
+- The [lean](#lean) [harvest](#harvest)*caused* [prices](#prices) to rise [sharply](#sharply)
 	- lean adj.贫乏的
 	- harvest n.收获；收割
 	- price n.价格
@@ -140,7 +140,7 @@
 
 ### catch v.引起；激发(兴趣，想象，注意等)
 
-- *catch* one's [interest](#interest)/[#imagination](#imagination)/[attention](word%20a#attention n.关注；注意力)
+- *catch* one's [interest](#interest)/[imagination](#imagination)/[attention](word%20a#attention%20n.关注；注意力)
 	- interest n.兴趣
 	- imagination n.想象
 
@@ -154,7 +154,7 @@
 
 ### catch v.瞥见
 
-- *catch* [sight](#sight) of = *catch* a [glimpse](#glimpse)of
+- *catch* [sight](#sight) of = *catch* a [glimpse](#glimpse) of
 	- sight n.视力；眼界
 	- glimpse n.一瞥
 
@@ -185,7 +185,7 @@
 
 ### change n.变化；改变；找给的零钱
 
-- With traveling [expenses](word%20e.md#expenses) g [#rising](.\..md#rising) had to *change* all her plans for the [tour](#tour)
+- With traveling [expenses](word%20e.md#expenses) [rising](#rising) , she had to *change* all her plans for the [tour](#tour)
 	- expenses n.经费
 	- tour n.旅行
 
@@ -217,7 +217,7 @@
 
 ### charity n.慈善；慈善机构
 
-- People who give/[#donate](#donate) money to *charity* are 43 [percent](#percent)more likely than non-givers to say they're very happy.
+- People who give/[donate](#donate) money to *charity* are 43 [percent](#percent) more likely than non-givers to say they're very happy.
 	- donate v.捐款
 
 ## chief
@@ -278,7 +278,7 @@
 
 ### collect v.收藏
 
-- *collect* [antique](word%20a.md#antique%20n.古董；文物；古物；古玩)/[vase](word%20v.md#vase n.花瓶)/[stamps](#stamps)
+- *collect* [antique](word%20a.md#antique%20n.古董；文物；古物；古玩)/[vase](word%20v.md#vase%20n.花瓶)/[stamps](#stamps)
 	- stamps n.邮票
 
 ### collect v.募捐；聚积
@@ -364,7 +364,7 @@
 ### concentrate v.集中；专心
 
 - *concentrate* on 集中注意力
-- You should *concentrate* your attention](../1%20core word/Word List 2.md#attention n.关注；注意力)on your study.
+- You should *concentrate* your [attention](word%20a.md#attention%20n.关注；注意力) on your study.
 
 ## concentration
 
@@ -375,7 +375,7 @@
 ### concern v.设计；牵涉(某人)
 
 - be *concerned* with
-- The [case](.\..md#case) *concern* the [secretary](#secretary)
+- The [case](#case) *concern* the [secretary](#secretary)
 	- secretary n.书记
 	- county n.县城
 
@@ -385,7 +385,7 @@
 	- lack v.缺乏；
 	- discipline adj.自制力
 - as far as sb./sth. is *concerned* 就……而言
-- As far as the [topic](.\..md#topic)oncerned*,%20I [rec[reckon](#reckon) [#worthy](#rec[reckon](.\.#reckon)[worthy)%20o[worthy](.\..md#worthy)d%20[researched](.\..md#researched)
+- As far as the [topic](#topic) *concerned*,I [reckon](#reckon) that is [worthy](#worthy) [researched](#researched)
 	- topic n.主题；话题
 	- reckon v.估计；认为
 	- worthy adj.有价值的
@@ -514,7 +514,7 @@
 
 ### contract v.(使)收缩；缩小；感染(疾病)
 
-- People found to their adult](#horror]]%20that 2/3 of the ../1 core word/Word List 1#adult n. 成年人)#population](../1%20core%20word/Word%20List 1.md#adult n. 成年人)[[population) in that [area](#area) has *contract* AIDS.
+- People found to their [horror](#horror) that 2/3 of the [adult](word%20a.md#adult%20n.成年人) [population](word%20p.md#population) in that [area](#area) has *contract* AIDS.
 	- horror n.恐惧；惊骇
 	- population n.人口
 	- area n.地区
@@ -526,10 +526,10 @@
 - = [donate](#donate)
 
 - *contribute* to 贡献于；有助于
-- We *contributed* $5000 to the [earthquake](#earthquake)%20[fund](#fund).
+- We *contributed* $5000 to the [earthquake](#earthquake) [fund](#fund).
 	- earthquake n.地震
 	- fund n.基金
-- As we know attribute](#fresh]]%20air, [nutrition](#nutrition)food%20and exercise contribute to better health.word a#attribute v.归因于).add.[distribute](word%20a.md#attribute%20v.归因于).add.[[distribute)
+- As we know [fresh](#fresh) air, [nutrition](#nutrition) food and exercise *contribute* to better health.[attribute](word%20a#attribute%20v.归因于).add.
 	- fresh adj.新鲜的
 	- nutrition n.营养的
 	- exercise n.运动
@@ -548,7 +548,7 @@
 ### convenient adj.方便的；便利的
 
 - *convenient* for sb./sth.
-- Taking [subways](#subways)%20is *convenient* for us to [travel](#travel).
+- Taking [subways](#subways) is *convenient* for us to [travel](#travel).
 	- subway n.地铁
 	- travel v.旅行
 
@@ -560,7 +560,7 @@
 
 ### count v.计数
 
-- Don't *count* chickens before](../02-核心词汇/core%2003.md#before conj.在……以前；到……之前)they are [hatched](#hatched).
+- Don't *count* chickens [before](word%20d.md#before%20conj.在……以前；到……之前) they are [hatched](#hatched).
 	- hatch v.孵化
 
 ### count v.重要
@@ -573,7 +573,7 @@
 
 ### course n.课程
 
-- Englist *course*
+- English *course*
 - a *course* in [linguistic](#linguistic)
 	- linguistic n.语言学
 
@@ -581,7 +581,7 @@
 
 - in/over the *course* of = time/[period](#period)
 	- period n.学期
-- He's seen many changes](../02-核心词汇/core%2005.md#change n.变化；改变；找给的零钱)in the *course* of the opening and [reform](#reform).
+- He's seen many [changes](word%20c.md#change%20n.变化；改变；找给的零钱) in the *course* of the opening and [reform](#reform).
 	- reform n.改革
 
 ## credit
@@ -594,7 +594,7 @@
 
 ### credit n.学分
 
-- English course](#course%20n.课程)is worth 4 *credits* in this [term](#term)/[semester](#semester)
+- English [course](#course%20n.课程)is worth 4 *credits* in this [term](#term)/[semester](#semester)
 	- term n.学期
 	- semester n.学期
 
@@ -615,7 +615,7 @@
 
 ### cure n.治疗；措施；对策
 
-- Because [smoking](.\..md#smoking)hem%20good [think#thinker](.\..md#thinker)elaxed](#think#thinker](.\..md#thinker)elaxed),%20is#relaxed](.\..md#relaxed)*%20them%20of%20[cancer](.\..md#cancer)
+- Because [smoking](.\..md#smoking)hem good [think#thinker](.\..md#thinker) elaxed](#think#thinker](.\..md#thinker)elaxed),%20is#relaxed](.\..md#relaxed)* them of [cancer](.\..md#cancer)
 	- smoking n.吸烟
 	- thinker n.思考者；思想家
 	- relaxed adj.放松的
@@ -1328,3 +1328,223 @@
 
 ## courage
 ### courage n. 勇气;勇敢;胆量;无畏
+
+## candidate
+### candidate n.候选人
+
+- the rights of voting 选举权
+
+### candidate n.申请人
+### candidate n.应试者
+
+## category
+### category n.类别；(人，事)种类
+- = kind = type
+
+## caution
+### caution n.小心；谨慎
+### caution n.(对危险、风险)警告；告诫
+### caution v.告诫；警告
+- caution sb against sth 
+- warn/caution him against family abuse
+
+## certificate
+### certificate n.证明；合格证书；文凭；结业证书
+- attain one's certificate
+
+## chaos
+### chaos n.混乱；紊乱；杂乱
+- = disorder 
+
+## cheat
+### cheat v.欺骗；作弊
+### cheat n.作弊者；骗子
+
+## chew
+### chew v.嚼碎；咀嚼
+### chew n.咀嚼；口香糖
+
+## cite
+### cite v.引用；援引；引述
+### cite n.引文
+
+- The author *cites* the proverb(n.谚语) -- "bite off more than one can chew." to ...
+- A paper is cited.
+
+## clue
+### clue n.线索；提示
+
+## collapse
+### collapse n. 崩溃垮掉
+- = break down
+
+### collapse n. (突然)倒塌；塌陷
+- quake makes the constructs collapse
+
+### collapse v.(突然)倒塌
+### collapse v.(突然)降价；贬值
+
+## combine
+### combine v.联合；结合；合并
+
+- *combine* A with B
+
+## comfort 
+### comfort v.安慰；抚慰；宽慰 
+### comfort n. 舒适；舒服；安慰
+- *comfort* zone(n. 区域)
+
+## comfortable
+### comfortable adj.舒服的
+
+## command 
+### command n.命令
+- have a good *command* 精通；掌握
+
+### command v.命令
+- *command* that (should) do
+
+## compete
+### compete v.竞争
+- *compete* with/against sb for sth,
+- In class, teachers have to *compete* with smartphones and laptops to attract students' attention. 
+
+## competition
+
+### competition n.竞争
+- fierce(adj.激烈的) *competition*
+
+## competitive
+### competitive adj.竞争的
+
+## competitor
+### competitor adj.竞争者
+
+## competence
+### competence n.能力；胜任；技能
+- *competence* in teaching/cooking
+- language *competence*
+
+## compose
+### compose v. 组成；构成
+- be composed of
+### compose v. 创作
+### compose v.使镇静
+
+## comprehension
+### comprehension n. 理解力；领悟力；练习
+- Reading Comprehend
+- His explanation(n.解释) is beyond my *comprehension*/understand
+
+## comprehensive
+### comprehensive adj. 综合的；所有的；综合性的
+- Reading makes people *comprehensive* while writing makes people precise^[adj.精确的；(逻辑)严密的]. 
+
+## conclude
+### conclude v.得出结论；订立；缔结协定
+
+## conclusion
+### conclusion n.结论
+
+- come to /arrive at reach/draw a conclusion that 
+
+## concrete
+### concrete n. 混凝土
+
+### concrete adj. 具体的；实在的
+
+## confuse
+### confuse v.混淆；使迷惑；使糊涂
+- The more you explain(v.解释) the more *confused* I will be.
+
+## consequence
+
+### consequence n.结果；后果
+- = result 
+- The *consequence* is grave(adj.严重的).
+- as a result = as a *consequence* = [consequently](#consequently)
+
+## consequently
+
+### consequently  adv.结果是；后果是
+
+The husband abused(v.虐待) his wife and children.*Consequently*, he was [arrested](#arrest%20v.逮捕；拘留).
+
+## consist
+### consist v.包括；组成
+- consist in 在于……
+- True Education consists more in example than in precept.
+- consist of 由……组成；构成
+- Water consist of hydrogen and oxygen
+
+## consult
+### consult v.商议；商量
+### consult v.请教
+### consult v.查阅；查询
+
+## consultant
+### consultant n.顾问
+
+## contemporary
+### contemporary adj.当代的；现代的
+- *contemporary* literature(n.文学)
+### contemporary adj.同一时代
+### contemporary n.同代人；同龄人；同辈人
+
+## contrary
+### contrary adj.相反的；相对立的
+- on the contrary 相反的
+
+## conventional
+### conventional adj.常规的；传统的；习惯的
+- = traditional 
+
+### conventional v.依照惯例
+
+### conventional v.遵循习惯
+
+## convince
+### convince v.说服
+- *convince* sb of/that
+- *convince* sb to do sth.
+
+## cooperate
+### cooperate vi.合作；配合；协作；协助
+
+- competition and *cooperation* 竞争与合作
+
+## correspond 
+### correspond vi.相一致；相符合
+### correspond vi.与…通信
+- *correspond* with sb. 
+
+## correspondent
+### correspondent n.通信记者
+## correspondence
+### correspondence n.通信
+## corresponding 
+### corresponding adj.相应的；相一致的
+
+## crime 
+### crime n. 罪行；罪；犯罪
+- commit a theft *crime*
+
+
+## crisis
+### crisis n.危机
+- belief/marriage/financial *crisis*
+
+## critical
+### critical adj.批评的；挑剔的
+- be critical of sb/sth
+
+### critical adj.关键的；至关重要的
+
+
+## critically
+### critically adv.批评地；挑剔地；至关重要地
+## criticize
+### criticize n.指责；批评
+
+## cruel
+### cruel adj.残忍的；残酷的；残暴的

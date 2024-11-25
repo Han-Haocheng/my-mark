@@ -1,0 +1,3 @@
+D:/syncthing/data/sync-note/0401-cmake构建工具/project/build/CMakeFiles/hello.dir
+D:/syncthing/data/sync-note/0401-cmake构建工具/project/build/CMakeFiles/ALL_BUILD.dir
+D:/syncthing/data/sync-note/0401-cmake构建工具/project/build/CMakeFiles/ZERO_CHECK.dir

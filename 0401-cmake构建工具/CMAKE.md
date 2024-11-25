@@ -3,11 +3,12 @@
 **cmake**：源码构建管理工具，是描述如何在所有主要硬件和操作系统上配置、构建和安装项目
 
 ## 目录
-- 第1章 简单的可执行文件或库](第1章%20简单的可执行文件或库.md)
+- [第1章 简单的可执行文件或库](第1章%20简单的可执行文件或库.md)
 
 
 ## CMAKE管理项目的工作流
-!500](../attachment/Pasted%20image 20240911195645.png)
+![](../attachment/png/Pasted%20image%2020241122163009.png)
+
 - **CMake time(configure time)**：是CMake运行时的情况，CMake将处理并配置项目中的`CMakeLists.txt`文件
 - **Generation time**：将生成本地构建工具所需的脚本，以执行项目中的后续步骤
 - **Build time**：这是在平台和工具原生构建脚本上调用原生构建工具的时候，这些脚本以前是由CMake生成的

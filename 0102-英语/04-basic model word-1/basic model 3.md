@@ -1,0 +1,107 @@
+# basic model 3
+
+	false
+	fare
+	federal
+	fiction
+	fist
+	flashlight
+	flour
+	fold
+	foot
+	forgive
+	forth
+	found
+	fox
+	fridge/refrigerator
+	frog
+	frontier
+	gallery
+	garbage
+	garlic
+	gentle
+	gesture
+	giant
+	globe
+	goat
+	gradually
+	gramme
+	gravity
+	halfway
+	handkerchief
+	handmade
+	handwriting
+	hardware
+	have
+	has
+	headline
+	headphone
+	headteacher
+	hell
+	highway
+	homeland
+	hydrogen
+	illegal
+	inn
+	input
+	instant
+	institute
+	invest
+	IOT/Internet of things
+	jazz
+	jewellery
+
+
+![false](../01-word%20library/word%20f.md#false)
+![fare](../01-word%20library/word%20f.md#fare)
+![federal](../01-word%20library/word%20f.md#federal)
+![fiction](../01-word%20library/word%20f.md#fiction)
+![fist](../01-word%20library/word%20f.md#fist)
+![flashlight](../01-word%20library/word%20f.md#flashlight)
+![flour](../01-word%20library/word%20f.md#flour)
+![fold](../01-word%20library/word%20f.md#fold)
+![foot](../01-word%20library/word%20f.md#foot)
+![forgive](../01-word%20library/word%20f.md#forgive)
+![forth](../01-word%20library/word%20f.md#forth)
+![found](../01-word%20library/word%20f.md#found)
+![fox](../01-word%20library/word%20f.md#fox)
+![fridge/refrigerator](../01-word%20library/word%20f.md#fridge/refrigerator)
+![frog](../01-word%20library/word%20f.md#frog)
+![frontier](../01-word%20library/word%20f.md#frontier)
+![gallery](../01-word%20library/word%20g.md#gallery)
+![garbage](../01-word%20library/word%20g.md#garbage)
+![garlic](../01-word%20library/word%20g.md#garlic)
+![gentle](../01-word%20library/word%20g.md#gentle)
+![gesture](../01-word%20library/word%20g.md#gesture)
+![giant](../01-word%20library/word%20g.md#giant)
+![globe](../01-word%20library/word%20g.md#globe)
+![goat](../01-word%20library/word%20g.md#goat)
+![gradually](../01-word%20library/word%20g.md#gradually)
+![gramme](../01-word%20library/word%20g.md#gramme)
+![gravity](../01-word%20library/word%20g.md#gravity)
+![halfway](../01-word%20library/word%20h.md#halfway)
+![handkerchief](../01-word%20library/word%20h.md#handkerchief)
+![handmade](../01-word%20library/word%20h.md#handmade)
+![handwriting](../01-word%20library/word%20h.md#handwriting)
+![hardware](../01-word%20library/word%20h.md#hardware)
+![have](../01-word%20library/word%20h.md#have)
+![has](../01-word%20library/word%20h.md#has)
+![headline](../01-word%20library/word%20h.md#headline)
+![headphone](../01-word%20library/word%20h.md#headphone)
+![headteacher](../01-word%20library/word%20h.md#headteacher)
+![hell](../01-word%20library/word%20h.md#hell)
+![highway](../01-word%20library/word%20h.md#highway)
+![homeland](../01-word%20library/word%20h.md#homeland)
+![hydrogen](../01-word%20library/word%20h.md#hydrogen)
+![illegal](../01-word%20library/word%20i.md#illegal)
+![inn](../01-word%20library/word%20i.md#inn)
+![input](../01-word%20library/word%20i.md#input)
+![instant](../01-word%20library/word%20i.md#instant)
+![institute](../01-word%20library/word%20i.md#institute)
+![invest](../01-word%20library/word%20i.md#invest)
+![IOT/Internet of things](../01-word%20library/word%20I.md#IOT/Internet of things)
+![jazz](../01-word%20library/word%20j.md#jazz)
+![jewellery](../01-word%20library/word%20j.md#jewellery)
+
+
+

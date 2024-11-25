@@ -97,11 +97,11 @@
 
 ### because conj.因为
 
-- I love English *because* English is useful [communication](word%20c.md#communication n.沟通；交流；传递；传达) tool.
+- I love English *because* English is useful [communication](word%20c.md#communication%20n.沟通；交流；传递；传达) tool.
 
 ### because of prep.因为
 
-- *Because* of the bad weather, all flights have been can [cancelled](word%20c.md#cancel v.取消；撤销)
+- *Because* of the bad weather, all flights have been can [cancelled](word%20c.md#cancel%20v.取消；撤销)
 
 ## become
 
@@ -140,7 +140,7 @@
 
 ### behind prep.在……后面
 
-- *Behind* the [campus](#campus) is a [pond](word%20#pond%20n.池塘)
+- *Behind* the [campus](#campus) is a [pond](word%20p.md#pond%20n.池塘)
 	- campus n.校园
 
 ### behind adv.在……后面
@@ -177,7 +177,7 @@
 
 ### beside prep.在……旁边
 
-- There is a lion [lieing](word%20l.md#lie%20v.撒谎；坐落于；平躺)*beside* the tree.
+- There is a lion [lieing](word%20l.md#lie%20v.撒谎；坐落于；平躺) *beside* the tree.
 
 ## besides
 
@@ -289,7 +289,7 @@
 ### born v.出生
 
 - be *born* in 出生在(时间、地点)
-- He was *born* in a [cave](word%20c.md#cave n.洞穴；山洞).
+- He was *born* in a [cave](word%20c.md#cave%20n.洞穴；山洞).
 
 ### born adj.天生的
 
@@ -311,7 +311,7 @@
 
 ### bother v.打扰；使(某人)烦恼
 
-- His talking/#chatting](#chatting)*%20me in the [dorm](#dorm)
+- His talking/[chatting](#chatting) me in the [dorm](#dorm)
 	- chat v.聊天
 
 ### bother n.令人烦恼的情况
@@ -955,3 +955,42 @@
 ### by n.再见
 - =bye.
 - *by* and again
+
+## ban
+### ban n.禁令
+
+- *ban* on smoking/littering.
+
+### ban n.取缔；明令禁止；禁止
+
+## barely
+### barely adv.仅仅；几乎不；勉强可能
+
+## bark
+### bark n.树皮；(狗)吠声
+### bark v.(狗)吠叫
+
+- *bark* at sb/sth
+- be barking up the wrong tree 把方法搞错了(想偏)
+
+
+## behaviour
+### behaviour n.行为；态度；举止
+
+## belief
+### belief n.信心；信仰
+
+- religious *beliefs* 
+
+### belief n.信念；相信
+- Student have firm(adj.坚定的) belief that they will succeed.
+
+## blame
+### blame v.责怪；指责
+
+- be to blame for 对……责任
+
+
+## boost
+### boost v.促进；是增长
+### boost n.提高；增长；帮助；激励

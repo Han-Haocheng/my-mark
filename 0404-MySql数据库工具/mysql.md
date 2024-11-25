@@ -6,7 +6,6 @@ CREATE DATABASE [IF NOT EXISTS] <`db_name`>;
 ```
 
 ## 创建数据表
-
 ```mysql
 CREATE TABLE [IF NOT EXISTS] <`tb_name`>{
   <f>

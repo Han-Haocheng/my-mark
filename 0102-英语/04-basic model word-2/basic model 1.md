@@ -1,0 +1,60 @@
+# basic model 1
+
+	abuse
+	access
+	accompany
+	according
+	advertise
+	advocate
+	affect
+	effect
+	effective
+	effectively
+	effectiveness
+	alert
+	alternative
+	apologise
+	apparently
+	approve
+	arise
+	rise
+	raise
+	raiser
+	arouse
+	arrest
+	asset
+	assumption
+	attain
+	ban
+	barely
+	bark
+
+
+![abuse](../01-word%20library/word%20a.md#abuse)
+![access](../01-word%20library/word%20a.md#access)
+![accompany](../01-word%20library/word%20a.md#accompany)
+![according](../01-word%20library/word%20a.md#according)
+![advertise](../01-word%20library/word%20a.md#advertise)
+![advocate](../01-word%20library/word%20a.md#advocate)
+![affect](../01-word%20library/word%20a.md#affect)
+![effect](../01-word%20library/word%20e.md#effect)
+![effective](../01-word%20library/word%20e.md#effective)
+![effectively](../01-word%20library/word%20e.md#effectively)
+![effectiveness](../01-word%20library/word%20e.md#effectiveness)
+![alert](../01-word%20library/word%20a.md#alert)
+![alternative](../01-word%20library/word%20a.md#alternative)
+![apologise](../01-word%20library/word%20a.md#apologise)
+![apparently](../01-word%20library/word%20a.md#apparently)
+![approve](../01-word%20library/word%20a.md#approve)
+![arise](../01-word%20library/word%20a.md#arise)
+![rise](../01-word%20library/word%20r.md#rise)
+![raise](../01-word%20library/word%20r.md#raise)
+![raiser](../01-word%20library/word%20r.md#raiser)
+![arouse](../01-word%20library/word%20a.md#arouse)
+![arrest](../01-word%20library/word%20a.md#arrest)
+![asset](../01-word%20library/word%20a.md#asset)
+![assumption](../01-word%20library/word%20a.md#assumption)
+![attain](../01-word%20library/word%20a.md#attain)
+![ban](../01-word%20library/word%20b.md#ban)
+![barely](../01-word%20library/word%20b.md#barely)
+![bark](../01-word%20library/word%20b.md#bark)

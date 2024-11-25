@@ -1,0 +1,54 @@
+# basic model 2
+	behaviour
+	belief
+	blame
+	boost
+	candidate
+	category
+	caution
+	certificate
+	chaos
+	cheat
+	chew
+	cite
+	clue
+	collapse
+	combine
+	comfort
+	discomfort
+	comfortable
+	uncomfortable
+	command
+	compete
+	competition
+	competitive
+	competitor
+	competence
+	compose
+
+![behaviour](../01-word%20library/word%20b.md#behaviour)
+![belief](../01-word%20library/word%20b.md#belief)
+![blame](../01-word%20library/word%20b.md#blame)
+![boost](../01-word%20library/word%20b.md#boost)
+![candidate](../01-word%20library/word%20c.md#candidate)
+![category](../01-word%20library/word%20c.md#category)
+![caution](../01-word%20library/word%20c.md#caution)
+![certificate](../01-word%20library/word%20c.md#certificate)
+![chaos](../01-word%20library/word%20c.md#chaos)
+![cheat](../01-word%20library/word%20c.md#cheat)
+![chew](../01-word%20library/word%20c.md#chew)
+![cite](../01-word%20library/word%20c.md#cite)
+![clue](../01-word%20library/word%20c.md#clue)
+![collapse](../01-word%20library/word%20c.md#collapse)
+![combine](../01-word%20library/word%20c.md#combine)
+![comfort](../01-word%20library/word%20c.md#comfort)
+![discomfort](../01-word%20library/word%20d.md#discomfort)
+![comfortable](../01-word%20library/word%20c.md#comfortable)
+![uncomfortable](../01-word%20library/word%20u.md#uncomfortable)
+![command](../01-word%20library/word%20c.md#command)
+![compete](../01-word%20library/word%20c.md#compete)
+![competition](../01-word%20library/word%20c.md#competition)
+![competitive](../01-word%20library/word%20c.md#competitive)
+![competitor](../01-word%20library/word%20c.md#competitor)
+![competence](../01-word%20library/word%20c.md#competence)
+![compose](../01-word%20library/word%20c.md#compose)

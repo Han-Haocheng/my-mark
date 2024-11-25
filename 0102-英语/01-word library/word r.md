@@ -556,3 +556,14 @@
 ### rural adj.乡村的；乡下的
 
 - I prefer the *rural* life to the [urban](#urban) life.
+
+## rise
+### rise v.上涨；上升；升起来
+- sharp *rise* 
+
+## raise 
+### raise v.扶养；养育
+### raise v.增加；提高；提出
+
+## raiser
+### raiser n.饲养者；抚养者

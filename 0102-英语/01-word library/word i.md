@@ -427,3 +427,6 @@
 ## inexperienced
 
 ### inexperienced adj.无经验的
+
+## indecent
+### indecent adj.不合乎礼节的

@@ -1,0 +1,62 @@
+# basic model 3
+
+	comprehension
+	comprehensive
+	conclude
+	conclusion
+	concrete
+	confuse
+	consequence
+	consequently
+	consist
+	consult
+	consultant
+	contemporary
+	contrary
+	conventional
+	convince
+	cooperate
+	correspond
+	correspondent
+	correspondence
+	corresponding
+	crime
+	crisis
+	critical
+	critically
+	criticize
+	cruel
+	dare
+	decent
+	indecent
+
+
+![comprehension](../01-word%20library/word%20c.md#comprehension)
+![comprehensive](../01-word%20library/word%20c.md#comprehensive)
+![conclude](../01-word%20library/word%20c.md#conclude)
+![conclusion](../01-word%20library/word%20c.md#conclusion)
+![concrete](../01-word%20library/word%20c.md#concrete)
+![confuse](../01-word%20library/word%20c.md#confuse)
+![consequence](../01-word%20library/word%20c.md#consequence)
+![consequently](../01-word%20library/word%20c.md#consequently)
+![consist](../01-word%20library/word%20c.md#consist)
+![consult](../01-word%20library/word%20c.md#consult)
+![consultant](../01-word%20library/word%20c.md#consultant)
+![contemporary](../01-word%20library/word%20c.md#contemporary)
+![contrary](../01-word%20library/word%20c.md#contrary)
+![conventional](../01-word%20library/word%20c.md#conventional)
+![convince](../01-word%20library/word%20c.md#convince)
+![cooperate](../01-word%20library/word%20c.md#cooperate)
+![correspond](../01-word%20library/word%20c.md#correspond)
+![correspondent](../01-word%20library/word%20c.md#correspondent)
+![correspondence](../01-word%20library/word%20c.md#correspondence)
+![corresponding](../01-word%20library/word%20c.md#corresponding)
+![crime](../01-word%20library/word%20c.md#crime)
+![crisis](../01-word%20library/word%20c.md#crisis)
+![critical](../01-word%20library/word%20c.md#critical)
+![critically](../01-word%20library/word%20c.md#critically)
+![criticize](../01-word%20library/word%20c.md#criticize)
+![cruel](../01-word%20library/word%20c.md#cruel)
+![dare](../01-word%20library/word%20d.md#dare)
+![decent](../01-word%20library/word%20d.md#decent)
+![indecent](../01-word%20library/word%20i.md#indecent)

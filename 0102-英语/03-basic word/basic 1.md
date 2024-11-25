@@ -1,0 +1,203 @@
+# basic 1
+
+	a/an
+	able
+	about
+	above
+	absent
+	absolutely
+	ache
+	acquire
+	across
+	act
+	active
+	actor
+	actually
+	adapt
+	add
+	addict
+	address
+	admire
+	admit
+	advance
+	adventure
+	advertisement/ad
+	affair
+	afraid
+	after
+	afternoon
+	again
+	age
+	agent
+	ago
+	agree
+	agriculture
+	ahead
+	aid
+	aim
+	air
+	airline
+	airport
+	alarm
+	album
+	alive
+	all
+	allow
+	almost
+	aloud
+	already
+	also
+	always
+	a.m.
+	amazing
+	ambulance
+	among
+	ancient
+	and
+	animal
+	announce
+	annual
+	another
+	answer
+	ant
+	any
+	anybody/anyone
+	anything
+	anyway
+	anywhere
+	apartment
+	appetite
+	apple
+	area
+	arm
+	army
+	around
+	art
+	article
+	as
+	ask
+	at
+	athlete
+	ATM/Automatic Teller Machine
+	audience
+	aunt
+	author
+	autumn/fall
+	away
+	baby
+	back
+	backache
+	bacon
+	bad
+	badminton
+	bag
+	bake
+	ball
+	ballet
+	balloon
+	bamboo
+	banana
+	band
+	bank
+
+## 单词
+
+![a/an](../01-word%20library/word%20a.md#a/an)
+![able](../01-word%20library/word%20a.md#able)
+![about](../01-word%20library/word%20a.md#about)
+![above](../01-word%20library/word%20a.md#above)
+![absent](../01-word%20library/word%20a.md#absent)
+![absolutely](../01-word%20library/word%20a.md#absolutely)
+![ache](../01-word%20library/word%20a.md#ache)
+![acquire](../01-word%20library/word%20a.md#acquire)
+![across](../01-word%20library/word%20a.md#across)
+![act](../01-word%20library/word%20a.md#act)
+![active](../01-word%20library/word%20a.md#active)
+![actor](../01-word%20library/word%20a.md#actor)
+![actually](../01-word%20library/word%20a.md#actually)
+![adapt](../01-word%20library/word%20a.md#adapt)
+![add](../01-word%20library/word%20a.md#add)
+![addict](../01-word%20library/word%20a.md#addict)
+![address](../01-word%20library/word%20a.md#address)
+![admire](../01-word%20library/word%20a.md#admire)
+![admit](../01-word%20library/word%20a.md#admit)
+![advance](../01-word%20library/word%20a.md#advance)
+![adventure](../01-word%20library/word%20a.md#adventure)
+![advertisement/ad](../01-word%20library/word%20a.md#advertisement/ad)
+![affair](../01-word%20library/word%20a.md#affair)
+![afraid](../01-word%20library/word%20a.md#afraid)
+![after](../01-word%20library/word%20a.md#after)
+![afternoon](../01-word%20library/word%20a.md#afternoon)
+![again](../01-word%20library/word%20a.md#again)
+![age](../01-word%20library/word%20a.md#age)
+![agent](../01-word%20library/word%20a.md#agent)
+![ago](../01-word%20library/word%20a.md#ago)
+![agree](../01-word%20library/word%20a.md#agree)
+![agriculture](../01-word%20library/word%20a.md#agriculture)
+![ahead](../01-word%20library/word%20a.md#ahead)
+![aid](../01-word%20library/word%20a.md#aid)
+![aim](../01-word%20library/word%20a.md#aim)
+![air](../01-word%20library/word%20a.md#air)
+![airline](../01-word%20library/word%20a.md#airline)
+![airport](../01-word%20library/word%20a.md#airport)
+![alarm](../01-word%20library/word%20a.md#alarm)
+![album](../01-word%20library/word%20a.md#album)
+![alive](../01-word%20library/word%20a.md#alive)
+![all](../01-word%20library/word%20a.md#all)
+![allow](../01-word%20library/word%20a.md#allow)
+![almost](../01-word%20library/word%20a.md#almost)
+![aloud](../01-word%20library/word%20a.md#aloud)
+![already](../01-word%20library/word%20a.md#already)
+![also](../01-word%20library/word%20a.md#also)
+![always](../01-word%20library/word%20a.md#always)
+![a.m.](../01-word%20library/word%20a.md#a.m.)
+![amazing](../01-word%20library/word%20a.md#amazing)
+![ambulance](../01-word%20library/word%20a.md#ambulance)
+![among](../01-word%20library/word%20a.md#among)
+![ancient](../01-word%20library/word%20a.md#ancient)
+![and](../01-word%20library/word%20a.md#and)
+![animal](../01-word%20library/word%20a.md#animal)
+![announce](../01-word%20library/word%20a.md#announce)
+![annual](../01-word%20library/word%20a.md#annual)
+![another](../01-word%20library/word%20a.md#another)
+![answer](../01-word%20library/word%20a.md#answer)
+![ant](../01-word%20library/word%20a.md#ant)
+![any](../01-word%20library/word%20a.md#any)
+![anybody/anyone](../01-word%20library/word%20a.md#anybody/anyone)
+![anything](../01-word%20library/word%20a.md#anything)
+![anyway](../01-word%20library/word%20a.md#anyway)
+![anywhere](../01-word%20library/word%20a.md#anywhere)
+![apartment](../01-word%20library/word%20a.md#apartment)
+![appetite](../01-word%20library/word%20a.md#appetite)
+![apple](../01-word%20library/word%20a.md#apple)
+![area](../01-word%20library/word%20a.md#area)
+![arm](../01-word%20library/word%20a.md#arm)
+![army](../01-word%20library/word%20a.md#army)
+![around](../01-word%20library/word%20a.md#around)
+![art](../01-word%20library/word%20a.md#art)
+![article](../01-word%20library/word%20a.md#article)
+![as](../01-word%20library/word%20a.md#as)
+![ask](../01-word%20library/word%20a.md#ask)
+![at](../01-word%20library/word%20a.md#at)
+![athlete](../01-word%20library/word%20a.md#athlete)
+![ATM/Automatic Teller Machine](../01-word%20library/word%20a.md#ATM/Automatic%20Teller%20Machine)
+![audience](../01-word%20library/word%20a.md#audience)
+![aunt](../01-word%20library/word%20a.md#aunt)
+![author](../01-word%20library/word%20a.md#author)
+![autumn/fall](../01-word%20library/word%20a.md#autumn/fall)
+![away](../01-word%20library/word%20a.md#away)
+![baby](../01-word%20library/word%20b.md#baby)
+![back](../01-word%20library/word%20b.md#back)
+![backache](../01-word%20library/word%20b.md#backache)
+![bacon](../01-word%20library/word%20b.md#bacon)
+![bad](../01-word%20library/word%20b.md#bad)
+![badminton](../01-word%20library/word%20b.md#badminton)
+![bag](../01-word%20library/word%20b.md#bag)
+![bake](../01-word%20library/word%20b.md#bake)
+![ball](../01-word%20library/word%20b.md#ball)
+![ballet](../01-word%20library/word%20b.md#ballet)
+![balloon](../01-word%20library/word%20b.md#balloon)
+![bamboo](../01-word%20library/word%20b.md#bamboo)
+![banana](../01-word%20library/word%20b.md#banana)
+![band](../01-word%20library/word%20b.md#band)
+![bank](../01-word%20library/word%20b.md#bank)

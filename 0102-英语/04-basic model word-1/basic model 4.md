@@ -1,0 +1,104 @@
+# basic model 4
+
+	joint
+	journalist
+	jungle
+	jury
+	kilometre
+	kingdom
+	lab/laboratory
+	labour
+	lamb
+	landscape
+	laptop
+	laser
+	lawn
+	layer
+	league
+	leather
+	licence
+	lid
+	liquid
+	literary 
+	litre
+	luggage
+	lung
+	mainland
+	mankind
+	maths/mathematics
+	meanwhile
+	melt
+	metre
+	microwave
+	millimetre
+	mineral
+	miracle
+	mirror
+	missile
+	mouse
+	mud
+	murder
+	muscle
+	mushroom
+	needle
+	neighbour
+	net
+	nevertheless
+	nuclear
+	numerous
+	occupation
+	orbit
+	organ
+	organisation
+
+
+![joint](../01-word%20library/word%20j.md#joint)
+![journalist](../01-word%20library/word%20j.md#journalist)
+![jungle](../01-word%20library/word%20j.md#jungle)
+![jury](../01-word%20library/word%20j.md#jury)
+![kilometre](../01-word%20library/word%20k.md#kilometre)
+![kingdom](../01-word%20library/word%20k.md#kingdom)
+![lab/laboratory](../01-word%20library/word%20l.md#lab/laboratory)
+![labour](../01-word%20library/word%20l.md#labour)
+![lamb](../01-word%20library/word%20l.md#lamb)
+![landscape](../01-word%20library/word%20l.md#landscape)
+![laptop](../01-word%20library/word%20l.md#laptop)
+![laser](../01-word%20library/word%20l.md#laser)
+![lawn](../01-word%20library/word%20l.md#lawn)
+![layer](../01-word%20library/word%20l.md#layer)
+![league](../01-word%20library/word%20l.md#league)
+![leather](../01-word%20library/word%20l.md#leather)
+![licence](../01-word%20library/word%20l.md#licence)
+![lid](../01-word%20library/word%20l.md#lid)
+![liquid](../01-word%20library/word%20l.md#liquid)
+![literary ](../01-word%20library/word%20l.md#literary )
+![litre](../01-word%20library/word%20l.md#litre)
+![luggage](../01-word%20library/word%20l.md#luggage)
+![lung](../01-word%20library/word%20l.md#lung)
+![mainland](../01-word%20library/word%20m.md#mainland)
+![mankind](../01-word%20library/word%20m.md#mankind)
+![maths/mathematics](../01-word%20library/word%20m.md#maths/mathematics)
+![meanwhile](../01-word%20library/word%20m.md#meanwhile)
+![melt](../01-word%20library/word%20m.md#melt)
+![metre](../01-word%20library/word%20m.md#metre)
+![microwave](../01-word%20library/word%20m.md#microwave)
+![millimetre](../01-word%20library/word%20m.md#millimetre)
+![mineral](../01-word%20library/word%20m.md#mineral)
+![miracle](../01-word%20library/word%20m.md#miracle)
+![mirror](../01-word%20library/word%20m.md#mirror)
+![missile](../01-word%20library/word%20m.md#missile)
+![mouse](../01-word%20library/word%20m.md#mouse)
+![mud](../01-word%20library/word%20m.md#mud)
+![murder](../01-word%20library/word%20m.md#murder)
+![muscle](../01-word%20library/word%20m.md#muscle)
+![mushroom](../01-word%20library/word%20m.md#mushroom)
+![needle](../01-word%20library/word%20n.md#needle)
+![neighbour](../01-word%20library/word%20n.md#neighbour)
+![net](../01-word%20library/word%20n.md#net)
+![nevertheless](../01-word%20library/word%20n.md#nevertheless)
+![nuclear](../01-word%20library/word%20n.md#nuclear)
+![numerous](../01-word%20library/word%20n.md#numerous)
+![occupation](../01-word%20library/word%20o.md#occupation)
+![orbit](../01-word%20library/word%20o.md#orbit)
+![organ](../01-word%20library/word%20o.md#organ)
+![organisation](../01-word%20library/word%20o.md#organisation)

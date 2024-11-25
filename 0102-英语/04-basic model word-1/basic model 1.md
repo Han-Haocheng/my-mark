@@ -1,0 +1,107 @@
+# basic model 1
+	aboard
+	academic
+	accent
+	acid
+	AD
+	administration
+	AI/artificial intelligence
+	aisle
+	alongside
+	altogether
+	angle
+	ankle
+	anyhow
+	anymore
+	apart
+	architect
+	aside
+	association
+	astronomer 
+	atmosphere
+	auto/automobile
+	backwards
+	bay
+	BC
+	be(am,is,are)
+	beauty
+	being
+	bend
+	bike/bicycle
+	billion
+	bleed
+	bless
+	boil
+	bomb
+	bounce
+	bow
+	brake
+	breast
+	breath
+	brick
+	bride
+	bridegroom
+	bunch
+	bury
+	businessman
+	businesswoman
+	cabbage
+	cabin
+	cage
+	camel
+
+## 单词
+
+
+![aboard](../01-word%20library/word%20a.md#aboard)
+![academic](../01-word%20library/word%20a.md#academic)
+![accent](../01-word%20library/word%20a.md#accent)
+![acid](../01-word%20library/word%20a.md#acid)
+![AD](../01-word%20library/word%20a.md#AD)
+![administration](../01-word%20library/word%20a.md#administration)
+![AI/artificial intelligence](../01-word%20library/word%20a.md#AI/artificial intelligence)
+![aisle](../01-word%20library/word%20a.md#aisle)
+![alongside](../01-word%20library/word%20a.md#alongside)
+![altogether](../01-word%20library/word%20a.md#altogether)
+![angle](../01-word%20library/word%20a.md#angle)
+![ankle](../01-word%20library/word%20a.md#ankle)
+![anyhow](../01-word%20library/word%20a.md#anyhow)
+![anymore](../01-word%20library/word%20a.md#anymore)
+![apart](../01-word%20library/word%20a.md#apart)
+![architect](../01-word%20library/word%20a.md#architect)
+![aside](../01-word%20library/word%20a.md#aside)
+![association](../01-word%20library/word%20a.md#association)
+![astronomer](../01-word%20library/word%20a.md#astronomer)
+![atmosphere](../01-word%20library/word%20a.md#atmosphere)
+![auto/automobile](../01-word%20library/word%20a.md#auto/automobile)
+![backwards](../01-word%20library/word%20b.md#backwards)
+![bay](../01-word%20library/word%20b.md#bay)
+![BC](../01-word%20library/word%20b.md#BC)
+![be(am,is,are)](../01-word%20library/word%20b.md#be(am,is,are))
+![beauty](../01-word%20library/word%20b.md#beauty)
+![being](../01-word%20library/word%20b.md#being)
+![bend](../01-word%20library/word%20b.md#bend)
+![bike/bicycle](../01-word%20library/word%20b.md#bike/bicycle)
+![billion](../01-word%20library/word%20b.md#billion)
+![bleed](../01-word%20library/word%20b.md#bleed)
+![bless](../01-word%20library/word%20b.md#bless)
+![boil](../01-word%20library/word%20b.md#boil)
+![bomb](../01-word%20library/word%20b.md#bomb)
+![bounce](../01-word%20library/word%20b.md#bounce)
+![bow](../01-word%20library/word%20b.md#bow)
+![brake](../01-word%20library/word%20b.md#brake)
+![breast](../01-word%20library/word%20b.md#breast)
+![breath](../01-word%20library/word%20b.md#breath)
+![brick](../01-word%20library/word%20b.md#brick)
+![bride](../01-word%20library/word%20b.md#bride)
+![bridegroom](../01-word%20library/word%20b.md#bridegroom)
+![bunch](../01-word%20library/word%20b.md#bunch)
+![bury](../01-word%20library/word%20b.md#bury)
+![businessman](../01-word%20library/word%20b.md#businessman)
+![businesswoman](../01-word%20library/word%20b.md#businesswoman)
+![cabbage](../01-word%20library/word%20c.md#cabbage)
+![cabin](../01-word%20library/word%20c.md#cabin)
+![cage](../01-word%20library/word%20c.md#cage)
+![camel](../01-word%20library/word%20c.md#camel)
+
+

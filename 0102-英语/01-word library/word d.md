@@ -540,3 +540,16 @@
 
 ### duration n.持续时间；期间
 
+## discomfort
+### discomfort n. 不舒服
+
+## dare
+### dare v.敢于；敢；敢于面对
+- dare to do sth. 
+- He dares to say no to his boss.
+### dare (modal)v.敢于；敢；敢于面对
+- He dare say no to his boss.
+
+## decent
+### decent adj.正派的；得体的；合乎礼节的
+- *decent* behaviors
