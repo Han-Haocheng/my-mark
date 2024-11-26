@@ -1,0 +1,37 @@
+{
+	"nodes":[
+		{"id":"c7caf9d312f7cbd1","type":"group","x":-880,"y":-640,"width":1780,"height":1400,"label":"信息技术与计算机文化"},
+		{"id":"302c2d4f4a8ab877","x":287,"y":-39,"width":400,"height":400,"type":"file","file":"0201-计算机基础/01-信息技术与计算机文化/1.3 计算机的概括.md"},
+		{"id":"f9087e739ed1350c","type":"text","text":"[信息的特征](0201-计算机基础/01-信息技术与计算机文化/1.1%20信息与信息技术.md#信息的特征)","x":-780,"y":-627,"width":250,"height":60},
+		{"id":"3269e1e4d69bee9b","type":"text","text":"[信息](0201-计算机基础/01-信息技术与计算机文化/1.1%20信息与信息技术.md#信息)","x":-500,"y":-627,"width":250,"height":60},
+		{"id":"f288796c60ce2885","type":"text","text":"[信息技术](0201-计算机基础/01-信息技术与计算机文化/1.1%20信息与信息技术.md#信息技术)","x":-500,"y":-420,"width":250,"height":60},
+		{"id":"1827df81bada7199","type":"text","text":"[企业成功的条件](0201-计算机基础/01-信息技术与计算机文化/1.1%20信息与信息技术.md#企业成功的条件)","x":480,"y":-475,"width":250,"height":60},
+		{"id":"74198ce236321f60","type":"text","text":"[IBM公司](1.1%20信息与信息技术.md#IBM公司)","x":480,"y":-415,"width":250,"height":60},
+		{"id":"4f7cd620968babc6","type":"text","text":"[Yahoo雅虎公司](1.1%20信息与信息技术.md#Yahoo雅虎公司)","x":480,"y":-355,"width":250,"height":60},
+		{"id":"dd10f542d46b28f5","type":"text","text":"[信息技术的主导技术](1.1%20信息与信息技术.md#信息技术的主导技术)","x":-140,"y":-450,"width":250,"height":60},
+		{"id":"213b6c72413b5607","type":"text","text":"[信息技术的发展历程](0201-计算机基础/01-信息技术与计算机文化/1.1%20信息与信息技术.md#信息技术的发展历程)","x":-140,"y":-385,"width":250,"height":60},
+		{"id":"38c2fabd95e7b91c","type":"text","text":"[知名企业的兴衰发展](1.1%20信息与信息技术.md#知名企业的兴衰发展)","x":180,"y":-415,"width":250,"height":60},
+		{"id":"ee246f7e9cad4476","type":"text","text":"[信息社会](1.1%20信息与信息技术.md#信息社会)","x":-780,"y":-420,"width":250,"height":60},
+		{"id":"f1f36de77d3bc85c","type":"text","text":"[文化](1.2%20计算机文化.md#文化)","x":-140,"y":-260,"width":250,"height":60},
+		{"id":"c9b50edeaae47052","type":"text","text":"[计算机文化](1.2%20计算机文化.md#计算机文化)","x":-140,"y":-155,"width":250,"height":60},
+		{"id":"44840f83ea4bb8e8","type":"text","text":"[信息与数据的联系](1.1%20信息与信息技术.md#信息与数据的联系)","x":-320,"y":-535,"width":250,"height":60},
+		{"id":"3d4c1415f0d8b063","type":"text","text":"[数据](0201-计算机基础/01-信息技术与计算机文化/1.1%20信息与信息技术.md#数据)","x":-140,"y":-627,"width":250,"height":60},
+		{"id":"fc460b9b0f5b00f5","type":"text","text":"[数据的分类](1.1%20信息与信息技术.md#数据的分类)","x":180,"y":-627,"width":250,"height":60},
+		{"id":"cb07d04f4a0fd154","type":"text","text":"[文化的发展里程碑](1.2%20计算机文化.md#文化#文化的发展里程碑)","x":180,"y":-260,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"44f790ab0c7e2138","fromNode":"3d4c1415f0d8b063","fromSide":"right","toNode":"fc460b9b0f5b00f5","toSide":"left"},
+		{"id":"9c2f25113faa3597","fromNode":"3269e1e4d69bee9b","fromSide":"right","toNode":"44840f83ea4bb8e8","toSide":"top"},
+		{"id":"f87a592e8b0e56b6","fromNode":"3d4c1415f0d8b063","fromSide":"left","toNode":"44840f83ea4bb8e8","toSide":"top"},
+		{"id":"864ac131dca307c8","fromNode":"3269e1e4d69bee9b","fromSide":"bottom","toNode":"f288796c60ce2885","toSide":"top"},
+		{"id":"4b05f4b7e4dd7868","fromNode":"3269e1e4d69bee9b","fromSide":"left","toNode":"f9087e739ed1350c","toSide":"right"},
+		{"id":"c57da5778caed9c8","fromNode":"f288796c60ce2885","fromSide":"right","toNode":"dd10f542d46b28f5","toSide":"left"},
+		{"id":"28ec63dab647ed8b","fromNode":"f288796c60ce2885","fromSide":"right","toNode":"213b6c72413b5607","toSide":"left"},
+		{"id":"85d93c6eb559266a","fromNode":"38c2fabd95e7b91c","fromSide":"right","toNode":"74198ce236321f60","toSide":"left"},
+		{"id":"3367a312adc1ab16","fromNode":"38c2fabd95e7b91c","fromSide":"right","toNode":"4f7cd620968babc6","toSide":"left"},
+		{"id":"afb43f0dab159366","fromNode":"38c2fabd95e7b91c","fromSide":"right","toNode":"1827df81bada7199","toSide":"left"},
+		{"id":"82e677623b0a836a","fromNode":"3269e1e4d69bee9b","fromSide":"bottom","toNode":"ee246f7e9cad4476","toSide":"top"},
+		{"id":"aee1a94b9479418b","fromNode":"f1f36de77d3bc85c","fromSide":"right","toNode":"cb07d04f4a0fd154","toSide":"left"},
+		{"id":"40ecf24efa3f063c","fromNode":"f1f36de77d3bc85c","fromSide":"bottom","toNode":"c9b50edeaae47052","toSide":"top"}
+	]
+}
