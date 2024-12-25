@@ -54,7 +54,7 @@
 ### specific adj.具体的；特定的；独特的
 
 - *specific* [explanation](#explanation)/[tasks](#task)
-- to be *specific* = [[#specifically]] 具体而言
+- to be *specific* = [[specifically]] 具体而言
 - [Anger](#anger) has no *specific* [reason](#reason)
 
 ## spread
@@ -250,7 +250,7 @@
 
 ## suggest
 ### suggest v.建议；提议
-- The doctor *suggests* that he should [[#retire]] [earlier](#earlier)
+- The doctor *suggests* that he should [[retire]] [earlier](#earlier)
 ### suggest v.表明；提议
 - His facial [expression](#expression) a *suggests* that he is [stressed](#stress)
 ## suggestion
@@ -749,7 +749,7 @@
 
 ## safeguard
 ### safeguard v.保障；保护
-- *safeguard* women and girls [#against](.md#against)%20[violence](.md#violence).
+- *safeguard* women and girls [against](.md#against) [violence](.md#violence).
 
 ### safeguard n.保护措施
 

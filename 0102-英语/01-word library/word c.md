@@ -8,7 +8,7 @@
 - I'm *considering* buying a [NEV](#NEV).
 	- NEV n.新能源汽车
 - *consider* sth. as 把……视为；认为
-- I *consider* the [exam](word%20e#exam/examination%20n.检查；审查；(仔细的)检验；调查；考察；考查) as a [challenge](#challenge%20n.挑战).
+- I *consider* the [exam](word e#exam/examination n.检查；审查；(仔细的)检验；调查；考察；考查) as a [challenge](#challenge n.挑战).
 - all things *considered* 通盘考虑；从各方面考虑
 - *considering* that 鉴于；考虑到……
 
@@ -44,7 +44,7 @@
 	- harvest n.收获；收割
 	- price n.价格
 	- sharply adv.急剧的
-- The [debt](word%20d.md#debt%20n.债务；借款；人情债) *caused* her a lot of problems.
+- The [debt](word d.md#debt n.债务；借款；人情债) *caused* her a lot of problems.
 
 ## cook
 
@@ -81,8 +81,8 @@
 
 ## capable
 
-- [capability n.能力；性能](#capability%20n.能力；性能)
-- [incapable adj.无能力的](#incapable%20adj.无能力的)
+- [capability n.能力；性能](#capability n.能力；性能)
+- [incapable adj.无能力的](#incapable adj.无能力的)
 
 ### capable adj.有能力的；有才能的
 
@@ -116,7 +116,7 @@
 
 ### case n.案件；案例
 
-- [civil](word%20c.md#civil%20adj.公民的；民事的；文明的；平民的；国民的；有礼貌的)*case* 民事案件
+- [civil](word c.md#civil adj.公民的；民事的；文明的；平民的；国民的；有礼貌的)*case* 民事案件
 - [criminal](#criminal) *case* 刑事案件
 	- criminal adj.刑事的
 - *case* teaching 案例教学法
@@ -140,7 +140,7 @@
 
 ### catch v.引起；激发(兴趣，想象，注意等)
 
-- *catch* one's [interest](#interest)/[imagination](#imagination)/[attention](word%20a#attention%20n.关注；注意力)
+- *catch* one's [interest](#interest)/[imagination](#imagination)/[attention](word a#attention n.关注；注意力)
 	- interest n.兴趣
 	- imagination n.想象
 
@@ -177,7 +177,7 @@
 
 - golden *chance* 黄金机会
 - *chances* are that sth. 可能...
-- Being [confident](word%20c.md#confident%20adj.自信的；把握) can [increase](#increase) the chance to win
+- Being [confident](word c.md#confident adj.自信的；把握) can [increase](#increase) the chance to win
 
 ## change
 
@@ -185,7 +185,7 @@
 
 ### change n.变化；改变；找给的零钱
 
-- With traveling [expenses](word%20e.md#expenses) [rising](#rising) , she had to *change* all her plans for the [tour](#tour)
+- With traveling [expenses](word e.md#expenses) [rising](#rising) , she had to *change* all her plans for the [tour](#tour)
 	- expenses n.经费
 	- tour n.旅行
 
@@ -230,7 +230,7 @@
 
 ### chief adj.主要的；首要的；最重要的
 
-- My *chief* [challenge](#challenge%20n.挑战)is how to [memories](#memories) words.
+- My *chief* [challenge](#challenge n.挑战)is how to [memories](#memories) words.
 
 ## claim
 
@@ -278,7 +278,7 @@
 
 ### collect v.收藏
 
-- *collect* [antique](word%20a.md#antique%20n.古董；文物；古物；古玩)/[vase](word%20v.md#vase%20n.花瓶)/[stamps](#stamps)
+- *collect* [antique](word a.md#antique n.古董；文物；古物；古玩)/[vase](word v.md#vase n.花瓶)/[stamps](#stamps)
 	- stamps n.邮票
 
 ### collect v.募捐；聚积
@@ -364,7 +364,7 @@
 ### concentrate v.集中；专心
 
 - *concentrate* on 集中注意力
-- You should *concentrate* your [attention](word%20a.md#attention%20n.关注；注意力) on your study.
+- You should *concentrate* your [attention](word a.md#attention n.关注；注意力) on your study.
 
 ## concentration
 
@@ -403,7 +403,7 @@
 
 ### conduct n.行为；举止
 
-- code](#code%20n.行为规范；道德准则)of *conduct* 行为规范
+- code](#code n.行为规范；道德准则)of *conduct* 行为规范
 
 ### conduct v.实施；组织；执行
 
@@ -514,7 +514,7 @@
 
 ### contract v.(使)收缩；缩小；感染(疾病)
 
-- People found to their [horror](#horror) that 2/3 of the [adult](word%20a.md#adult%20n.成年人) [population](word%20p.md#population) in that [area](#area) has *contract* AIDS.
+- People found to their [horror](#horror) that 2/3 of the [adult](word a.md#adult n.成年人) [population](word p.md#population) in that [area](#area) has *contract* AIDS.
 	- horror n.恐惧；惊骇
 	- population n.人口
 	- area n.地区
@@ -529,7 +529,7 @@
 - We *contributed* $5000 to the [earthquake](#earthquake) [fund](#fund).
 	- earthquake n.地震
 	- fund n.基金
-- As we know [fresh](#fresh) air, [nutrition](#nutrition) food and exercise *contribute* to better health.[attribute](word%20a#attribute%20v.归因于).add.
+- As we know [fresh](#fresh) air, [nutrition](#nutrition) food and exercise *contribute* to better health.[attribute](word a#attribute v.归因于).add.
 	- fresh adj.新鲜的
 	- nutrition n.营养的
 	- exercise n.运动
@@ -560,7 +560,7 @@
 
 ### count v.计数
 
-- Don't *count* chickens [before](word%20d.md#before%20conj.在……以前；到……之前) they are [hatched](#hatched).
+- Don't *count* chickens [before](word d.md#before conj.在……以前；到……之前) they are [hatched](#hatched).
 	- hatch v.孵化
 
 ### count v.重要
@@ -581,7 +581,7 @@
 
 - in/over the *course* of = time/[period](#period)
 	- period n.学期
-- He's seen many [changes](word%20c.md#change%20n.变化；改变；找给的零钱) in the *course* of the opening and [reform](#reform).
+- He's seen many [changes](word c.md#change n.变化；改变；找给的零钱) in the *course* of the opening and [reform](#reform).
 	- reform n.改革
 
 ## credit
@@ -594,7 +594,7 @@
 
 ### credit n.学分
 
-- English [course](#course%20n.课程)is worth 4 *credits* in this [term](#term)/[semester](#semester)
+- English [course](#course n.课程)is worth 4 *credits* in this [term](#term)/[semester](#semester)
 	- term n.学期
 	- semester n.学期
 
@@ -615,7 +615,7 @@
 
 ### cure n.治疗；措施；对策
 
-- Because [smoking](.\..md#smoking)hem good [think#thinker](.\..md#thinker) elaxed](#think#thinker](.\..md#thinker)elaxed),%20is#relaxed](.\..md#relaxed)* them of [cancer](.\..md#cancer)
+- Because [smoking](.\..md#smoking)hem good [think#thinker](.\..md#thinker) elaxed](#think#thinker](.\..md#thinker)elaxed), is#relaxed](.\..md#relaxed)* them of [cancer](.\..md#cancer)
 	- smoking n.吸烟
 	- thinker n.思考者；思想家
 	- relaxed adj.放松的
@@ -1468,7 +1468,7 @@
 
 ### consequently  adv.结果是；后果是
 
-The husband abused(v.虐待) his wife and children.*Consequently*, he was [arrested](#arrest%20v.逮捕；拘留).
+The husband abused(v.虐待) his wife and children.*Consequently*, he was [arrested](#arrest v.逮捕；拘留).
 
 ## consist
 ### consist v.包括；组成

@@ -7,7 +7,7 @@
 
 
 ## CMAKE管理项目的工作流
-![](../attachment/png/Pasted%20image%2020241122163009.png)
+![](../../attachment/png/Pasted%20image%2020241122163009.png)
 
 - **CMake time(configure time)**：是CMake运行时的情况，CMake将处理并配置项目中的`CMakeLists.txt`文件
 - **Generation time**：将生成本地构建工具所需的脚本，以执行项目中的后续步骤

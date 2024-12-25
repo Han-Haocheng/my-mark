@@ -97,20 +97,20 @@
 
 ### because conj.因为
 
-- I love English *because* English is useful [communication](word%20c.md#communication%20n.沟通；交流；传递；传达) tool.
+- I love English *because* English is useful [communication](word c.md#communication n.沟通；交流；传递；传达) tool.
 
 ### because of prep.因为
 
-- *Because* of the bad weather, all flights have been can [cancelled](word%20c.md#cancel%20v.取消；撤销)
+- *Because* of the bad weather, all flights have been can [cancelled](word c.md#cancel v.取消；撤销)
 
 ## become
 
 ### become v.变成；成为；开始变得
 
-- After [graduation](#graduation),she%20*becomes* a [housewife](#housewife).
+- After [graduation](#graduation),she *becomes* a [housewife](#housewife).
 	- graduation n.毕业
 	- housewife n.家庭主妇
-- You'd better put on a [sweater](#sweater) in [case](word%20c#case%20n.情况)it should *become* cold.
+- You'd better put on a [sweater](#sweater) in [case](word c#case n.情况)it should *become* cold.
 	- sweater n.毛衣
 - It was become more anal more difficult to liveon hissalary
 
@@ -132,7 +132,7 @@
 
 - *begin* to do sth.=*begin* doing sth.
 - Class *begins*
-- The [pipe](#pipe)%20*begin* [leaking](#leaking)
+- The [pipe](#pipe) *begin* [leaking](#leaking)
 	- pipe n.管道
 	- leak v.渗漏；漏水
 
@@ -140,7 +140,7 @@
 
 ### behind prep.在……后面
 
-- *Behind* the [campus](#campus) is a [pond](word%20p.md#pond%20n.池塘)
+- *Behind* the [campus](#campus) is a [pond](word p.md#pond n.池塘)
 	- campus n.校园
 
 ### behind adv.在……后面
@@ -177,7 +177,7 @@
 
 ### beside prep.在……旁边
 
-- There is a lion [lieing](word%20l.md#lie%20v.撒谎；坐落于；平躺) *beside* the tree.
+- There is a lion [lieing](word l.md#lie v.撒谎；坐落于；平躺) *beside* the tree.
 
 ## besides
 
@@ -210,7 +210,7 @@
 
 ### beyond prep.非能力之所及
 
-- The [situation](#situation)%20was *beyond* my [control](#control).
+- The [situation](#situation) was *beyond* my [control](#control).
 	- situation n.局面；情况
 
 ## bite
@@ -289,7 +289,7 @@
 ### born v.出生
 
 - be *born* in 出生在(时间、地点)
-- He was *born* in a [cave](word%20c.md#cave%20n.洞穴；山洞).
+- He was *born* in a [cave](word c.md#cave n.洞穴；山洞).
 
 ### born adj.天生的
 
@@ -355,7 +355,7 @@
 - *break* away 脱离
 - *break* up (关系)破碎；(使)破碎
 - *break* off 折断；突然终止
-- *break* [vase](word%20v.md#vase%20n.花瓶)/[mirror](word%20m.md#mirror%20n.镜子)
+- *break* [vase](word v.md#vase n.花瓶)/[mirror](word m.md#mirror n.镜子)
 - *break* the world [record](#record)
 	- record n.记录
 - *break* heart 使心碎
@@ -424,7 +424,7 @@
 
 ### broken adj.破碎的
 
-- *broken* [vase](word%20v.md#vase%20n.花瓶)/[mirror](word%20m.md#mirror%20n.镜子)/marriage
+- *broken* [vase](word v.md#vase n.花瓶)/[mirror](word m.md#mirror n.镜子)/marriage
 	- marriage n.婚姻
 
 ### broken adj.说话结巴的

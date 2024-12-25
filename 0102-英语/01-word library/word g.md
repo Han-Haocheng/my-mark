@@ -5,7 +5,7 @@
 
 ### get v.让
 
-- to get angry/[#bored](.\..md#bored)y/fat
+- to get angry/[bored](.\..md#bored)y/fat
 
 ## grow
 
@@ -29,7 +29,7 @@
 
 ### go v.变成；变为；变得（坏的方面）
 
-- This milk has *gone* [#sour](.\..md#sour)
+- This milk has *gone* [sour](.\..md#sour)
 
 ## gap
 

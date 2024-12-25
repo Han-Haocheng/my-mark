@@ -13,11 +13,11 @@
 
 ### feel v.感觉
 
-- The heat made him *feel* [#faint](.\..md#faint)
-- She sounded more [#confident](.\..md#confident)*felt*
+- The heat made him *feel*  [faint](.\..md#faint)
+- She sounded more  [confident](.\..md#confident)*felt*
 - I was *feeling* guilty
 - You'll *feel* better after a good night's sleep
-- She *felt* [#betrayed](.\..md#betrayed)
+- She *felt*  [betrayed](.\..md#betrayed)
 - I *feel* sorry for him
 
 ## find
@@ -53,8 +53,8 @@
 
 ## familiar
 
-- [#familiarity](.\..md#familiarity)
-- [#unfamiliarity](.\..md#unfamiliarity)
+-  [familiarity](.\..md#familiarity)
+-  [unfamiliarity](.\..md#unfamiliarity)
 
 ### familiar adj.熟悉的
 

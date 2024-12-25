@@ -19,7 +19,8 @@
     {trigger:"ii",replacement:"\\mathbf{i}", options: "mA"},
     {trigger:"jj",replacement:"\\mathbf{j}", options: "mA"},
     {trigger:"kk",replacement:"\\mathbf{k}", options: "mA"},
-
+    {trigger:"ln",replacement:"\\ln{$0}$1", options: "mA"},
+    
     {trigger:"\\equiv=",replacement:"\\xlongequal{$0}$1", options: "mA"},
     {trigger:"====",replacement:"\\xlongequal{$0}$1", options: "mA"},
     

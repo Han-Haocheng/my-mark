@@ -17,14 +17,14 @@
 
 ## accept
 
-- [acceptance](#acceptance%20n.认可)
+- [acceptance](#acceptance n.认可)
 
 ### accept v. 接受（建议、要求）；认可
 
 - Please *accept* our [sincere](#sincere) [apologies](#apologies)
 	- [sincere](#sincere) adj. 诚实的, 正直的, 真挚的, 纯净的
 	- [apologies](#apologies) n. 道歉, 抱歉, 抱怨, 道歉书
-- I *accept* you [advice](#advice%20n.建议；忠告；劝告)/[suggestions](#suggestions.md).
+- I *accept* you [advice](#advice n.建议；忠告；劝告)/[suggestions](#suggestions.md).
 	- [suggestion](#suggestion) n.建议（可数）
 - The couple *accepted* my invitation.
 - I do hope all of you will *accept* my teaching style.
@@ -42,7 +42,7 @@
 
 - car *accident* 交通事故
 
-- Researchers have [estimated](#estimated) that as many as 80% of all [automobile](#automobile)*accidents* can be [attributed](#attribute%20v.归因于) to [condition](word%20c.md#condition%20n.条件；物质环境) [psychological](#psychological) of the driver.
+- Researchers have [estimated](#estimated) that as many as 80% of all [automobile](#automobile)*accidents* can be [attributed](#attribute v.归因于) to [condition](word c.md#condition n.条件；物质环境) [psychological](#psychological) of the driver.
 	- estimate v. 估计；估算
 	- automobile n. 汽车；v. 开汽车；坐汽车；adj. 自动的
 	- psychological adj. 心理的；心灵的；精神上的
@@ -52,10 +52,10 @@
 ### account v. 认为是；视为
 
 - *account* for 解释；说明；是……的原因
-- take...into *account* = take ... into [consideration](word%20c.md#consideration%20n.考虑；原因)把……考虑进去
+- take...into *account* = take ... into [consideration](word c.md#consideration n.考虑；原因)把……考虑进去
 - on *account* of 由于
-- His [laziness](word%20l.md#laziness%20n.懒惰) *accounts* for his [failure](word%20f.md#failure%20n.失败)
-- On *account* of [terrible](#terrible) the [cancel](word%20c#cancel%20v.取消；撤销) [flight](#flight).
+- His [laziness](word l.md#laziness n.懒惰) *accounts* for his [failure](word f.md#failure n.失败)
+- On *account* of [terrible](#terrible) the [cancel](word c#cancel v.取消；撤销) [flight](#flight).
 	- [terrible](#terrible) adj. 恶劣的
 	- [flight](#flight) n.航班
 
@@ -70,7 +70,7 @@
 - *achieve* one's dream
 
 - I [must](#must) *achieve* my dreams
-- I can *achieve* my [goals](word%20g#goal%20n.目标；目的).
+- I can *achieve* my [goals](word g#goal n.目标；目的).
 
 ## achievement
 
@@ -114,12 +114,12 @@
 
 ## advantage
 
-- [disadvantage](word%20d.md#disadvantage)
+- [disadvantage](word d.md#disadvantage)
 
 ### advantage n.优点；有利条件
 
 - gain *advantage* over 比……有优势
-- My boyfriend has many *advantages* and [disadvantages](#disadvantage%20n.缺点；不利条件)
+- My boyfriend has many *advantages* and [disadvantages](#disadvantage n.缺点；不利条件)
 - Living in [urban](#urban) areas has many *advantages*
 	- [urban](#urban) n. 城市
 
@@ -165,9 +165,9 @@
 
 ## alike
 
-- [unlike prep.和……不一样](#unlike%20prep.和……不一样)
-- [dislike n.不喜欢](#dislike%20n.不喜欢)
-- [likely adj.可能的](#likely%20adj.可能的)
+- [unlike prep.和……不一样](#unlike prep.和……不一样)
+- [dislike n.不喜欢](#dislike n.不喜欢)
+- [likely adj.可能的](#likely adj.可能的)
 
 ### alike adj.相像的；十分相似的
 
@@ -196,7 +196,7 @@ adv.（与某人）一道；一起
 
 ### although conj. 虽然；尽管
 
-- *Although* the girl is [pretty](#pretty), I [dislike](word%20d.md#dislike%20n.不喜欢) her
+- *Although* the girl is [pretty](#pretty), I [dislike](word d.md#dislike n.不喜欢) her
 	- pretty adj.美丽的；漂亮的
 - *Although* he work hard, he makes no [progress](#progress)
 	- progress n. 进展；进步
@@ -260,15 +260,15 @@ adv.（与某人）一道；一起
 
 ### appear v. 看起来像
 
-- [seem v.好像；似乎](word%20s.md#seem%20v.好像；似乎)
-- [look v.看起来](word%20l.md#look%20v.看起来)
+- [seem v.好像；似乎](word s.md#seem v.好像；似乎)
+- [look v.看起来](word l.md#look v.看起来)
 
-- The girl *appears* [angry](#angry%20adj.生气的；愤怒的)
+- The girl *appears* [angry](#angry adj.生气的；愤怒的)
 
 ## apply
 
-- [application n.运用；申请](#application%20n.运用；申请)
-- [applicant n.申请人](#applicant%20n.申请人)
+- [application n.运用；申请](#application n.运用；申请)
+- [applicant n.申请人](#applicant n.申请人)
 
 ### apply v.应用；运用
 
@@ -288,8 +288,8 @@ adv.（与某人）一道；一起
 
 ## applicant
 
-- [assistant n.助理](#assistant%20n.助理)
-- [consultant n.顾问](#consultant%20n.顾问)
+- [assistant n.助理](#assistant n.助理)
+- [consultant n.顾问](#consultant n.顾问)
 
 ### applicant n.申请人
 
@@ -363,7 +363,7 @@ adv.（与某人）一道；一起
 
 ## appreciate
 
-- [appreciation n.感激](#appreciation%20n.感激)
+- [appreciation n.感激](#appreciation n.感激)
 
 ### appreciate v.感激；感谢
 
@@ -381,9 +381,9 @@ adv.（与某人）一道；一起
 
 ### approach v.接近；靠近
 
-- come v.成为；变成；变得](word%20c.md#come v.成为；变成；变得)
+- come v.成为；变成；变得](word c.md#come v.成为；变成；变得)
 
-- By the second [semester](#semester), she [adjusted](word%20a#adjust%20v.调整；调节) her teaching *approach* to [grab](#grab) student's [attention](#attention%20n.关注；注意力).
+- By the second [semester](#semester), she [adjusted](word a#adjust v.调整；调节) her teaching *approach* to [grab](#grab) student's [attention](#attention n.关注；注意力).
 	- semester n.学期
 	- grab v.吸引
 - The fall/autumn is *approaching*
@@ -410,13 +410,13 @@ adv.（与某人）一道；一起
 
 ## arrange
 
-- [arrangement n.安排](#arrangement%20n.安排)
+- [arrangement n.安排](#arrangement n.安排)
 
 ### arrange v.安排；布置
 
 - *arrange* for sth
 - *arrange* to do sth
-- The teacher are [busy](#busy) *arranging* for the [approaching](#approach%20v.接近；靠近)exams.
+- The teacher are [busy](#busy) *arranging* for the [approaching](#approach v.接近；靠近)exams.
 	- busy adj.繁忙的
 
 ## arrangement
@@ -435,7 +435,7 @@ adv.（与某人）一道；一起
 - Last night *arrived* in Beijing Train Station.
 - Last night *arrived* at ZhangQiu Station
 
-- The woman isn't sur when the train wall *arrive*.The train was [caught](word%20c.md#catch%20v.接住；拦住)in an [accident](#accident%20n.事故；意外；偶然事件).
+- The woman isn't sur when the train wall *arrive*.The train was [caught](word c.md#catch v.接住；拦住)in an [accident](#accident n.事故；意外；偶然事件).
 	- caught v.陷入
 
 ## asleep
@@ -565,7 +565,7 @@ adv.（与某人）一道；一起
 ### attitude n.态度
 
 - *Attitude* is everything 态度决定一切
-- What's the [author](#author) *attitude* [toward](#toward) [automobile](#auto/automobile%20n.汽车)? [negative](#negative).[positive](#positive).[neutral](#neutral).[Indifferent](#Indifferent).
+- What's the [author](#author) *attitude* [toward](#toward) [automobile](#auto/automobile n.汽车)? [negative](#negative).[positive](#positive).[neutral](#neutral).[Indifferent](#Indifferent).
 	- author n.作者
 	- toward prep.对于
 	- negative adj.消极的
@@ -641,9 +641,9 @@ adv.（与某人）一道；一起
 
 - *avoid* [conflicts](#conflicts)
 	- conflict n.冲突
-- Please *avoid* [leaving](word%20l.md#leaving%20v.遗弃) [litter](#litter)
+- Please *avoid* [leaving](word l.md#leaving v.遗弃) [litter](#litter)
 	- litter n.垃圾
-- Students should *avoid* [leaving](word%20l.md#leaving%20v.遗弃)litter
+- Students should *avoid* [leaving](word l.md#leaving v.遗弃)litter
 
 ## awake
 
@@ -676,13 +676,13 @@ adv.（与某人）一道；一起
 
 ### aware adj.意识到的
 
-- [unaware adj.没有意识到](#unaware%20adj.没有意识到)
-- [awareness n.意识；认识](#awareness%20n.意识；认识)
+- [unaware adj.没有意识到](#unaware adj.没有意识到)
+- [awareness n.意识；认识](#awareness n.意识；认识)
 
 - be *aware* of + 名词
 - be *aware* that + 句子
-- We are *aware* our own [advantages](#advantage%20n.优点；有利条件)
-- I am *aware* that I made a [mistake](word%20m.md#mistake)
+- We are *aware* our own [advantages](#advantage n.优点；有利条件)
+- I am *aware* that I made a [mistake](word m.md#mistake)
 
 ## awareness
 
