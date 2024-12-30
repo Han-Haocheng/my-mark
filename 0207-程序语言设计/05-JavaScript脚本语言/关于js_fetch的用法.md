@@ -1,5 +1,5 @@
 ---
-tags: journal
+tags: []
 begin: none
 ---
 # 日记
