@@ -16,12 +16,21 @@ FROM #类型/日记
 ```dataview
 TASK
 FROM "0001-日记"
-WHERE date(file.name)=date(today) and !completed
+WHERE file.cday=date(today) and !completed
 ```
 
 ## 全部任务
 
+### 未完成
+
 ```dataview
 TASK
 WHERE !completed and !contains(file.path,"0001-日记")
+```
+
+### 已完成
+
+```dataview
+TASK
+WHERE completed and !contains(file.path,"0001-日记")
 ```

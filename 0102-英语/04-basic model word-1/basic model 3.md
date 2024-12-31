@@ -99,7 +99,7 @@
 ![instant](../01-word%20library/word%20i.md#instant)
 ![institute](../01-word%20library/word%20i.md#institute)
 ![invest](../01-word%20library/word%20i.md#invest)
-![IOT/Internet of things](../01-word%20library/word%20I.md#IOT/Internet of things)
+![IOT/Internet of things](../01-word%20library/word%20I.md#IOT/Internet%20of%20things)
 ![jazz](../01-word%20library/word%20j.md#jazz)
 ![jewellery](../01-word%20library/word%20j.md#jewellery)
 
