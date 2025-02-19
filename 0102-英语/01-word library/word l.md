@@ -15,7 +15,7 @@
 
 ### look v.看起来
 
-- *look* [pale](.md#pale)/happy/tired
+- *look* [pale](#pale)/happy/tired
 - she *looks* silly.
 - That book *looks* instrasting
 
@@ -51,7 +51,7 @@
 
 ### lie v.处于；保留
 
-- These [machines](.\..md#machines) in [idle](.\..md#idle) factory closed
+- These [machines](#machines) in [idle](#idle) factory closed
 
 ### lie v.撒谎；坐落于；平躺
 
@@ -182,7 +182,7 @@
 
 ## lonely
 
-- [loneliness](.md#loneliness)
+- [loneliness](#loneliness)
 
 ### lonely adj.孤单的；寂寞的
 

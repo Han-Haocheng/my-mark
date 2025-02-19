@@ -225,7 +225,7 @@
 
 ### method n.方法；办法；措施
 
-- [Compared's](.\..md#Compared) *method* in study,hers is more [effective](.\..md#effective)
+- [Compared's](#Compared) *method* in study,hers is more [effective](#effective)
 
 ## minute
 
@@ -233,7 +233,7 @@
 
 - 5 hours 5 *minutes* 5 seconds
 - the minute... 一……就……
-- I will pay a  [visit](.\..md#visit) old friend the *minute* she comes back from  [abroad](#abroad)
+- I will pay a  [visit](#visit) old friend the *minute* she comes back from  [abroad](#abroad)
 
 ### minute adj.微小的；详细的；细微的；极小的
 
@@ -248,15 +248,15 @@
 
 ### missing v.错过(机会)；赶不上(交通工具)
 
-- Study hard or you will *miss* the golden  [chance](.\..md#chance)
-- The boy gets up earlier this morning for   [fear](.\..md##fear) he should *miss* the train.
+- Study hard or you will *miss* the golden  [chance](#chance)
+- The boy gets up earlier this morning for   [fear](##fear) he should *miss* the train.
 
 ## mistake
 
 ### mistake n.错误
 
 - make a minute mistake
-- I kept telling him to  [avoid](.\..md#avoid)g the same spelling *mistake* in his [ [com [composition](.\..md#composition)
+- I kept telling him to  [avoid](#avoid)g the same spelling *mistake* in his [ [com [composition](#composition)
 	- composition n.作文
 
 ## mobile
@@ -302,14 +302,14 @@
 
 - The spy was *monitored* by the police.
 	- spy n.间谍
-- Parents can add money to children's accounts,set [limits](.\..md#limits) *monitor* [transactions](.\..md#transactions)
+- Parents can add money to children's accounts,set [limits](#limits) *monitor* [transactions](#transactions)
 	- transaction n.交易(行为)
 
 ## moreover
 
 ### moreover adv.此外；而且
 
-- The boy works hard.*Moreover*,he is very  [intelligent](.\..md#intelligent)
+- The boy works hard.*Moreover*,he is very  [intelligent](#intelligent)
 
 ## mainland
 

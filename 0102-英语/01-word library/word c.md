@@ -615,7 +615,7 @@
 
 ### cure n.治疗；措施；对策
 
-- Because [smoking](.\..md#smoking)hem good [think#thinker](.\..md#thinker) elaxed](#think#thinker](.\..md#thinker)elaxed), is#relaxed](.\..md#relaxed)* them of [cancer](.\..md#cancer)
+- Because [smoking](#smoking)hem good [think#thinker](#thinker) elaxed](#think#thinker](#thinker)elaxed), is#relaxed](#relaxed)* them of [cancer](#cancer)
 	- smoking n.吸烟
 	- thinker n.思考者；思想家
 	- relaxed adj.放松的

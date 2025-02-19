@@ -54,7 +54,7 @@
 ### specific adj.具体的；特定的；独特的
 
 - *specific* [explanation](#explanation)/[tasks](#task)
-- to be *specific* = [[specifically]] 具体而言
+- to be *specific* = [[#specifically]] 具体而言
 - [Anger](#anger) has no *specific* [reason](#reason)
 
 ## spread
@@ -250,7 +250,7 @@
 
 ## suggest
 ### suggest v.建议；提议
-- The doctor *suggests* that he should [[retire]] [earlier](#earlier)
+- The doctor *suggests* that he should [[#retire]] [[#earlier|earlier]]
 ### suggest v.表明；提议
 - His facial [expression](#expression) a *suggests* that he is [stressed](#stress)
 ## suggestion
@@ -533,7 +533,7 @@
 
 ### sound v.听起来
 
-- His voice *sounded* [strange](.md#strange) on the phone
+- His voice *sounded* [strange](#strange) on the phone
 
 
 
@@ -749,7 +749,7 @@
 
 ## safeguard
 ### safeguard v.保障；保护
-- *safeguard* women and girls [against](.md#against) [violence](.md#violence).
+- *safeguard* women and girls [against](#against) [violence](#violence).
 
 ### safeguard n.保护措施
 
@@ -759,20 +759,20 @@
 ### sample n.样本
 ### sample v.采样；取样
 ### sample 品尝；尝试；体验
-- *sample* the [specialty](.md#specialty) foods
+- *sample* the [specialty](#specialty) foods
 
 ## satisfy
 
 ### satisfy v.使满意；使满足
 
-- The [common](.md#common) life could not *satisfy* the girl.
+- The [common](#common) life could not *satisfy* the girl.
 - to *satisfy*/meet the needs/demands of 为了满足……的需求
 
 ## satisfaction
 ### satisfaction n.满足；满意；欣慰
 
 - to sb's *satisfaction* 使某人满意的是
-- To the teacher's *satisfaction* students made greater [progress](.md#progress).
+- To the teacher's *satisfaction* students made greater [progress](#progress).
 
 ## satisfactory
 
@@ -803,7 +803,7 @@
 - before *schedule* 提前
 - on *schedule* 按时；准时
 - behind *schedule* 落后
-- The project is [completed](.md#completed) on *schedule*
+- The project is [completed](#completed) on *schedule*
 
 ### schedule v.按排；为……按排时间
 
@@ -815,17 +815,17 @@
 ### score n.成绩；比分
 
 ### score v.得分
-- The student *scored* [below](.md#below) 40 in the exam.
+- The student *scored* [below](#below) 40 in the exam.
 ### score v.评分
 
 
 ## secret
 ### secret n.秘密
 
-- Keep it a *secret* about your [private](.md#private) life.
+- Keep it a *secret* about your [private](#private) life.
 
 ### secret n.秘诀；诀窍
-- = [tips](.mdtips)
+- = [[#tips|tips]]
 - Here are some *secrets* of learning English well.
 
 ### secret adj.保密的；秘密的
@@ -835,12 +835,12 @@
 
 - *seek* for
 - hide and *seek* 躲猫猫；捉迷藏
-- The police are *seeking* for the [lost](.md#lost) boy.
+- The police are *seeking* for the [lost](#lost) boy.
 
 ### seek v.寻求；谋求；争取
 
-- *seek* [truth](.md#truth) 寻求真理
-- *seek* [employment](.md#employment) 求职
+- *seek* [truth](#truth) 寻求真理
+- *seek* [employment](#employment) 求职
 - job-seeker 求职者
 
 

@@ -4,7 +4,7 @@
 
 ### keep v.让……保持
 
-- We [huddled](.\..md#huddled) to keep warm.
+- We [huddled](#huddled) to keep warm.
 
 ## kilometre
 

@@ -5,7 +5,7 @@
 
 ### prove v.后来被发现是；证明是
 
-- The  [opposition](.md#opposition) proved too strong for him
+- The  [opposition](#opposition) proved too strong for him
 
 ## promise
 
@@ -25,7 +25,7 @@
 
 ### particular adj.格外的；特别的
 
-- pay *particular*  [attention](.md#attention) to your being  [excessively](.md#excessively) [overweight](.md#overweight).
+- pay *particular*  [attention](#attention) to your being  [excessively](#excessively) [overweight](#overweight).
 	- excessively adv.过分地
 
 ### particular adj.挑剔的
@@ -50,7 +50,7 @@
 
 ### passport n.护照
 
-- The possession of a *passport* is [essential](.md#essential) for  [foreign](.md#foreign) travel.
+- The possession of a *passport* is [essential](#essential) for  [foreign](#foreign) travel.
 	- possession
 
 ## password
@@ -63,12 +63,12 @@
 
 ### patient n.病人
 
-- The nurse takes care of the *patient*  [attentively](.md#attentively).
+- The nurse takes care of the *patient*  [attentively](#attentively).
 	- attentively adv.精心地；专心地
 
 ### patient adj.有耐心的；有能耐的
 
-- Be *patient* and [calm](.md#calm) when  [tutoring](.md#tutoring)your children.
+- Be *patient* and [calm](#calm) when  [tutoring](#tutoring)your children.
 	- tutoring v.辅导
 
 ## patience
@@ -82,7 +82,7 @@
 
 ### perform v.执行；履行
 
-- *perform* a  [task](.md#task)/ [obligation](.md#obligation)
+- *perform* a  [task](#task)/ [obligation](#obligation)
 	- task n.任务
 	- obligation n.职责
 
@@ -90,7 +90,7 @@
 
 ### perform v.做
 
-- *perform* an  [experiment](.md#experiment)
+- *perform* an  [experiment](#experiment)
 	- experiment n.实验
 
 ## performance
@@ -101,15 +101,15 @@
 
 ### permit v/vi.允许；准许
 
-- If weather *permits*, we will go  [camping](.md#camping).
+- If weather *permits*, we will go  [camping](#camping).
 	- camp n.野营
 - *permit* sth./doing sth.
-- My boss doesn't *permit* my  [resignation](.md#resignation).
+- My boss doesn't *permit* my  [resignation](#resignation).
 	- resignation n.辞职
-- The school doesn't *permit* talking aloud in  [dormitory](.md#dormitory).
+- The school doesn't *permit* talking aloud in  [dormitory](#dormitory).
 	- dormitory n.宿舍
 - *permit* sb to do sth.允许某人做某事
-- My dad *permits* me to smoke  [heavily](.md#heavily).
+- My dad *permits* me to smoke  [heavily](#heavily).
 	- heavily adv.
 
 ## persuade
@@ -126,11 +126,11 @@
 
 ### physical adj.身体的
 
-- *physical*/ [mental](.md#mental)/ [psychological](.md#psychological) health
+- *physical*/ [mental](#mental)/ [psychological](#psychological) health
 	- mental adj.精神的
 	- psychological adj.心理的
 - *physical* exercise
-- My  [Opinions](.md#Opinions) on *Physical* Exercise
+- My  [Opinions](#Opinions) on *Physical* Exercise
 
 ### physical adj.物理学的
 
@@ -153,7 +153,7 @@
 
 ### politely adv.有礼貌地
 
-- The boy  [nodded](.md#nodded) *politely*
+- The boy  [nodded](#nodded) *politely*
 	- nodded vi.点头
 
 
@@ -166,7 +166,7 @@
 
 ### pollution (U)n.污染
 
-- water/ [soil](.md#soil)/air *pollution*
+- water/ [soil](#soil)/air *pollution*
 	- soil n.土壤
 - The air *pollution* there did great harm to my health.
 
@@ -195,11 +195,11 @@
 
 ### positive adj.积极乐观的
 
-- What is the author's [attitude](.md#attitude) toward  [automobiles](.md#automobiles)? [Negative](.md#Negative)/*Positive*/ [Neutral](.md#Neutral)/ [Indifferent](.md#Indifferent).
+- What is the author's [attitude](#attitude) toward  [automobiles](#automobiles)? [Negative](#Negative)/*Positive*/ [Neutral](#Neutral)/ [Indifferent](#Indifferent).
 
 ### positive adj.阳性的
 
-- The test of  [virus](.md#virus) is *positive*.
+- The test of  [virus](#virus) is *positive*.
 	- virus n.病毒
 
 ## postpone
@@ -207,9 +207,9 @@
 ### postpone v.延迟；延期
 
 - *postpone* doing sth./sth.
-- =  [delay](.md#delay) doing sth.
+- =  [delay](#delay) doing sth.
 - = put off doing sth.
-- The lovers  [decided](.md#decided) to *postpone* holding their  [wedding](.md#wedding) [ceremony](.md#ceremony).
+- The lovers  [decided](#decided) to *postpone* holding their  [wedding](#wedding) [ceremony](#ceremony).
 	- ceremony n.仪式
 	- wedding n.结婚
 
@@ -221,7 +221,7 @@
 
 ### practical adj.切实可行的
 
-- take *practical* and [feasible](.md#feasible) [measures](.md#measures) to [protect](.md#protect)/keep the [environment](.md#environment) from being  [polluted](.md#polluted).
+- take *practical* and [feasible](#feasible) [measures](#measures) to [protect](#protect)/keep the [environment](#environment) from being  [polluted](#polluted).
 	- feasible adj.可行的
 
 ## practically
@@ -243,7 +243,7 @@
 ### praise v.赞扬；赞美；表扬
 
 - *praise* sb. for doing sth.
-- The lady was *praised* for her  [bravery](.md#bravery).
+- The lady was *praised* for her  [bravery](#bravery).
 	- bravery n.勇敢
 - Parents should *praise* their kids for telling the truth.
 
@@ -252,7 +252,7 @@
 ### precaution n.预防措施
 
 - *precautions* against sth.
-- We should [adopt](.md#adopt) *precautions* against  [campus](.md#campus) [violence](.md#violence).
+- We should [adopt](#adopt) *precautions* against  [campus](#campus) [violence](#violence).
 	- adopt v.采取
 	- campus n.校园
 	- violence n.暴力
@@ -262,14 +262,14 @@
 ### prefer v.更喜欢
 
 - *prefer* to do sth.
-- I *prefer* to be alone/ [solitary](.md#solitary)
+- I *prefer* to be alone/ [solitary](#solitary)
 	- socialize n.社交
 - *prefer* doing sth. to doing sth.
-- I *prefer* living in  [rural](.md#rural) areas to living in  [urban](.md#urban)areas.
+- I *prefer* living in  [rural](#rural) areas to living in  [urban](#urban)areas.
 	- rural adj.乡村的
 	- urban adj.城市的
 - *prefer* to do sth. rather than do sth.
-- I *prefer* to be alone rather than  [socialize](.md#socialize)
+- I *prefer* to be alone rather than  [socialize](#socialize)
 	- socialize n.社交
 
 ## preference
@@ -312,7 +312,7 @@
 ### present adj.出席的；在场的
 
 - 后置定语
--  [guests](.md#guests) present at the meeting
+-  [guests](#guests) present at the meeting
 	- guest n.嘉宾
 
 ### present v.提出；展现；显示；表现
@@ -322,7 +322,7 @@
 ### prevent ｖ．阻止；预防
 
 - *prevent* sth. from sth.
-- *Preventing* the  [environment](.\..md#environment) polluted is our  [duty](.\..md#duty)
+- *Preventing* the  [environment](#environment) polluted is our  [duty](#duty)
 	- duty n.责任
 
 ## prevention
@@ -348,11 +348,11 @@
 
 ### primary adj.最初的；最早的
 
-- *primary*  [stage](.md#stage)
+- *primary*  [stage](#stage)
 
 ### primary adj.初等教育的；小学教育的
 
-- *primary* school/teacher/ [education](.md#education)
+- *primary* school/teacher/ [education](#education)
 
 ## private
 
@@ -535,13 +535,13 @@ a.（含）蛋白质的
 
 ### profit v.从……中受益
 
-- Students *profit* from the  [reform](.md#reform).
+- Students *profit* from the  [reform](#reform).
 
 ## profitable
 
 ### profitable adj.收益的；获益的；有益处的
 
-- Morning  [exercise](.md#exercise) is *profitable*.
+- Morning  [exercise](#exercise) is *profitable*.
 
 
 
@@ -553,39 +553,39 @@ a.（含）蛋白质的
 
 ### progress v.进展；进步
 
-- The  [experiment](.md#experiment) *progresses* will.
+- The  [experiment](#experiment) *progresses* will.
 	- experiment n.实验
 
-- Most of the  [freshmen](.md#freshmen) in our college have made *progress* in their study of English.
+- Most of the  [freshmen](#freshmen) in our college have made *progress* in their study of English.
 	- freshmen n.大一新生
 
 ## promise
 
 ### promise v.许诺；保证；承诺
 
-- I *promise* that I will  [marry](.md#marry) you.
+- I *promise* that I will  [marry](#marry) you.
 
 ### promise n.承诺；诺言；迹象
 
 - make a promise
-- The boy made a *promise* that he would  [marry](.md#marry) the girl.
-- The boy shows the *promise* that he will  [succeed](.md#succeed).
+- The boy made a *promise* that he would  [marry](#marry) the girl.
+- The boy shows the *promise* that he will  [succeed](#succeed).
 
 ## promote
 
 ### promote v.促进；推动
 
-- We must efforts](.md#spare]] no word e#effort n.尽力)to *promote* quality educational [reform](word e.md#effort n.尽力) to *promote* quality educational reform
+- We must efforts](#spare]] no word e#effort n.尽力)to *promote* quality educational [reform](word e.md#effort n.尽力) to *promote* quality educational reform
 	- spare v.抽出
 
 ### promote v.促销；推销
 
-- The [company](.md#company) is busy *promoting* the  [local](.md#local) [agricultural](.md#agricultural)  [products](.md#products).
+- The [company](#company) is busy *promoting* the  [local](#local) [agricultural](#agricultural)  [products](#products).
 	- agricultural adj.农业的
 
 ### promote v.(职务)晋升
 
-- The  [diligent](.md#diligent) young man got *promoted* to the vice president position.
+- The  [diligent](#diligent) young man got *promoted* to the vice president position.
 
 ## promotion
 
@@ -597,16 +597,16 @@ a.（含）蛋白质的
 
 - *propose* sth. educational reform
 - *propose* that
-- Teachers *propose* that higher [education](.md#education) should be  [reformed](.md#reformed).
+- Teachers *propose* that higher [education](#education) should be  [reformed](#reformed).
 
 ## proposal
 
 ### proposal n.建议；提议
 
-- I *propose* that education should be  [reformed](.md#reformed).
-- It is *proposed* that education should be  [reformed](.md#reformed).
-- My *proposal* is that education should be  [reformed](.md#reformed).
-- My *proposal* that education should be [reformed](.md#reformed) is  [rational](.md#rational).
+- I *propose* that education should be  [reformed](#reformed).
+- It is *proposed* that education should be  [reformed](#reformed).
+- My *proposal* is that education should be  [reformed](#reformed).
+- My *proposal* that education should be [reformed](#reformed) is  [rational](#rational).
 
 ## protect
 
@@ -614,7 +614,7 @@ a.（含）蛋白质的
 
 - Parents *protect* their children.
 - *protect* A from B
-- It is our [duty](.\..md#duty) to *protect* the environment from polluted.
+- It is our [duty](#duty) to *protect* the environment from polluted.
 
 ## protector
 
@@ -635,7 +635,7 @@ a.（含）蛋白质的
 ### protest v.抗议；反对
 
 - *protest* against doing sth.
-- Student *protest* against food [price](.md#price) sex discrimination [shocked]([.md#shock) the government.
+- Student *protest* against food [price](#price) sex discrimination [[#shock|shocked]] the government.
 	- shocked adj.使震惊
 	- discrimination n.歧视
 - Students *protest* on the playground.
@@ -644,7 +644,7 @@ a.（含）蛋白质的
 
 ### prove v.证实；证明
 
-- The  [scientist](.md#scientist) *proved* that the earth is round.
+- The  [scientist](#scientist) *proved* that the earth is round.
 - The experiment *proves* that the earth is round.
 
 ### prove v.证明是
@@ -664,34 +664,34 @@ a.（含）蛋白质的
 - *provide* sb. with sth.
 - *provide* sth. for sb.
 
-- Parents *provide* us with [mental](.md#mental) and  [material](.md#material) [supports](.md#supports)
+- Parents *provide* us with [mental](#mental) and  [material](#material) [supports](#supports)
 	- mental adj.精神的
 	- material adj.物质的
 
 - *providing* that 只要；条件是
 - *provided* that 只要；条件是
 
-- *Providing* that you work hard, your will make greater  [progress](.md#progress).
+- *Providing* that you work hard, your will make greater  [progress](#progress).
 
 ## publish
 
 ### publish v.出版；发表
 
-- *publish* a  [linguistic](.md#linguistic) book/a paper
+- *publish* a  [linguistic](#linguistic) book/a paper
 	- linguistic adj.语言学的
-- The [findings](.md#findings) were *published* in the  [Journal](.md#Journal)Nature.
+- The [findings](#findings) were *published* in the  [Journal](#Journal)Nature.
 	- findings n.研究结果
 	- journal n.期刊
-- The [findings](.\..md#findings) *published* in the  [Journa](#Journal)
+- The [findings](#findings) *published* in the  [Journa](#Journal)
 
 ### publish v.公布；发布
 
-- *publish* the [results](.md#results) of  [investigation](.md#investigation)
+- *publish* the [results](#results) of  [investigation](#investigation)
 	- investigation n.调查
 
 ### publish v.发行
 
-- *publish*  [currency](.md#currency)
+- *publish*  [currency](#currency)
 	- currency n.货币
 
 ## punish
@@ -699,7 +699,7 @@ a.（含）蛋白质的
 ### punish v.惩罚；处罚
 
 - punish the boy
-- [Traffic](.\..md#Traffic) [violators](.\..md#violators) *punished* [severely](.\..md#severely)
+- [Traffic](#Traffic) [violators](#violators) *punished* [severely](#severely)
 	- violators n.违反者
 	- severely adv.严厉地
 - *punish* A for B
@@ -717,7 +717,7 @@ a.（含）蛋白质的
 ### purchase v.购买
 
 - =buy
-- The school has *purchased* a large [quantity](.md#quantity) of teaching  [facilities](.md#facilities).
+- The school has *purchased* a large [quantity](#quantity) of teaching  [facilities](#facilities).
 	- quantity n.数量
 	- facility n.设备
 
@@ -726,13 +726,13 @@ a.（含）蛋白质的
 ### purpose n.意图；目的；目标
 
 - life *purpose*
-- The *purpose* of the  [experiment](.md#experiment)...
+- The *purpose* of the  [experiment](#experiment)...
 - sb. purpose is to do
 - His purpose is to make money.
 
 ## preview
-- [view](.md#view)
-- [review](.md#review)
+- [view](#view)
+- [review](#review)
 
 ### preview v.预习
 

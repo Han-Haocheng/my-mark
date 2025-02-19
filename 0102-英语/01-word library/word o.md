@@ -15,7 +15,7 @@
 - *offer* sth.
 - *offer* a job/the help
 - *offer* sb. sth.
-- American universities generally do not *offer* financial](financial.md) [assistance](.md#assistance).
+- American universities generally do not *offer* financial](financial.md) [assistance](#assistance).
 	- financial adj.经济的
 	- assistance n.援助
 
@@ -47,7 +47,7 @@
 
 ### observe v.观察；看
 
-- The [kids](.\..md#kids) *observing* the [ants](.\..md#ants) in the [yard](#yard)
+- The [kids](#kids) *observing* the [ants](#ants) in the [yard](#yard)
 	- kid n.孩子
 	- ant n.蚂蚁
 	- yard n.院子
@@ -55,7 +55,7 @@
 ### observe v.遵守
 
 - =abide by 遵守；服从
-- We must *observe* the [traffic](.md#traffic)  [laws](.md#laws)and [regulations](.md#regulations).
+- We must *observe* the [traffic](#traffic)  [laws](#laws)and [regulations](#regulations).
 	- traffic 交通
 	- law n.法律
 	- regulation n.规章
@@ -63,7 +63,7 @@
 ### observe v.庆祝
 
 - =celebrate
-- People are *observing* the [festival](.md#festival).
+- People are *observing* the [festival](#festival).
 
 ## observation
 
@@ -73,14 +73,14 @@
 
 ### obvious adj.明显的；显然的
 
-- His [mistakes](.md#mistakes) is *obvious*.
+- His [mistakes](#mistakes) is *obvious*.
 	- mistake n.错误
 
 ## obviously
 
 ### obviously adv.明显地
 
-- *Obviously*, he made a [mistake](.md#mistake).
+- *Obviously*, he made a [mistake](#mistake).
 
 ## occur
 
@@ -99,7 +99,7 @@
 
 ### operate v.操作
 
-- *operate* the [milling](.md#milling) [machine](.md#machine)
+- *operate* the [milling](#milling) [machine](#machine)
 	- milling n.铣床
 
 ### operate v.经营；营业
@@ -115,19 +115,19 @@
 ### opinion (C)n.意见；想法；看法
 
 - *opinion* about/of/on sb./sth.
-- My *Opinions* on [campus](.md#campus) Love/NEVS.关于校园爱情/新能源电车的看法
-- His *opinion* is [rational](.md#rational) that the more words one memorizes, the better it is.
+- My *Opinions* on [campus](#campus) Love/NEVS.关于校园爱情/新能源电车的看法
+- His *opinion* is [rational](#rational) that the more words one memorizes, the better it is.
 	- rational adj.合理的；理性的
 
 ## opposite
 
 ### opposite adj.相反的；对面的
 
-- My [opinion](.md#opinion) is *opposite*.
+- My [opinion](#opinion) is *opposite*.
 
 ### opposite n.反面；对立面；对立的人(物)
 
-- Students listen to their teachers [attentively](.\..md#attentively) *posites* often [occur](.\..md#occur)
+- Students listen to their teachers [attentively](#attentively) *posites* often [occur](#occur)
 	- attentively adv.专心地
 
 ### opposite prep.与……相对；在……对面
@@ -140,11 +140,11 @@
 
 ### option n.选择
 
-- have no *option*/choice/[alternative](.md#alternative) but to do sth. 没有选择只能做
+- have no *option*/choice/[alternative](#alternative) but to do sth. 没有选择只能做
 
 ### option n.选修课
 
-- *optional* course <==> [compulsory](.md#compulsory) course
+- *optional* course <==> [compulsory](#compulsory) course
 
 ## ordinary
 
